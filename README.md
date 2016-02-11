@@ -1,4 +1,4 @@
 # AquinasOperaOmnia
-Mirror of http://dhspriory.org/thomas/, [St. Thomas Aquinas](http://www.encyclopedia.com/topic/Saint_Thomas_Aquinas.aspx#1)'s complete works (most bilingual, Latin-English)
+Mirror of http://dhspriory.org/thomas/, the complete works of [**St. Thomas Aquinas**](http://www.encyclopedia.com/topic/Saint_Thomas_Aquinas.aspx#1), mostly bilingual, [Latin](http://www.u.arizona.edu/~aversa/latin/)-English. It also includes a [Calibre](https://calibre-ebook.com/)-generated e-book, OperaOmnia.epub.
 
-See also http://www.home.duq.edu/~bonin/thomasbibliography.html for a continually-updated bibliography of Aquinas in English.
+For his complete works in [Latin](http://www.u.arizona.edu/~aversa/latin/), see [CorpusThomisticum.org](http://www.corpusthomisticum.org/iopera.html). See also [Thérèse Bonin's continually-updated bibliography of Aquinas in English](http://www.home.duq.edu/~bonin/thomasbibliography.html).
