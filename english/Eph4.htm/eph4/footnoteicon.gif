@@ -1,0 +1,1603 @@
+<html>
+<head>
+<title>Thomas Aquinas: Ephesians 4: English</title>
+<meta http-equiv="content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript" language="javascript">
+var gAgent = navigator.userAgent.toLowerCase()
+var gWindows = ( (gAgent.indexOf( "win" ) != -1 ) || ( gAgent.indexOf( "16bit" ) != -1 ) )
+var gIE = ( gAgent.indexOf( "msie" ) != -1 )
+var bInlineFloats = ( gWindows && gIE && ( parseInt( navigator.appVersion ) >= 4 ) )
+var floatwnd = 0
+
+var WPFootnote1 = '<span class="WPNormal"><p>&#8220;World&#8221; is here taken in a negative sense, as an enemy of God, cf. note 41 above.</p>\
+</span>'
+
+var WPFootnote2 = '<span class="WPNormal"><p><i>De Natura Boni, </i>Ch. 3 (P.L. 42, 553). Translated by A. Newman in N.P.N.F. Vol. 4, 1887, p. 352. As St. Thomas\
+interprets these in <i>S.T.</i> I, 5, 5, measure (&#8220;modus&#8221;) refers to the prerequisites of a being, for instance, sub-atomic\
+particles are prerequisites for the chemical elements. Form (&#8220;species&#8221;) is what the being is, its immanent\
+intelligibility, cf. note 37 above. Order (&#8220;ordo&#8221;) refers to an inclination in a being to achieve a goal, produce an act,\
+or the like, e.g., the unstable chemical elements possess an &#8220;ordo&#8221; toward forming compounds. The balanced\
+harmony (&#8220;tranquillitas&#8221;) which results from the proper interplay of these three is by no means equivalent to static\
+immobility; it often is very dynamic. These three aspects of a being admit of a wide variety of applications on many\
+levels. On the plane of human existence and its relation to God, sin destroys the proper unfolding of man&#8217;s &#8220;ordo&#8221;\
+toward God and so disrupts the harmony in the measure, form and order of grace (<i>S.T.</i> I-I, 85, 4). Contrariwise,\
+God&#8217;s redeeming love for man and man&#8217;s response in love effects a true harmony or peace (<i>ibid.</i>, II-II, 29, 1-4). St.\
+Thomas remarks that this balanced harmony &#8220;is achieved when each possesses what is proper to himself&#8221; because\
+diversity is an essential element in the building up of the Body of Christ (1 Cor. 12:1 ff.; and Ch. 4, Lect. 4 below).\
+St. Augustine&#8217;s immediate application of measure, form, and order, are to the good, but Aquinas uses them in a\
+definition of peace in view of Augustine&#8217;s reflections in <i>The City of God</i>, XIX, 13 (cf. <i>S.T.</i> II-II, 29, 1 ad 1).</p>\
+</span>'
+
+var WPFootnote3 = '<span class="WPNormal"><p>&#8220;Constituting what neither are separately&#8221; translates &#8220;tertium constituentium.&#8221; The body and soul constitute what\
+neither of them are in isolation, a man, cf. <i>S.T.</i> I, 75. The human soul is the central intelligibility unifying man&#8217;s\
+physical, chemical, biological, psychological and intellectual multiplicity. For St. Thomas&#8217; teaching in summary\
+form, cf. Longergan, &#8220;Me Concept of <i>Verbum </i>in the Writings of St. Thomas Aquinas,&#8221; <i>T.S.</i> Sept. 1946, pp. 366-68.\
+For a contemporary formulation, cf. his <i>Insight, pp. </i>431-37, 514-20.</p>\
+</span>'
+
+var WPFootnote4 = '<span class="WPNormal"><p>&#160;The Piana-Cai has either a variant or a misprint: reading as &#8220;<i>spem </i>speratam&#8221; instead of the Parma&#8217;s &#8220;<i>rem\
+</i>speratam.&#8221;</p>\
+</span>'
+
+var WPFootnote5 = '<span class="WPNormal"><p>&#8220;This is the Catholic faith...&#8221; are among the opening and closing words of the Athanasian Creed. It was composed\
+in the fourth or fifth century and ascribed to St. Athanasius because of its forthright and exact Trinitarian and\
+Christological doctrine. On &#8220;habit of faith&#8221; cf. notes 7, 50 and 51 above.</p>\
+</span>'
+
+var WPFootnote6 = '<span class="WPNormal"><p>Cf. note 10 above.</p>\
+</span>'
+
+var WPFootnote7 = '<span class="WPNormal"><p>Among the &#8220;auctoritates&#8221; which theology appeals to in support of its positions, Holy Scripture naturally holds the\
+primary place. Other authorities are Conciliar or Papal decisions and the Church Fathers, cf. <i>S.T.</i> 1, 1, 8; S.C.G. I,\
+9; on Patristic authority in St. Thomas, cf. G. Greenen, &#8220;Saint Thomas et les p&egrave;res&#8221; <i>D.T.C. </i>15-A, col. 738-61. For\
+a brief treatment of the use of authorities in the Middle Ages, cf. Chenu, <i>Introduction </i><i>&agrave; l&#8217;&eacute;tude de saint Thomas\
+d&#8217;Aquin</i>, pp. 109-25.</p>\
+</span>'
+
+var WPFootnote8 = '<span class="WPNormal"><p>&#160;In Eph. 4:8 St. Paul quotes from the Septuagint version of Ps.67:19. The Hebrew Massoretic text and the Vulgate\
+read, &#8220;thou hast received gifts among men.&#8221;</p>\
+</span>'
+
+var WPFootnote9 = '<span class="WPNormal"><p>The doctrine of the Hypostatic Union, as formulated in the Councils of Chalcedon (451 A.D.) and II\
+Constantinople (553), teaches that the Divine Nature and Human Nature of Christ are united in the unity of the\
+Second Person of the Blessed Trinity. &#8220;Nature&#8221; signifies <i>what </i>something is, whereas &#8220;person&#8221; signifies <i>he who </i>has\
+such and such a nature. Thus the union of two natures could not occur in one or the other of the natures themselves\
+since they are mutually exclusive, humanity is not divinity and vice versa. But the two natures can be united in the\
+<i>Person who </i>thereby possesses two natures, cf. <i>S.T.</i> III, 2, 2-3. In the next two sentences some editions of the Parma\
+omit the words, &#8220;He who ascends is the Son of Man, raising human nature&#8221; and simply have &#8220;For he who descended,\
+as was said, is the Son of God taking on human nature to the preeminence of immortal life.&#8221;</p>\
+</span>'
+
+var WPFootnote10 = '<span class="WPNormal"><p>&#160;Cf. note 33 above. The reference here is to Chapters 5 and 6 of the <i>Ecclesiastica Hierarchia </i>(P.G. 3, 505 ff.). By\
+&#8220;state of perfection&#8221; St. Thomas is not referring to the technically theological sense of &#8220;status perfectionis,&#8221; by which\
+the Episcopacy and religious institutes are designated. He is rather referring to the more general sense in which all\
+Christians who strive to perfect their love of God and men are in a state or condition of perfection, cf. <i>S.T.</i> II-II, 184,\
+1-3. The role of religious institutes and the Episcopacy is to give certain types of external expression to this inner\
+search for, and attainment of, the perfection of love, <i>ibid., </i>184, 4 ff. For men need to express their love and worship\
+externally, <i>ibid., </i>27, 6 ad 3; 30, 4 ad 1; 81, 7; 84, 2.</p>\
+</span>'
+
+var WPFootnote11 = '<span class="WPNormal"><p>&#160;The Vulgate text St. Thomas is quoting reads: &#8220;Consummatio abbreviata inundabit justitiam. Consummationem\
+enim, et abbreviationem Dominus Deus exercituum faciet.&#8221; In his commentary on Isaias 10:22-23 St. Thomas takes\
+the literal meaning of &#8220;consummatio abbreviata&#8221; as referring to the destruction of Jerusalem and Judaea by\
+Sennacherib. Modern biblical scholars tend to agree; the new Confraternity Edition translates the difficult Hebrew\
+passage: &#8220;Their destruction is decreed, as overwhelming justice demands. Yes, the destruction he has decreed, the\
+Lord, the God of hosts, will carry out within the whole land.&#8221; Aquinas also notes there <i>(Comm. In Is. </i>10:22) that in\
+Rom. 9:27-29 this same passage is used in reference to those who will be saved, the remnant; it could be in this sense\
+that he is quoting it here. Aquinas also notes that in the Septuagint it reads &#8220;an abbreviated word&#8221; (<i>logon suntelon</i>)<i>\
+</i>instead of &#8220;a consumption abridged.&#8221; Following Patristic exegesis, be sees this as either a reference to the Gospel\
+as a summation of perfection (cf. Mt. 22:40), or to the Word Incarnate who, in himself, sums up all that had been\
+revealed through many prophets, cf. H. de Lubac, S.J., <i>Ex&eacute;g&egrave;se m&eacute;di&eacute;vale, </i>(Paris: Aubier, 1961) 2-18, pp. 181-97).\
+Thus, here he could be saying that the evangelical character of the Church&#8217;s ministry will share in the Gospel&#8217;s\
+perfecting power. Most likely, in quoting this passage of Isaias Aqinas had all of these nuances in mind, for the\
+&#8220;perfecting of the saints&#8221; translates &#8220;ad consummationem sanctorum&#8221; so that the occurrence of &#8220;consummatio&#8221; in\
+Is. 10:22 suggested itself. On this use of parallel texts and verbal association in Aquinas&#8217; exegesis, cf. Spicq, <i>op. cit.,\
+</i>703, 721.</p>\
+</span>'
+
+var WPFootnote12 = '<span class="WPNormal"><p>The &#8220;speaking with tongues&#8221; St. Paul is here referring to should not be confused with the Pentecostal &#8220;gift of\
+tongues&#8221; (Ac. 2:1-13) which possibly meant that the first disciples spoke, or were understood in, other languages,\
+cf. <i>S.T.</i> II-II, 176, 1. (This has been called into question by no less an authority than S. Lyonnet, S.J., who holds that\
+the Pentecostal &#8220;gift of tongues&#8221; was also a question of prayer and not of preaching, cf. <i>Verbum Domini</i>, Vol. 24<i>\
+</i>(1944), pp. 65-7,5). The phenomenon of &#8220;glossolalia&#8221; mentioned here and in 1 Cor. 14 was the utterance of\
+unintelligible sounds or incoherent words during an ecstatic state. Hence Paul&#8217;s insistence that this charisma should\
+not dominate the liturgical assembly unless someone was present who had the gift of interpreting the sounds so that\
+those present could receive some instruction.</p>\
+</span>'
+
+var WPFootnote13 = '<span class="WPNormal"><p>In Scripture the eagle is a symbol of the saints or heavenly beings (cf. Ez. 1:10; 10:14; Apoc. 4:7) whose life has\
+been renewed (cf. Is. 40:31; Ps. 103:5).</p>\
+</span>'
+
+var WPFootnote14 = '<span class="WPNormal"><p>&#160;In Gal. 4:1 St. Paul says that all men under the Old Covenant were like a young boy who is an heir (and they were\
+heirs to the New Covenant) and yet is under tutors (the Old Law) until Christ comes. Since the &#8220;body of the Church\
+is made up of men who existed from the beginning of the world until its end&#8221; (<i>S.T.</i> III, 8, 3c) it also underwent this\
+gradual development. And it grows now as new members are, brought into it.</p>\
+</span>'
+
+var WPFootnote15 = '<span class="WPNormal"><p>St. Thomas is here referring to a supposed incident in the death of Arius as related by St. Athanasius in his <i>De\
+Morte Arii, </i>(P.G. 25 col. 688). Like the death of Judas recorded in Acts 1:18, Arius was suddenly stricken down,\
+either from a fall or a swelling (the Greek Athanasius uses is exactly that of Acts 1:18), and his abdomen burst\
+asunder&#8212;&#8220;crepuit medius.&#8221; Historians see no reason to deny that Arius died suddenly, cf. G. Bardy in <i>Histoire de\
+l&#8217;Eglise, </i>t. 3 (Bloud et Gay, 1947) p. 113; but the details are certainly tendentious. Aquinas&#8217; harshness with Arius\
+is probably due to the storm of controversy and political intrigue involved in the spread of his heretical teaching. He\
+was condemned at Alexandria in 321 and at Nicea in 325 for denying the Divinity of the Word. Without a distinction\
+between Nature and Person, he could not grasp how the Son is as fully God is the Father. Hence he held that the\
+Word is God&#8217;s first and most perfect creature <i>(ktima, poiema), </i>created from nothing. Nicea countered this with its\
+belief that the Word is consubstantial (<i>homoousion</i>) with the Father. Despite the condemnation, Arius&#8217; doctrine and\
+influence spread widely due mostly to the active support of the emperors Constantius II and Valens, as well as his\
+subtle use of the Greek terminology involved to bypass the orthodox formulations.</p>\
+</span>'
+
+var WPFootnote16 = '<span class="WPNormal"><p>On charity as the form of all the supernatural virtues, cf. note 12 above. For the &#8220;truth&#8221; of virtue in which a man\
+acts in conformity with his natural and supernatural existence, cf. <i>S.T.</i> I, 16, 4 ad 3.</p>\
+</span>'
+
+var WPFootnote17 = '<span class="WPNormal"><p>&#160;The words &#8220;binding force which flows out from each member according to the degree of grace given him, and\
+also through the actual&#8221; are an interpolation made by Remigius Nannini, O.P., in his edition of 1562. He claimed\
+that &#8220;compositionem ab unoquoque membro egredientem, secundum mensurain gratiae sibi datae, et actualem&#8221; were\
+to be found in the margins of one of the oldest manuscripts. He put the words in the margin of his own edition but,\
+by the time of the Veneta edition of 1593, they were included in the text itself. No trace of the manuscript he referred\
+to has been located and the authenticity of the interpolation is questioned, cf. the preface of R. Cai, O.P., in his re-edition of the Piana <i>Super Epistolas S. Pauli Lectura </i>(Rome: Marietti, 1953) pp. x-xiv.</p>\
+</span>'
+
+var WPFootnote18 = '<span class="WPNormal"><p>The Glossator is Peter Lombard in his <i>Collectanea, </i>P.L. 192, col. 203.</p>\
+</span>'
+
+var WPFootnote19 = '<span class="WPNormal"><p>The words &#8220;Regarding this he does two things: First, he gives them precepts by which they can remain in ecclesial\
+unity&#8221;are another interpolation by Remigius Nannini; they merely repeat what was said in the previous sentence.</p>\
+</span>'
+
+var WPFootnote20 = '<span class="WPNormal"><p>The Vulgate translated the Greek <i>noos </i>of Eph. 4:17 as &#8220;sensus,&#8221; which in the Douay-Rheims is rendered &#8220;mind.&#8221;\
+The commentary is not clear as to whether the &#8220;reason&#8221; St. Thomas is here referring to is the practical reason which\
+is the <i>subjectum </i>of prudence (cf. <i>S.T.</i> II-II, 47, 1-3) or the &#8220;ratio particularis,&#8221; or internal sense of appraisal, which\
+is also called the &#8220;vis cogitativa&#8221; or &#8220;vis apprehensiva&#8221; in its more directly cognitative aspects. That he does mean\
+by &#8220;reason&#8221; this &#8220;ratio particularis&#8221; is favored by his later identification of &#8220;sensus&#8221; with &#8220;vis apprehensiva.&#8221; This\
+power is generically of the same type as that found in lower animals (<i>S.T.</i> I, 78, 4 ad 5), but in man it is brought to\
+greater perfection because of the influence his intellectual reason exerts over its activities (<i>ibid., </i>1, 78, 4c). Whereas\
+lower animals must rely on instinct in their appraisal of what is good (liked) or bad (disliked), man&#8217;s &#8220;particular\
+reason&#8221;&#8212;which might be rendered as &#8220;the faculty of direct appraisal&#8221;&#8212;is able to be checked by his intellect (<i>ibid.,\
+</i>I, 81, 3c), and so enjoy a greater freedom (<i>ibid.</i>,<i> </i>I, 83, 1c). For example, man can freely choose to undergo medicinal\
+treatment that is painful. The terms &#8220;reason&#8221; and &#8220;judgment&#8221; in reference to this faculty of direct appraisal must not\
+be taken in a strictly intellectual sense. As Aquinas points out here, it can be upright or perverted depending on\
+whether or not man&#8217;s intellectual powers guide it according to the proper moral standards. These latter are termed\
+&#8220;synderesis&#8221; which is the habit of primary or general moral principles applicable to the sphere of human activity\
+(<i>ibid., </i>1, 79, 12) as the immanent standards in men which give their consciences a normative force (<i>ibid., </i>79, 13);\
+e.g., the most basic one of doing good and avoiding evil. By &#8220;the divine law or God&#8221; Aquinas is referring to the\
+Eternal Law which God himself is (<i>ibid., </i>I-II, 91, 1 ad 3; 93,1-2) and from whom all other norms of action are\
+derived (<i>ibid., </i>93, 3). For a further discussion of the &#8220;ratio particularis&#8221; cf. R. E. Brennan, O.P., <i>Thomistic\
+Psychology </i>(New York: Macmillan, 1949), pp. 133-35, 144-46, 201-02; compare with the contemporary treatment\
+of these psychological phenomena by M. B. Arnold, <i>Emotion and Personality </i>(New York: Columbia Univ. Press,\
+1960), Vol. 1, pp. 61-66, 171-77, 189-91, 231-33, and Vol. 2, pp. 193-202.</p>\
+</span>'
+
+var WPFootnote21 = '<span class="WPNormal"><p>The Greek has the infinitive <i>apothesthai, to put </i>off; this is followed by most Of the Vulgate codices with\
+&#8220;deponere.&#8221; But a sixth or seventh century Vulgate codex, and several Patristic citations, have the imperative form\
+&#8220;deponite.&#8221; This latter was also adopted by the Vulgate edition Of Sixtus V, St. Thomas&#8217; parenthetical remark above\
+about &#8220;if&#8221; sometimes meaning &#8220;because&#8221; is correct. However, it is not the correct interpretation here since the Greek\
+has <i>ei ge, </i>&#8220;if indeed.&#8221;</p>\
+</span>'
+
+var WPFootnote22 = '<span class="WPNormal"><p>&#160;To deny Providence is also to deny predestination and reprobation (cf. <i>S.T.</i> I, 23, 1) along with the moral guilt\
+which sin produces (<i>ibid.</i>, I-II, 87, 1c).</p>\
+</span>'
+
+var WPFootnote23 = '<span class="WPNormal"><p>&#160;&#8220;Imaginative spirit, translates &#8220;spiritus phantasticus&#8221; referring to the phantasm or imagination (cf. <i>S.T.</i> I, 78, 4)\
+which embraces the &#8220;ratio particularis&#8221; mentioned in note 124 above. The word &#8220;spirit&#8221; is used in connection with\
+these interior psychological functions, even when they are also possessed by animals lower than man, cf. S.C.G. IV,\
+2-3. <i>Mind </i>here is definitely a rationally spiritual faculty and not that discussed in<i> </i>lecture 6 above (cf. note 124) since\
+here it translates <i>mens</i> whereas there the word was <i>sensus</i>&#8212;even though the same Greek word is used by St. Paul,\
+<i>noos</i>.</p>\
+</span>'
+
+var WPFootnote24 = '<span class="WPNormal"><p>&#8220;Passiones&#8221; is here translated by &#8220;emotions&#8221; (cf. Brennan, <i>op. cit.</i>, pp. 151 ff.). The concupiscible emotions might\
+be represented as comparatively mild reactions to either favorable stimuli&#8212;so love, desire, joy&#8212;or unfavorable\
+stimuli&#8212;hatred, aversion, sorrow. in these terms, the irascible emotions would be emergency reactions either to\
+favorable stimuli&#8212;such as hope when the object can be attained, and despair when it cannot&#8212;or unfavorable\
+stimuli&#8212;such as courage, fear or rage. Cf. <i>S.T.</i> I, 81, 2; I-II, 23, 1-2; 25, 1-4; also R. E. Brennan, O.P., <i>General\
+Psychology </i>(New York: Macmillan, 1948), pp. 266-71; and M. B. Arnold, <i>op. cit.</i>, Vol. 1, pp. 193-99.</p>\
+</span>'
+
+var WPFootnote25 = '<span class="WPNormal"><p>This does not mean that the poor who cannot find jobs are not permitted to relieve their own real necessities by\
+taking what is superfluous to others. As St. Thomas explains in <i>S.T.</i> II-II, 66, 7c, this is not theft since by the divine\
+and natural laws temporal goods are meant to supply men with what is necessary for their human existence.</p>\
+</span>'
+
+var WPFootnote26 = '<span class="WPNormal"><p>&#160;The &#8220;necessity of precept&#8221; refers to Gen. 3:19 and the admonitions of St. Paul quoted previously.</p>\
+</span>'
+
+var WPFootnote27 = '<span class="WPNormal"><p>God cannot receive or &#8220;suffer&#8221; anything (&#8220;pati&#8221; in the sense of reception from which the &#8220;passiones&#8221; or emotions\
+get their name) since he is the fullness of all Being, cf. <i>S.T. </i>I, 2, 3; 3, 1. Anger is metaphorically attributed to God\
+because of an analogy with the results of human anger. When men are mad they punish, so when God punishes he\
+is said to be angered, <i>ibid., </i>1, 3, 2 ad 2; 59, 4 ad 1; I-II, 47, 1 ad 1. Yet, even in the punishment of hell God&#8217;s mercy\
+is evident, <i>ibid., </i>I, 21, 4 ad 1; Suppl. 99, 3 ad 4.</p>\
+</span>'
+
+var WPFootnote28 = '<span class="WPNormal"><p>Men are angered because of some imaginary or real wrong done to themselves (<i>S.T.</i> I-II, 47, 1); St. Thomas\
+believes that these injuries can be reduced to a feeling, on the part of the angered man, that those who injure him are\
+taking his importance too lightly&#8212;&#8220;parvipensio&#8221; (<i>ibid.</i>, 47, 2).</p>\
+</span>'
+
+function WPShow( WPid, WPtext )
+{
+  if( bInlineFloats )
+    eval( "document.all." + WPid + ".style.visibility = 'visible'" );
+  else
+  {
+    if( floatwnd == 0 || floatwnd.closed )
+      floatwnd = window.open( "", "comment", "toolbars=0,width=600,height=200,resizable=1,scrollbars=1,dependent=1" );
+    floatwnd.document.open( "text/html", "replace" );
+    floatwnd.document.write( "<html><head>\r\n" );
+    floatwnd.document.write( "<style> p { margin-top:0px; margin-bottom:1px; } </style>\r\n" );
+    floatwnd.document.write( "</head><body>\r\n" );
+    floatwnd.document.write( WPtext );
+    floatwnd.document.write( '<br><a href="javascript: self.close()">Close</a>');
+    floatwnd.document.write( "</body></html>" );
+    floatwnd.document.close();
+    floatwnd.focus();
+  }
+}
+
+function WPHide( WPid )
+{
+  if( bInlineFloats )
+    eval( "document.all." + WPid + ".style.visibility = 'hidden'" );
+}
+</script>
+
+<style>
+p
+{
+	margin-top: 0px;
+	margin-bottom: 1px
+}
+
+span.WPFloatStyle
+{
+	visibility: hidden;
+	position: absolute;
+	left: 10px;
+	right: 10px;
+	background-color: rgb(255, 255, 225);
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	margin-top: 25px;
+	padding: 6px;
+	line-height: normal
+}
+
+span.WPNormal
+{
+	font-family: "Times New Roman", serif;
+	font-size: 12pt;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	text-align: left;
+	text-decoration: none;
+	color: black;
+	vertical-align: middle;
+	text-indent: 0in
+}
+
+body
+{
+	font-family: "Times New Roman", serif;
+	font-size: 12pt;
+	font-weight: normal;
+	font-style: normal;
+	margin-right: 0.1625in;
+	padding-right: 0.1in
+}
+</style>
+</head>
+<body><blockquote>
+<A NAME="1"><p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 4</span></p>
+<p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 1</span></p>
+<p style="text-align: justify">1 I, therefore, a prisoner in the Lord, beseech you that you walk worthy of the vocation in which
+you are called;</p>
+<p style="text-align: justify">2 With all humility and mildness, with patience, supporting one another in charity;</p>
+<p style="text-align: justify">3 Careful to keep the unity of the spirit in the bond of peace;</p>
+<p style="text-align: justify; margin-bottom: 0.125in">4 One body and one spirit; as you are called in one hope of your calling.</p>
+<p style="text-align: justify; margin-bottom: 0.125in">The Apostle recalled above the divine blessings through which the Church&#8217;s unity has originated
+and been preserved (Ch. 1-3). Now he admonishes the Ephesians to remain within this ecclesial
+unity. Regarding this he does two things:</p>
+<p style="text-align: justify; margin-left: 0.259167in">First, he exhorts them to persevere in unity.</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he instructs them how to remain in it (4:17).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">The first section is again divided into two parts:</p>
+<p style="text-align: justify; margin-left: 0.259167in">First, he cautions them to keep ecclesial unity.</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he sets forth the pattern of this Church unity (4:5 ff.).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">The first part has three divisions:</p>
+<p style="text-align: justify; margin-left: 0.259167in">First, he offers certain incentives to maintain ecclesial unity.</p>
+<p style="text-align: justify; margin-left: 0.259167in">Secondly, he sets down an admonition (4:2).</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Thirdly, he shows the purpose of his admonition (4:3).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Three incentives are given for them to maintain the Church&#8217;s unity. First is the devotedness of
+Paul&#8217;s love, second is the remembrance of his chains, and third is the consideration of the divine
+favors.</p>
+<p style="text-align: justify; margin-bottom: 0.125in">The affection of his love is intimated by his entreaty. <span style="font-weight: bold">Therefore</span> because you have obtained so
+many blessings from the Lord, <span style="font-weight: bold">I beseech you</span>. I do not command you even though I could; on
+account of my lowliness I do not command but plead with you. Proverbs 18 (23) remarks: &#8220;The
+poor will speak with supplications.&#8221; Charity is another reason [for such a procedure], it prompts
+men to action more than fear: &#8220;Wherefore, though I have much confidence in Christ Jesus to
+command thee that which is to the purpose, for charity&#8217;s sake I rather beseech&#8221; (Phm. 1:8). He
+stirs them by recalling his chains: <span style="font-weight: bold">I, a prisoner in the Lord. </span>With these words he urges them to
+remain united, giving them three motives.</p>
+<p style="text-align: justify; margin-bottom: 0.125in">First, a friend sympathizes with a suffering friend and more readily tries to fulfill his wishes so
+that be might thereby console him. &#8220;A friend shall not be known in prosperity, and an enemy
+shall not be hidden in adversity. In the prosperity of a man, his enemies are grieved; and a friend
+is known in his adversity&#8221; (Ecclus. 12:8-9).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Secondly, the Apostle himself suffers imprisonment for their own utility. Hence he urges them
+to remember this, as though he wanted to put them under certain obligations. &#8220;Now, whether we
+be in tribulation, it is for your exhortation and salvation; or whether we be comforted, it is for
+your consolation; or whether we be exhorted, it is for your exhortation and salvation, which
+worketh the enduring of the same sufferings which we also suffer&#8221; (2 Cor. 1:6).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Thirdly, as was mentioned previously in Chapter Three (v. 13) where he writes &#8220;my tribulations
+for you, which is your glory,&#8221; these sufferings were for the Ephesians&#8217; own immense glory. For
+God exposed his own chosen friends to adversities in behalf of their salvation. Therefore he adds
+<span style="font-weight: bold">in the Lord </span>which means, on account of the Lord. Or, he annexes <span style="font-weight: bold">in the Lord </span>since it was the
+Apostle&#8217;s glory to be imprisoned, not as a thief or murderer, but as a Christian and for the sake
+of our Lord Jesus Christ, in accordance with Ezechiel 3 (25): &#8220;And thou, O son of man, behold,
+they shall put bands upon thee, and they shall bind thee with them: and thou shalt not go forth
+from the midst of them.&#8221;</p>
+<p style="text-align: justify; margin-bottom: 0.125in">He also stimulates them by a consideration of the divine blessings: <span style="font-weight: bold">that you walk worthy of the
+vocation in which you are called. </span>You should be attentive to the dignity to which you are
+summoned, you ought to behave in a way conformable to it. If someone had been chosen to a
+rank of nobility in a kingdom, it would be an indignity for him to perform peasant work. Hence
+the Apostle warns the Ephesians, as though he said: You are called to be fellow citizens with the
+saints of God&#8217;s household (cf. Eph. 2:19), henceforth it is unworthy of you to engage in earthly
+affairs or worry about worldly matters.
+<a href="javascript:WPShow('WPFootnote1', WPFootnote1 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote1" class="WPFloatStyle">' );
+    document.write( WPFootnote1 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote1\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+ &#8220;You should walk worthy of God, in all things
+pleasing&#8221; (Col. 1:10 *); &#8220;let your conversation be worthy of the gospel of Christ&#8221; (Phil. 1:27).
+And why? Because &#8220;he hath called you out of darkness into his marvellous light&#8221; (1 Pet. 2:9).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Subsequently, when he says <span style="font-weight: bold">with all humility and mildness, with patience, supporting one
+another in charity, </span>he expresses the way [to fulfill] his admonition, teaching them how they can
+behave in a worthy manner. Four virtues must be cultivated, and their four opposite vices
+shunned.</p>
+<p style="text-align: justify; margin-bottom: 0.125in">The first vice which he rejects is pride. When one arrogant person decides to rule others, while
+the other proud individuals do not want to submit, dissension arises in the society and peace
+disappears. Whence Proverbs 13 (10): &#8220;Among the proud there are always contentions.&#8221; To
+eliminate this he says <span style="font-weight: bold">with all </span>interior and exterior <span style="font-weight: bold">humility</span>. &#8220;The greater thou art, the more
+humble thyself in all things: and thou shalt find grace before God&#8221; (Ecclus. 3:20); &#8220;let nothing
+be done through contention, neither by vain glory; but in humility, let each esteem others better
+than themselves&#8221; (Phil. 2:3). &#8220;God resisteth the proud and giveth grace to the humble&#8221; (Jas. 4:6).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Anger is the second vice. For an angry person is inclined to inflict injury, whether verbal or
+physical, from which disturbances occur. &#8220;A passionate man stirreth up strifes: he that is patient
+appeaseth those who are stirred up&#8221; (Prov. 15:18). To discard it he says <span style="font-weight: bold">with all mildness; </span>this
+softens arguments and preserves peace. &#8220;To the meek he will give grace&#8221; (Prov. 3:34); &#8220;The
+meek shall inherit the land&#8221; (Ps. 36:11). &#8220;My son, do thy works in meekness: and thou shalt be
+beloved above the glory of men&#8221; (Ecclus. 3:19).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">The third is impatience. Occasionally, someone who himself is humble and meek, refraining from
+causing trouble, nevertheless will not endure patiently the real or attempted wrongs done to
+himself. Therefore, he adds <span style="font-weight: bold">with patience</span> in adversities. Patience hath a perfect work&#8221; (Jas. 1:4),
+&#8220;in thy humiliation keep patience&#8221; (Ecclus. 2:4). &#8220;For patience is necessary for you; that, doing
+the will of God, you may receive the promise&#8221; (Heb. 10: 36).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">An inordinate zeal is the fourth vice. Inordinately zealous about everything, men will pass
+judgment on whatever they see. Not waiting for the proper time and place [to voice their
+criticisms], a turmoil arises in society. &#8220;If you bite and devour one another, take heed that you
+be not consumed one of another&#8221; (Gal. 5:15). Hence he says <span style="font-weight: bold">supporting one another in charity</span>;
+mutually bearing with the defects of others out of charity. When someone falls he should not be
+immediately corrected&#8212;unless it is the time and the place for it. With mercy these should be
+waited for since &#8220;charity beareth all things&#8221; (1 Cor. 13:7). Not that these failings are tolerated out
+of negligence or consent, nor from familiarity or carnal friendship, but from charity. &#8220;Bear ye one
+another&#8217;s burdens; and so you shall fulfull the law of Christ&#8221; (Gal. 6:2). &#8220;Now, we that are
+stronger ought to bear the infirmities of the weak&#8221; (Rom. 15:1).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">After this he shows the purpose of his admonition which is to maintain unity among the faithful.
+Three points are made:</p>
+<p style="text-align: justify; margin-left: 0.259167in">First, he sets forth the unity itself which is the goal (4:3a).</p>
+<p style="text-align: justify; margin-left: 0.259167in">Secondly, he describes bow the unity is kept (4:3b-4a).</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Thirdly, he expresses the reason for preserving this unity (4:4b).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">First of all he remarks: You ought to walk worthy of your calling and be <span style="font-weight: bold">careful to keep the
+unity of the spirit. </span>Two types of unity exist. One whose purpose is to commit evil; it is wicked
+and might be called a unity of the flesh. &#8220;Of one spark cometh a great fire, and of one deceitful
+man much blood&#8221; (Ecclus. 11:34). The other is a unity of the spirit; it is good and its purpose is
+to do good. &#8220;Behold how good and how pleasant it is for brethren to dwell together in unity!&#8221; (Ps.
+132: 1). &#8220;That they may be one, as we also are&#8221; (Jn. 17:11).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">The way to continue in this unity is through <span style="font-weight: bold">the bond of peace</span>. For charity is a union of souls.
+Now the fusion of material objects cannot last unless it is held by some bond. Similarly, the
+union of souls through love will not endure unless it is bound. Peace proves to be a true bond;
+that peace which is, according to Augustine, the balanced harmony between the measure, form,
+and order of a thing.
+<a href="javascript:WPShow('WPFootnote2', WPFootnote2 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote2" class="WPFloatStyle">' );
+    document.write( WPFootnote2 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote2\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+ This is achieved when each possesses what is proper to himself. For this
+reason he says <span style="font-weight: bold">in the bond of peace. </span>&#8220;God hath placed peace in thy borders&#8221; (Ps. 147:14). Peace
+in its turn is maintained by justice: &#8220;And the work of justice shall be peace&#8221; (Is. 32:17). &#8220;Be not
+grieved with her bands&#8221; (Ecclus. 6:26). Why? Because &#8220;in her is the beauty of life: and her bands
+are a healthful binding&#8221; (<i>ibid. </i>v. 31).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Now in man there is a twofold unity. The first is the ordered structure of the organs among
+themselves, the second is the union of the body and the soul constituting what neither are
+separately.
+<a href="javascript:WPShow('WPFootnote3', WPFootnote3 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote3" class="WPFloatStyle">' );
+    document.write( WPFootnote3 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote3\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+ Because the Apostle speaks of the Church&#8217;s unity after the fashion of the unity
+found in man, he adds <span style="font-weight: bold">one body</span> as if to say: Be united in the bond of peace that you may be one
+body&#8212;this regards the first type of unity&#8212;all the faithful should be ordered among themselves
+as members making up a single body. &#8220;We, being many, are one body in Christ; and every one
+members one of another&#8221; (Rom. 12:5). <span style="font-weight: bold">And one spirit</span>&#8212;referring to the second [type of unity
+in man]&#8212;that you might possess a spiritual consensus through the unity of your faith and charity.</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Or: one body designates a unity with other men, and one spirit union with God; because &#8220;he who
+is joined to the Lord is one spirit&#8221; (I Cor. 6:17).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Next, when he says <span style="font-weight: bold">as you are called in one hope of your calling </span>he points out the reason for
+this unity. We notice that when persons are called together to possess something in common and
+mutually enjoy it, they usually live and travel together. Thus, in a spiritual way he says: Because
+you are called to one and the same reality, namely, the final reward, you ought to walk together
+with a unity of spirit <span style="font-weight: bold">in the one hope of your calling, </span>tending toward the one reality you hope
+for as a result of your vocation.
+<a href="javascript:WPShow('WPFootnote4', WPFootnote4 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote4" class="WPFloatStyle">' );
+    document.write( WPFootnote4 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote4\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+ &#8220;Wherefore, holy brethren, partakers of the heavenly vocation&#8221;
+(Heb. 3:1), &#8220;consider your vocation&#8221; (1 Cor. 1:26 *). If anyone asks: Who will call us? And to
+what? 1 Peter 5 (10) replies: &#8220;The God of all grace, who hath called us unto his eternal glory in
+Christ Jesus&#8221; where your true happiness is. &#8220;Blessed are they that are called to the marriage
+supper of the Lamb&#8221; (Apoc. 19:9).</p>
+<A NAME="2"><p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 4</span></p>
+<p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 2</span></p>
+<p style="text-align: justify"><span style="font-size: 10pt">5 One Lord, one faith, one baptism;</span></p>
+<p style="text-align: justify; margin-bottom: 0.125in"><span style="font-size: 10pt">6 One God and Father of all, who is above all, and through all, and in us all.</span></p>
+<p style="text-align: justify; margin-bottom: 0.125in">After he has exhorted them to secure ecclesial unity (4:1), the Apostle offers the Ephesians, in
+this section, a glimpse of this unity&#8217;s pattern. Since the Church is likened to a city, it is one and
+distinct, although this unity is not uncomposed but composed of different parts. Thus the Apostle
+does two things:</p>
+<p style="text-align: justify; margin-left: 0.259167in">First, he shows what is common in the Church.</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he shows what is distinctive [to each member] in her (4:7).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">The solidarity of any city demands the presence of four common elements: one governor, one
+law, the same symbols, and a common goal. The Apostle affirms that these are present in the
+Church also.</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Hence, he says: You ought to have one body and one spirit since you belong to the one unified
+Church. First, she has one leader, Christ. Obeying <span style="font-weight: bold">one Lord, </span>not many, conflicts do not arise
+from trying to comply with divergent commands. For Hebrews 3 (6) states: &#8220;Christ [is] as the
+Son in his own house.&#8221; &#8220;Therefore let all the house of Israel know most certainly that God hath
+made both Lord and Christ, this same Jesus, whom you have crucified&#8221; (Ac. 2:36). &#8220;There be
+lords many; yet to us there is but one God, the Father, of whom are all things... and one Lord
+Jesus Christ, by whom are all things&#8221; (1 Cor. 8:5-6). &#8220;And the Lord shall be king over all the
+earth. In that day there shall be one Lord, and his name shall be one&#8221; (Zach. 14:9).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Secondly, her law is one. For the law of the Church is the law of faith: &#8220;Where then is thy
+boasting? It is excluded. By what law? Of works? No, but by the law of faith&#8221; (Rom. 3:27). Faith
+is sometimes applied to the reality believed in, as with &#8220;This is the Catholic faith...,&#8221;
+<a href="javascript:WPShow('WPFootnote5', WPFootnote5 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote5" class="WPFloatStyle">' );
+    document.write( WPFootnote5 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote5\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+ meaning
+this is what must be believed. At other times, <span style="font-weight: bold">faith</span> refers to the habit of faith by which a man
+believes what he must in his very heart. <span style="font-weight: bold">Faith </span>in both these senses can be called one.</p>
+<p style="text-align: justify; margin-bottom: 0.125in">In the former, <span style="font-weight: bold">one faith </span>would mean that you are bidden to believe in the same truths and live
+in the same moral way. For what is believed by all the faithful is one and the same reality, hence
+[their faith] is termed Catholic or Universal. &#8220;Now I beseech you, brethren, by the name of our
+Lord Jesus Christ, that you all speak,&#8221; that is, think, &#8220;the same thing and that there be no schisms
+among you; but that you be perfect in the same mind and in the same judgment&#8221; (1 Cor. 1:10).
+In the second way, <span style="font-weight: bold">one faith</span> designates the unity of the habit of faith by which all believe. I mean
+that it is specifically one&#8212;not numerically one&#8212;since the same faith is present in each one&#8217;s
+heart; just as when many persons want the same thing, they are said to be of one will.</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Thirdly, the Church shares the same symbols. They are Christ&#8217;s sacraments, of which baptism
+is the first and the entrance to the rest. Hence he says <span style="font-weight: bold">one baptism. </span>Three reasons account for
+this unity. First, baptisms do not differ by reason of who administers them. No matter who
+performs the rites they possess an unvaried power because he who baptizes interiorly is one,
+namely, Christ. &#8220;He upon whom thou shalt see the Spirit descending and remaining upon him,
+he it is that baptizeth with the Holy Ghost&#8221; (Jn. 1:33). Second, baptism is one since it is conferred
+in the name of the one Triune God: &#8220;baptizing them in the name of the Father and of the Son and
+of the Holy Ghost&#8221; (Mt. 28:19). The third reason is that it cannot be repeated. The sacraments
+of penance, matrimony, the eucharist and last anointing may be repeated, but not baptism. &#8220;For
+it is impossible for those who were once illuminated,&#8221; by baptism, &#8220;have tasted also the heavenly
+gift and were made partakers of the Holy Ghost, have moreover tasted the good word of God and
+the powers of the world to come, and are fallen away,&#8221; through sins, &#8220;to be renewed again to
+penance&#8221; (Heb. 6:4-6). It is not repeated, either by reason of the sacramental character [it
+imparts], or because its cause is not repeated: &#8220;For we are buried together with him by baptism
+into death; that, as Christ is risen from the dead by the glory of the Father, so we also may walk
+in newness of life&#8221; (Rom. 6:4). And Christ died but once as 1 Peter 3 (18) affirms.</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Fourthly, the Church has the same goal, God. The Son leads us to the Father: &#8220;when he shall have
+delivered up the kingdom to God and the Father; when he shall have brought to nought all
+principality and power and virtue&#8221; (1 Cor. 15:24). In reference to this the Apostle adds <span style="font-weight: bold">one God
+and Father of all:</span></p>
+<p style="text-align: justify; margin-left: 0.259167in">First, he mentions his unity.</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, his dignity (4:6b),</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Regarding the first he has two remarks. One pertains to the Divine Nature, he says there is one
+God: &#8220;Hear, O Israel: the Lord our God is one Lord&#8221; (Deut. 6:4). The other has to do with his
+kindness to us and our piety; whence he says <span style="font-weight: bold">Father of all</span>: &#8220;Thou, O Lord, art our Father, our
+Redeemer: from everlasting is thy name&#8221; (Is. 63:16); &#8220;Have we not all one father? Hath not one
+God created us?&#8221; (Mal. 2:10).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">He extols Gods dignity on three scores. The Divine Majesty <span style="font-weight: bold">who is above all: </span>&#8220;The Lord is high
+above all nations; and his glory above the heavens&#8221; (Ps. 112:4). His power which extends
+<span style="font-weight: bold">through all </span>[that exists]: &#8220;Do not I fill heaven and earth, saith the Lord?&#8221; (Jer. 23:24). &#8220;Thou
+bast subjected an things under his feet&#8221; (Ps. 8:8). &#8220;All things are delivered to me&#8221; (Lk. 10:22)
+since &#8220;all things were made by him&#8221; (Jn. 1:3). Wisdom 11 (21) indicates how this is
+accomplished: &#8220;Thou hast ordered all things in measure, and number, and weight. For great
+power always belonged to thee alone: and who shall resist the strength of thy arm?&#8221; Finally, there
+is the abundance of his grace in us all: &#8220;Thou, 0 Lord, art among us, and thy name is called upon
+by us&#8221; (Jer. 14:9).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Majesty is appropriated to the Father who is the source and principle in the Divinity, exceeding
+the whole of creation. Power is appropriated to the Son who is that wisdom which &#8220;reacheth from
+end to end mightily&#8221; (Wis. 8:1). Grace is appropriated to the Holy Spirit who &#8220;hath filled the
+whole world&#8221; (Wis. 1:7).&#8221;
+<a href="javascript:WPShow('WPFootnote6', WPFootnote6 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote6" class="WPFloatStyle">' );
+    document.write( WPFootnote6 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote6\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+</p>
+<A NAME="3"><p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 4</span></p>
+<p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 3</span></p>
+<p style="text-align: justify"><span style="font-size: 10pt">7 But to every one of us is given grace, according to the measure of the giving of Christ.</span></p>
+<p style="text-align: justify"><span style="font-size: 10pt">8 Wherefore he saith: Ascending on high, he led captivity captive; he gave gifts to men.</span></p>
+<p style="text-align: justify"><span style="font-size: 10pt">9 Now, that he,aseended, what is it, but because be also descended first into the lower parts of the earth?</span></p>
+<p style="text-align: justify; margin-bottom: 0.125in"><span style="font-size: 10pt">10 He that descended is the same also that ascended above all the heavens, that he might fill all things.</span></p>
+<p style="text-align: justify; margin-bottom: 0.125in">Previously the Apostle dealt with ecclesial unity in the perspective of what is common within the
+Church (4:5), nowwhe manifests this same [unity] from the viewpoint of what is personal and
+specific to each of the faithful members of the Church. Concerning this he makes three points:</p>
+<p style="text-align: justify; margin-left: 0.259167in">First, he points out the fact of distinctions.</p>
+<p style="text-align: justify; margin-left: 0.259167in">Secondly, he introduces a [Scriptural] authority for them (4:8).
+<a href="javascript:WPShow('WPFootnote7', WPFootnote7 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote7" class="WPFloatStyle">' );
+    document.write( WPFootnote7 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote7\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Thirdly, he explains this authoritative quotation (4:9).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">He states: We have in the Church one God, one faith, one baptism. Nonetheless, each of us has
+the diverse graces especially granted to him&#8212;to every one of us is given grace. As though he
+said: None of us lack a share in divine grace and communion, &#8220;of his fullness we all have
+received; and grace for grace&#8221; (Jn. 1:16). This grace, however, is certainly not bestowed on
+everyone uniformly and equally but <span style="font-weight: bold">according to the measure of the giving of Christ. </span>Christ
+is the donor who metes out the grace to each, who have &#8220;different gifts according to the grace that
+is given us&#8221; (Rom. 12:6).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">The variation does not spring from fate or chance, nor from a difference of merit, but from the
+giving of Christ; that is, according as Christ allots it to us. Only he has received the Spirit without
+measure (cf. Jn. 3:34); the rest of the saints obtain it in a limited degree, &#8220;according as God hath
+divided to every one the measure of faith&#8221; (Rom. 12:3). &#8220;And every man shall receive his own
+reward, according to his own labor&#8221; (1 Cor. 3:8). Again, &#8220;to one he gave five talents, and to
+another two, and to another one, to every one according to his proper ability&#8221; (Mt. 25:15). just
+as it is in Christ&#8217;s power to give or not, so he can grant more or less.</p>
+<p style="text-align: justify; margin-bottom: 0.125in"><span style="font-weight: bold">Wherefore he saith </span>(v. 8) introduces an authoritative text from Psalm 67 (19) suporting
+<span style="font-weight: bold">according to the measure of the giving of Christ. </span>Three points are made. First, it speaks of
+Christ&#8217;s ascension; secondly, of mankind&#8217;s liberation; thirdly, of the bestowal of spiritual gifts.
+Each of these will follow in order.</p>
+<p style="text-align: justify; margin-bottom: 0.125in">He refers to the ascension saying: <span style="font-weight: bold">Wherefore </span>to signify this the prophet David saith in Psalm 67:
+<span style="font-weight: bold">ascending on high</span>... &#8220;For he shall go up that shall open the way before them. They shall divide
+and pass through the gate and shall come in by it: and their king shall pass before them, and the
+Lord at the head of them&#8221; (Mic. 2:13). Christ &#8220;setteth up his wings on high&#8221; (Job 39:18). He
+ascends, I say, but not alone. He led captivity captive, that is, those whom the devil had captured.
+For the human race was imprisoned; the saints who had died in love, and so merited eternal
+glory, were held like prisoners by the devil in limbo. &#8220;My people led away captive because they
+had not knowledge&#8221; (Is. 5:13). Christ liberated these prisoners and brought them with himself
+to heaven. &#8220;Shall the prey be taken from the strong? Or can that which was taken by the mighty
+be delivered? For thus saith the Lord: Yea verily. Even the captivity shall be taken away from
+the strong: and that which was taken by the mighty shall be delivered&#8221; (Is. 49:24-25).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Indeed, this is not only true of those already dead; it also applies to the living. Held under sin&#8217;s
+bondage, Christ made men the slaves of justice in delivering them from sin, as Romans 6 (18)
+phrases it. Thus in some way he led men captive not unto destruction but salvation. &#8220;From
+henceforth thou shalt catch men&#8221; (Lk. 5:10).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Besides grasping men from a diabolical slavery and placing them in his own service, he has
+enriched them spiritually. Hence he adds <span style="font-weight: bold">he gave gifts</span> of grace and glory <span style="font-weight: bold">to men</span>. &#8220;For God
+loveth mercy and truth; the Lord will give grace and glory&#8221; (Ps. 83:12). &#8220;By whom he hath given
+us most great and precious promises, that by these you may be made partakers of the divine
+nature&#8221; (2 Pet. 1:4). This version [of Ps. 67:19] does not contradict the reading which has &#8220;Thou
+hast received gifts in men.&#8221;
+<a href="javascript:WPShow('WPFootnote8', WPFootnote8 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote8" class="WPFloatStyle">' );
+    document.write( WPFootnote8 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote8\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+ Clearly, he as God bestows the gifts which he as man receives in
+the faithful who are his members. In heaven be gives, since he is God, while on earth he accepts
+what is given in the manner Matthew 25 (40) describes: &#8220;As long as you did it to one of these my
+least brethren, you did it to me.&#8221;</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Next he comments on the authority:</p>
+<p style="text-align: justify; margin-left: 0.259167in">First, in reference to the ascension.</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, regarding what is given men (4: 11)</p>
+<p style="text-align: justify; margin-bottom: 0.125in">He does two things concerning the first:</p>
+<p style="text-align: justify; margin-left: 0.259167in">First, he shows how he descended.</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, how he ascended (4: 10).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">In reflecting upon the first point, it appears improper for Christ, who is true God, to lower
+himself, since nothing is more eminent than God. To remove any doubts on this score the Apostle
+asserts, <span style="font-weight: bold">Now, that he ascended, what is it, but because he also descended first. </span>As if he would
+say: For this reason do I first mention that he ascended and only afterward that he descended; he
+descended in order that he might ascend. For otherwise he could not have ascended.</p>
+<p style="text-align: justify; margin-bottom: 0.125in">How he descended is shown in <span style="font-weight: bold">into the lower parts of the earth, </span>which can be interpreted in
+two ways. In one, the lower regions are understood as those parts of the earth we inhabit. It is
+lower than the heavens and the atmosphere. The Son of God came down to these sections of the
+earth, not by any local movement, but by assuming a lowly, terrestrial nature; according to that
+text of Philippians 2 (7): &#8220;He emptied himself, taking the form of a servant, being made in the
+likeness of men, and in habit found as a man.&#8221; In the second way it can be understood as referring
+to hell, which is even below us. He descended thither in his soul that he might free the saints
+from it. This seems to agree with the <span style="font-weight: bold">he led captivity captive </span>above. &#8220;Thou also, by the blood
+of thy testament, hast sent forth thy prisoners out of the pit wherein is no water&#8221; (Zach. 9:11). I
+saw another mighty angel come down from heaven&#8221; (Apoc. 10: 1 ) &#8220;I have seen the affliction of
+my people in Egypt, and I have heard their cry... And knowing their sorrow, I am come down to
+deliver them&#8221; (Ex. 3:7-8).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Next (v. 10), three aspects of the ascension are discussed. First, <span style="font-weight: bold">He that descended in the same
+also that ascended</span> indicates the person who ascends. It affirms the unity of person [in the two
+natures of Christ], the divine and the human.
+<a href="javascript:WPShow('WPFootnote9', WPFootnote9 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote9" class="WPFloatStyle">' );
+    document.write( WPFootnote9 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote9\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+ For he who descended, as was said, is the Son
+of God taking on human nature. He who ascends is the Son of man, raising human nature to the
+preeminence of immortal life. Thus the Son of God who descended and the Son of man who
+ascended are identical: &#8220;And no man hath ascended into heaven, but he that descended from
+heaven, the Son of man who is in heaven&#8221; (Jn. 3:13). Notice too how the humble who voluntarily
+lower themselves, spiritually ascend to the grandeur of God: &#8220;he that humbleth himself shall be
+exalted&#8221; (Lk. 14:11).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Secondly, <span style="font-weight: bold">above all the heavens </span>denotes the destination of the ascension. &#8220;He mounteth above
+the heaven of heavens, to the east&#8221; (Ps. 67:34). This should not be understood simply in reference
+to an ascension above the physical heavens, it also refers to every spiritual creature. God has set
+Christ &#8220;on his right band in the heavenly places. Above all principality and power and virtue and
+dominion and every name that is named, not only in this world, but also in that which is to come&#8221;
+(Eph. 1:20-21).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Thirdly, the fruitful outcome of the ascension is <span style="font-weight: bold">that he might fill all things, </span>bestowing on every
+race of men the fullness of spiritual gifts. &#8220;We shall be filled with the good things of thy house&#8221;
+(Ps. 64:5); &#8220;Come over to me, all ye that desire me, and be filled with my fruits&#8221; (Ecclus. 24:26).
+Or, <span style="font-weight: bold">that he might fulfill, </span>that is, put into effect all things written concerning himself: &#8220;all things
+must needs be fulfilled which are written in the law of Moses and in the prophets and in the
+psalms, concerning me&#8221; (Lk. 24:44).</p>
+<A NAME="4"><p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 4</span></p>
+<p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 4</span></p>
+<p style="text-align: justify"><span style="font-size: 10pt">11 And he gave some apostles, and some prophets, and other some evangelists, and other some pastors and doctors;</span></p>
+<p style="text-align: justify"><span style="font-size: 10pt">12 For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ;</span></p>
+<p style="text-align: justify; margin-bottom: 0.125in"><span style="font-size: 10pt">13 Until we all meet into the unity of faith and of the knowlege<span style="text-decoration: underline"> </span>of the Son of God, unto a perfect man, unto the
+measure of the age of the fulness of Christ.</span></p>
+<p style="text-align: justify; margin-bottom: 0.125in">Here the Apostle expounds what was mentioned earlier (4:9) about the bestowal of gifts.
+Concerning this he makes two points:</p>
+<p style="text-align: justify; margin-left: 0.259167in">First, he shows that the Lord has imparted a variety of gifts on each of the faithful.</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he indicates the utility and fruitfulness of these gifts (4:13).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">The many different states and functions in the Church are designated as the gifts of Christ.
+Consider how, among the gifts of Christ, the Apostles are conceded the first place: <span style="font-weight: bold">And he gave
+some Apostles</span>. &#8220;And he chose twelve of them whom also he named apostles&#8221; (Lk. 6:13). &#8220;God
+indeed hath set some in the church; first apostles, secondly prophets, thirdly doctors; after that
+miracles...&#8221; (1 Cor. 12:28).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Apostles are put first because they had a privileged share in all of Christs gifts. They possessed
+a plenitude of grace and wisdom regarding the revelation of divine mysteries. Christ &#8220;opened
+their understanding that they might understand the scriptures&#8221; (Lk. 24:45). &#8220;To you it is given
+to know the mystery of the kingdom of God&#8221; (Mk. 4:11). &#8220;Because all things, whatsoever I have
+heard of my Father, I have made known to you&#8221; (Jn. 15:15). They also possessed an ample ability
+to speak convincingly in order to proclaim the gospel. I will give you a mouth and wisdom,
+which all your adversaries shall not be able to resist and gainsay&#8221; (Lk. 21:15). &#8220;Go ye unto the
+whole world and preach the gospel to every creature&#8221; (Mk. 16:15). Moreover, they also had an
+exceptional authority and power for looking after the Lord&#8217;s flock. &#8220;Feed my sheep&#8221; (Jn. 21:17).
+&#8220;For if also I should boast somewhat more of our power, which the Lord hath given us unto
+edification and not for your destruction, I should not be ashamed&#8221; (2 Cor. 10: 8).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Therefore, the Apostle adds three ecclesiastical categories according as they share in each of the
+foregoing. Related to the revelation of divine mysteries he annexes <span style="font-weight: bold">and some prophets </span>who
+foretold the incarnation of Christ. Of them 1 Peter 1 (10*) declares: &#8220;Of which salvation the
+prophets have inquired and diligently searched, who prophesied of the glory to come in you.&#8221;
+&#8220;For all the prophets and the law prophesied until John&#8221; (Mt. 11:13). But after Christ came, the
+apostles became the prophets of the joy of the life to come. &#8220;Blessed is he that readeth and
+heareth the words of this prophecy, and keepeth those things which are written in it; for the time
+is at hand&#8221; (Apoc. 1:3). They also became the interpreters of what the ancient prophets had
+foretold. &#8220;Be zealous for spiritual gifts; but rather that you may prophesy&#8221; (1 Cor. 14:1). &#8220;Behold
+I send to you prophets and wise men and scribes; and some of them you will put to death&#8221; (Mt.
+23:34).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Relative to the proclamation of the gospel he adds <span style="font-weight: bold">some evangelists</span>. They had the duty of
+preaching the good news, and even of writing it down although they were not among the
+principal apostles. &#8220;How beautiful are the feet of them that preach the gospel of peace, of them
+that bring glad tidings of good things!&#8221; (Rom. 10:15). &#8220;To Jerusalem I will give an evangelist&#8221;
+(Is. 41:27).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">In reference to the care of the Church he says some pastors who are responsible for the Lord&#8217;s
+flock. Under the same heading he adds <span style="font-weight: bold">and doctors </span>to bring out how the pastor&#8217;s specific task
+in the Church is to instruct the people in what pertains to faith and good conduct. The
+administration of temporalities does not belong to bishops, who are the successors of the
+Apostles, but rather to deacons. &#8220;It is not reasonable that we should leave the word of God, and
+serve tables&#8221; (Ac. 6:2). &#8220;Embracing that faithful word which is according to doctrine, that he may
+be able to exhort in sound doctrine&#8221; (Tit. 1:9). The words of Jeremias 3 (15) apply to bishops:
+&#8220;I will give you pastors according to my own heart, and they shall feed you with knowledge and
+doctrine.&#8221;</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Next (v. 12), he discloses the fruitful results of these gifts or functions. Concerning this he does
+two things:</p>
+<p style="text-align: justify; margin-left: 0.259167in">First, he speaks of their fruit.</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he explains how the faithful may attain to this fruit (4:14).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">The first section has two divisions also:</p>
+<p style="text-align: justify; margin-left: 0.259167in">First, he sets down their immediate result.</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, their ultimate fruit (4:13).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">The proximate effects of the above mentioned gifts or functions are threefold. First, consider
+those who are placed in these functions; spiritual gifts are communicated to them that they might
+be at the service of God and their fellow man. Thus he states <span style="font-weight: bold">for the work of the ministry </span>which
+offers honor to God and salvation to one&#8217;s fellow men. &#8220;Let a man so account of us as of the
+ministers of Christ and the dispensers of the mysteries of God&#8221; (I Cor. 4:1). &#8220;You shall be called
+the priests of the Lord; to you it shall be said: Ye ministers of our God&#8221; (Is. 61:6).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Secondly, consider the perfection of those who already believe; so be says for <span style="font-weight: bold">the perfecting of
+the saints</span>, that is, of those already sanctified through faith in Christ. Prelates must be especially
+anxious to lead those intrusted to them toward the state of perfection. This is why Dionysius
+claims, in his <i>Ecclesiastica Hierarchia</i>,
+<a href="javascript:WPShow('WPFootnote10', WPFootnote10 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote10" class="WPFloatStyle">' );
+    document.write( WPFootnote10 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote10\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+<i> </i>that they are to be all the more perfect. &#8216;Wherefore,
+leaving the word of the beginning of Christ, let us go on to things more perfect; not laying again
+the foundation of penance from dead works and of faith towards God&#8221; (Heb. 6: 1). &#8220;The
+consumption abridged shall overflow with justice. For the Lord God of hosts shall make a
+consumption, and an abridgment in the midst of all the land&#8221; (Is. 10:22).
+<a href="javascript:WPShow('WPFootnote11', WPFootnote11 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote11" class="WPFloatStyle">' );
+    document.write( WPFootnote11 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote11\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+</p>
+<p style="text-align: justify; margin-bottom: 0.125in">A third [immediate effect] is the conversion of the unbelievers. About this he states <span style="font-weight: bold">for the
+edifying of the body of Christ. </span>When the infidels are converted, Christ&#8217;s Church&#8212;which is his
+body&#8212;is built up. Whoever preaches &#8220;speaketh to men unto edification and exhortation and
+comfort&#8221; (1 Cor. 14:3). &#8220;For greater is he that prophesieth than he that speaketh with tongues;
+unless perhaps he interpret, that the church may receive edification... So you also, forasmuch as
+you are zealous of spirits, seek to abound unto the edifying of the church&#8221; (1 Cor. 14:5,12).
+<a href="javascript:WPShow('WPFootnote12', WPFootnote12 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote12" class="WPFloatStyle">' );
+    document.write( WPFootnote12 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote12\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+</p>
+<p style="text-align: justify; margin-bottom: 0.125in">He goes on (v. 13) to discuss the ultimate fruit [of the Church&#8217;s preaching] which can be
+understood in two ways. One sees it as touching on the absolutely ultimate effect: the resurrection
+of the saints. In this perspective two facts are asserted. First is the spiritual and corporeal
+convergence [<i>congregatio</i>]<i> </i>of all who have risen. The physical convergence will consist in this,
+that all the saints will be drawn together toward Christ: &#8220;Wheresoever the body shall be, there
+shall the eagles also be gathered together&#8221; (Mt. 24:28).
+<a href="javascript:WPShow('WPFootnote13', WPFootnote13 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote13" class="WPFloatStyle">' );
+    document.write( WPFootnote13 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote13\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+ Concerning this he says <span style="font-weight: bold">until we all
+meet, </span>as if to say: The above ministry, the perfecting of the saints, and the edifying of the Church
+will continue until we all meet Christ in the resurrection. &#8220;Behold, the bridegroom cometh. Go
+ye forth to meet him&#8221; (Mt. 25:6). &#8220;Be prepared to meet thy God, O Israel&#8221; (Am. 4:12). We shall
+meet one another also: &#8220;We who are alive, who are left, shall be taken up together with them
+[those who have died] in the clouds to meet Christ&#8221; (1 Thess. 4:16). &#8220;If by any means I may
+attain to the resurrection which is from the dead&#8221; (Phil. 3: 11).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">The spiritual convergence, however, is seen in relation to our merits, which is according to the
+same faith; regarding this he says <span style="font-weight: bold">into the unity of faith. </span>There is only &#8220;one Lord, one faith&#8221;
+(Eph. 4:5). Again he said earlier: &#8220;Careful to keep the unity of the Spirit in the bond of peace&#8221;
+(Eph. 4:3). <span style="font-weight: bold">The knowledge of the Son of God </span>is the reward, it consists in the perfect vision and
+knowledge of God of which 1 Corinthians 13 (12) speaks: &#8220;Then shall I know even as I am
+known.&#8221; &#8220;And they shall teach no more every man his neigbbour, and every man his brother,
+saying: Know the Lord; for all shall know me from the least of them even to the greatest&#8221; (Jer.
+31:34).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Secondly, he discusses the aforementioned fruit in respect to the perfection of those who rise. He
+relates first of all the perfection itself when he says <span style="font-weight: bold">unto a perfect man</span>. This should not be
+understood as though women will be changed into men at the resurrection&#8212;some have misread
+it in such a fashion. Both sexes will remain, though sexual intercourse will no longer occur, as
+our Lord indicates in Matthew 22 (30): &#8220;For in the resurrection they shall neither marry nor be
+married, but shall be as the angels of God in heaven.&#8221; [They will remain as a witness] to the
+perfection of nature, and for the glory of God who created such a nature. The perfect man
+designates the complete and total perfection of that state. &#8220;When that which is perfect is come,
+that which is in part shall be done away&#8221; (1 Cor. 13:10). Thus man is used here rather in
+contradistinction to boy than as the opposite of woman.</p>
+<p style="text-align: justify; margin-bottom: 0.125in">He describes, in the second place, the exemplar of this perfection when he says <span style="font-weight: bold">unto the
+measure of the age of the fullness of Christ. </span>Consider how the true physical body of Christ is
+the exemplar of his mystical body. Both are made up of many members joined into a unified
+whole. Now the physical body of Christ grew to the mature and robust age of thirty-three years
+before he died. Therefore, the age of the risen saints, who will experience neither imperfection
+nor the failings of old age, will correspond to that mature age. &#8220;He will reform the body of our
+lowness, made like to the body of his glory&#8221; (Phil. 3:21).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">In another way [this passage, v. 13] can be understood as referring to the ultimate fruit [of the
+Churchs ministry] in the present life. This will happen when all the faithful come to her in the
+unity of faith and the knowledge of the truth. &#8220;And other sheep I have that are not of this fold;
+them also I must bring. And they shall hear my voice; and there shall be one fold and one
+shepherd&#8221; (Jn. 10:16). In this the mystical body is perfected spiritually in a manner similar to [the
+physical perfection of] Chrises natural body. In this perspective, the whole body of the Church
+is termed a manly body, following the metaphor used by the Apostle in Galatians 4 (1): &#8220;Now,
+I say: As long as the heir is a child, he differeth nothing from a servant, though he be lord of all.&#8221;
+
+<a href="javascript:WPShow('WPFootnote14', WPFootnote14 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote14" class="WPFloatStyle">' );
+    document.write( WPFootnote14 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote14\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+</p>
+<p style="margin-bottom: 0.125in; margin-bottom: 0.125in">&#160;</p>
+<A NAME="5"><p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 4</span></p>
+<p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 5</span></p>
+<p style="text-align: justify"><span style="font-size: 10pt">14 That henceforth we be no more children, tossed to and fro and carried about with every wind of doctrine, by the
+wickedness of men, by cunning craftiness by which they lie in wait to deceive;</span></p>
+<p style="text-align: justify"><span style="font-size: 10pt">15 But, doing the truth in charity, we may in all things grow up in him who is the head, even Christ;</span></p>
+<p style="text-align: justify; margin-bottom: 0.125in"><span style="font-size: 10pt">16 From whom the whole body, being compacted and fitly joined together, by what every joint supplieth, according
+to the operation &#8216;in the measure of every part, maketh increase of the body, unto the edifying of itself in charity.</span></p>
+<p style="text-align: justify; margin-bottom: 0.125in">Having spoken of the diversity of spiritual gifts and their fruit (4:12), now the Apostle describes
+bow we attain to that fruit. Concerning this he does two things:</p>
+<p style="text-align: justify; margin-left: 0.259167in">First, he removes two obstacles.</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he teaches the way of gaining access to them (4:15).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">It was stated well, he says, that the ultimate fruit of these gifts is for us to meet the Lord as a
+&#8220;Perfect man unto the measure of the age of Christ.&#8221; We are obliged <span style="font-weight: bold">henceforth </span>to cease being
+children and become mature men; for as long as a person is a boy he is not a perfect man.
+Whoever is to meet the Lord must leave his childhood behind. The Apostle did just that: &#8220;When
+I became a man, I put away the things of a child&#8221; (1 Cor. 13:11). It is a quality of the child never
+to be fixed or determinate in anything, he rather believes whatever is told him. To act like grown
+men we have to abandon a fickle oscillation and instability in our judgments. &#8220;Do not become
+children mentally; in malice be children but in your mind be mature&#8221; (1 Cor. 14:20*). Those who
+waver are called such from the word &#8220;wave&#8221;; like a wave <span style="font-weight: bold">tossed to and fro</span> they are not firm in
+the faith. &#8220;He that wavereth is like a wave of the sea, which is moved and carried about by the
+wind&#8221; (Jas. 1:6). But now it is imperative for us to stand firm and not fluctuate.</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Evil teachings are like the wind Proverbs 25 (23*) speaks of with merit: &#8220;The north wind brings
+forth rain.&#8221; &#8220;And the rain fell, and the floods came and the winds blew; and they beat upon that
+house. And it fell; and great was the fall thereof&#8221; (Mt. 7:27). Hence he warns against being
+carried about with every wind of doctrine. As though he said: We must not be shaken by these
+wicked doctrines that buff about seeking to agitate hearts and ruin spiritual accomplishments.
+Three qualities demonstrate that it is not good doctrine.</p>
+<p style="text-align: justify; margin-bottom: 0.125in">First, its source is <span style="font-weight: bold">from the wickedness of men. </span>Not being sound doctrine, but false and wicked,
+someone will concoct dogmas out of it in order to wield dominion over others, even though souls
+are lost. Such were the teachings of that most wicked Arius whose abdomen burst asunder [at his
+death].
+<a href="javascript:WPShow('WPFootnote15', WPFootnote15 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote15" class="WPFloatStyle">' );
+    document.write( WPFootnote15 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote15\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+ He could be made the subject of a discourse on Ecclesiasticus 31 (29*) &#8220;The testimony
+of his wickedness is true.&#8221; Second, its methods are by <span style="font-weight: bold">cunning craftiness</span> to mean one thing and
+pretend to hold some other opinion. On this account the Apostle wrote the Corinthians: &#8220;I fear
+lest, as the serpent seduced Eve by his subtlety, so your minds should be corrupted and fall from
+the simplicity that is in Christ&#8221; (2 Cor. 11:3). Third, this is also evident from its effects, for such
+doctrine <span style="font-weight: bold">lies in wait to deceive</span>. Its teachers seduce and lie in wait, not to rob money or temporal
+goods, but to spread errors. &#8220;Evil men and seducers shall grow worse and worse; erring, and
+driving into error&#8221; (2 Tim. 3:13).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Having pointed out the impediments [of immaturity and erroneous doctrine] which prevent one
+from acquiring the fruit of spiritual gifts, he discloses here how that fruit can be attained. He
+argues this way: It was said just now that to obtain the fruit of these spiritual gifts we must stop
+being children and grow up into mature adults. As long as we are childish we have not reached
+a mature state, neither do we grow. Hence, it is necessary for us to grow up. This is what be says
+about <span style="font-weight: bold">doing the truth in charity </span>where he makes two points:</p>
+<p style="text-align: justify; margin-left: 0.259167in">First, in what areas we ought to grow up.</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, through whom [we are to grow] (4:15b).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">With respect to the first he states <span style="font-weight: bold">doing the truth in charity we may grow up</span> in good works
+and the form of good works, which two are truth and charity.
+<a href="javascript:WPShow('WPFootnote16', WPFootnote16 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote16" class="WPFloatStyle">' );
+    document.write( WPFootnote16 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote16\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+ Any good work is at times
+referred to as truth, for instance, Tobias 1 (2): &#8220;Even in his captivity he forsook not the way of
+truth.&#8221; Let us, therefore, do the truth, namely, every good work. Or, put true doctrine into practice
+since it is not enough simply to hear or teach the truth, it must be acted on as well. Thus the
+Apostle counsels Timothy: &#8220;Take heed to thyself and to doctrine; be earnest in them. For in doing
+this thou shalt both save thyself and them that hear thee&#8221; (1 Tim. 4:16). &#8220;Be ye doers of the word
+and not hearers only&#8221; (Jas. 1:22) since &#8220;doers shall be justified&#8221; (Rom. 2:13). That is, if they act
+out of charity, the form of good works. &#8220;Do manfully and be strengthened. Let all your actions
+be done in charity&#8221; (1 Cor. 16:13-14); otherwise they will be useless: &#8220;If I should distribute all
+my goods to feed the poor, and if I should deliver my body to be burned, and have not charity,
+it profiteth me nothing&#8221; (1 Cor. 13:3).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Because not to make progress in the approach to God is itself a retrogression, the Apostle adds
+that <span style="font-weight: bold">we may grow up in him, </span>(v. 15b) where be states three points by explaining:</p>
+<p style="text-align: justify; margin-left: 0.259167in">First, the author of our development.</p>
+<p style="text-align: justify; margin-left: 0.259167in">Secondly, the truth about him (4:16a).</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Thirdly, the manner of the development (4:16b).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">He asks that <span style="font-weight: bold">we may grow up in him, </span>namely, in Christ, of whom 1 Peter 2 (2 *) declares: &#8220;In
+him may you grow unto salvation.&#8221; In him, I repeat, who is the head, Christ, and in the Church
+which is his body (cf. Col. 1:24). Let us increase, not in wealth as was said of Job that &#8220;his
+possession hath increased on the earth&#8221; (Job 1:10), but in spiritual goods. Nor in one area only,
+but in all things, that is, being fruitful and increasing in every good. &#8220;Whatsoever else you do,
+do all to the glory of God... As I also in all things please all men&#8221; (1 Cor. 10:31, 33). The Apostle
+commends the Corinthians on this score: &#8220;Now, I praise you, brethren, that in all things you are
+mindful of me and keep my ordinances as I have delivered them to you&#8221; (1 Cor. 11:2).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Next (v. 16b), he speaks about the truth of Christ through whom we ought to grow. Three points
+concerning an organic body are to be kept in mind: its organs are interrelated, they are bound
+together by tendons, each member serves the rest. &#8220;If the foot should say: because I am not the
+hand, I am not of the body; is it therefore not of the body? And if the ear should say: because I
+am not the eye, I am not of the body; is it therefore not of the body? If the whole body were the
+eye, where would be the hearing? If the whole were hearing, where would be the smelling?&#8221; (1
+Cor. 12:15-17). Therefore, one body is composed of many members in these three ways: through
+its structured whole or unity, through its connective bindings, and through its reciprocal actions
+and assistance, just as all these actions of interrelating organs, the connecting of tendons, and
+movements take their initiative from the body&#8217;s head, so the spiritual counterparts of these flow
+from Christ, our head, into his body, the Church.</p>
+<p style="text-align: justify; margin-bottom: 0.125in">First, there is a structured unity through faith. Whence he says <span style="font-weight: bold">from Christ </span>who is our head, as
+was already mentioned, <span style="font-weight: bold">the whole body, being compacted </span>is joined together in a unity. &#8220;He will
+gather together the dispersed of Israel&#8221; (Ps. 146:2). &#8220;He will gather together unto him all nations,
+and heap together unto him all people&#8221; (Hab. 2:5). Christ is &#8220;the head, from which the whole
+body, by joints and bands, being supplied with nourishment and compacted, groweth unto the
+increase of God&#8221; (Col. 2:19).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Second, a connecting and binding force emanates from Christ, the head, into his body, the
+Church, since whatever is united must be held together or bound by some nexus or bond. On this
+account he says <span style="font-weight: bold">fitly joined together, by what every joint supplieth, </span>that is, through the faith
+and charity which unite and knit the members of the mystical body to one another for their
+mutual support. &#8220;All the works of the Lord are good: and he will furnish every work in due time&#8221;
+(Ecclus. 39:39). Thus the Apostle himself, confident of this mutual being-of-service which reigns
+among the members of the Church due to the divine unifying action, had said: &#8220;I know that this
+shall happen to me unto salvation, through your prayer and the assistance of the Spirit of Jesus
+Christ&#8221; (Phil. 1:19 *).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Third, from Christ the head there is infused into his members the power to act in order that they
+may grow spiritually. For this reason he states <span style="font-weight: bold">according to the operation in the measure of
+every part, maketh increase of the body. </span>As if he said: Not only is the structured unity of the
+members of the Church through faith, and their connection or being joined together through the
+mutual service of charity, from Christ the head. Indeed, from him comes the actual operation or
+movements of the members needed for action, and this according to the measure and competency
+of each member. Thus he asserts that Christ accomplishes the increase <span style="font-weight: bold">of the body according
+to the operation</span> and <span style="font-weight: bold">in the </span>due <span style="font-weight: bold">measure of every part. </span>Therefore, the body not only grows
+through the faith which compacts it into a structured whole and through charity&#8217;s mutual
+assistance, but also through the actual binding force which flows out from each member
+according to the degree of grace given him; and also through the actual impulse to act which God
+effects in us.
+<a href="javascript:WPShow('WPFootnote17', WPFootnote17 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote17" class="WPFloatStyle">' );
+    document.write( WPFootnote17 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote17\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+ &#8220;Thou hast wrought all our works for us&#8221; (Is. 26:12). He is the &#8220;same God who
+worketh all in all&#8221; (1 Cor. 12:6). This interpretation accords with that of the Glossator.
+<a href="javascript:WPShow('WPFootnote18', WPFootnote18 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote18" class="WPFloatStyle">' );
+    document.write( WPFootnote18 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote18\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+</p>
+<p style="text-align: justify; margin-bottom: 0.125in">But why does God make each member grow? To build up the body. &#8220;In whom all the building,
+being framed together, groweth up into an holy temple in the Lord. In whom you also are built
+together into an habitation of God in the Spirit&#8221; (Eph. 2:21-22). So 1 Corinthians 3 (9) affirms
+that &#8220;you are God&#8217;s building.&#8221; All this occurs <span style="font-weight: bold">in</span> the <span style="font-weight: bold">charity</span> of which it is said that &#8220;charity
+edifieth&#8221; (1 Cor. 8:1). Or, <span style="font-weight: bold">in charity</span> refers to the purely gratuitous love with which God
+accomplishes all this. &#8220;Yea, I have loved thee with an everlasting love: therefore have I drawn
+thee, taking pity on thee. And I will build thee again, and thou shalt be built&#8221; (Jer. 31:3-4). This
+is what he states in <span style="font-weight: bold">unto the edifying of itself in charity.</span></p>
+<A NAME="6"><p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 4</span></p>
+<p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 6</span></p>
+<p style="text-align: justify"><span style="font-size: 10pt">17 This then I say and testify in the Lord: that henceforward you walk not as also the Gentiles walk in the vanity of
+their mind,</span></p>
+<p style="text-align: justify"><span style="font-size: 10pt">18 Having their understanding darkened, being alienated from the life of God through the ignorance that is in them
+because of the blindness of their hearts,</span></p>
+<p style="text-align: justify; margin-bottom: 0.125in"><span style="font-size: 10pt">19 Who, despairing, have given themselves up to lasciviousness unto the working of all uncleanness, unto
+covetousness.</span></p>
+<p style="text-align: justify; margin-bottom: 0.125in">The Apostle previously admonished the Ephesians to persevere in ecclesial unity by describing
+to them its quality and pattern (4: 1 ). In the part that follows he teaches them the way to remain
+within the Church&#8217;s unity. Regarding this he does two things:</p>
+<p style="text-align: justify; margin-left: 0.259167in">First, he gives them precepts by which they can remain in ecclesial unity.
+<a href="javascript:WPShow('WPFootnote19', WPFootnote19 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote19" class="WPFloatStyle">' );
+    document.write( WPFootnote19 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote19\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+</p>
+<p style="text-align: justify; text-indent: -0.240833in; margin-left: 0.5in; margin-bottom: 0.125in">Secondly, near the end of the Letter (6: 10) he shows them where they can find the strength
+to fulfill these commands.</p>
+<p style="text-align: justify; margin-bottom: 0.125in">The first section has two parts:</p>
+<p style="text-align: justify; margin-left: 0.259167in">First, he sets down precepts for everyone.</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he adds certain ones pertaining to particular classes within the Church (5:22).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">The first contains two divisions:</p>
+<p style="text-align: justify; margin-left: 0.259167in">First, he expresses certain general precepts to which all the others can be reduced.</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he treats of particular ones (4:25).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Again, the first section has two parts. Since the Apostles&#8217; intention is to draw them away from
+their old customs to embrace Christ&#8217;s new teaching:</p>
+<p style="text-align: justify; text-indent: -0.240833in; margin-left: 0.5in">First, he demonstrates how the doctrine of Christ is just the opposite of the old pagan
+perversity.</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he offers them incentives to leave it behind and adopt the way of Christ (4:22).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">The first of these has two sections:</p>
+<p style="text-align: justify; margin-left: 0.259167in">First, he describes the pagans&#8217;way of life.</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he shows that Christ&#8217;s teaching is contrary to it (4:20).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">The first part has three divisions:</p>
+<p style="text-align: justify; margin-left: 0.259167in">First, he exhorts them to reject the pagan way of life.</p>
+<p style="text-align: justify; margin-left: 0.259167in">Secondly, he describes it in reference to the pagan&#8217;s inner mind (4:18),.</p>
+<p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Thirdly, he does so in reference to his external way of acting (4:19).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">That you will be able to carry out, he says, what I have spoken of above, I say, not beseeching
+you as previously, rather I say and testify to what I have asserted. I testify again to every man
+circumcising himself that he is a debtor to the whole law&#8221; (Gal. 5:3). &#8220;1 charge thee, before God
+and Jesus Christ, who shall judge the living and the dead...&#8221; (2 Tim. 4:1). And what [does he bear
+witness to here]? <span style="font-weight: bold">That henceforward</span>, from the moment you believed and were converted to
+Christ, since you &#8220;are [now] clean&#8221; (Jn. 13:10), <span style="font-weight: bold">you walk not as also the Gentiles walk. To
+walk</span> here means to live: &#8220;If we live in the Spirit, let us also walk in the Spirit&#8221; (Gal. 5:25). This
+should not be <span style="font-weight: bold">as the Gentiles walk: </span>&#8220;You know that, when you were heathens, you went to
+dumb idols according as you were led&#8221; (1 Cor. 12:2). You must not walk in such a manner: &#8220;My
+son, walk not with them: restrain thy foot from their paths&#8221; (Prov.1:15).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Then, in saying <span style="font-weight: bold">in the vanity of their mind, </span>he gives the reason for his prohibition. Note that
+to walk spiritually is to make progress. &#8220;The path of the just is right to walk in&#8221; (Is. 26:27), and
+to Abraham it was said: &#8220;Walk before me, and be perfect&#8221; (Gen. 17:1). There are three norms
+immanent in man by which he must be guided and regulated if he is to walk justly and make
+spiritual progress. In man, one of these is the reason which judges about what is to be done in
+concrete circumstances.
+<a href="javascript:WPShow('WPFootnote20', WPFootnote20 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote20" class="WPFloatStyle">' );
+    document.write( WPFootnote20 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote20\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+ Another is the understanding of universal principles, called synderesis;
+and thirdly, there is the divine law or God. Actions are good and meritorious when the person is
+guided by these three in their proper interrelations; namely, when the action is in accord with the
+judgment of reason, and this reason judges according to true understanding, or synderesis; and
+this synderesis is, in turn, directed by the divine law.</p>
+<p style="text-align: justify; margin-bottom: 0.125in">The life of the Gentiles did not resemble this, it was lacking these three. First of all, rational
+judgment was missing since they <span style="font-weight: bold">walked in the vanity of their mind. Mind</span> here is the power
+to apprehend [<i>vis apprehensiva</i>]<i> </i>through which we judge about individual objects. Hence, a man
+is called upright when he judges correctly about what should be done. But this mind is sometimes
+upright, and at other times vain. It is termed upright when, guided by appropriate norms, it attains
+to the proper end; it is vain when, led by the wrong norms, it does not achieve the proper end.
+&#8220;All men are vain, in whom there is not the knowledge of God&#8221; (Wis. 13:1), &#8220;because they
+became vain in their thoughts&#8221; (Rom. 1:21) &#8220;and walked after vanity and are become vain&#8221; (Jer.
+2:5).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Why? Obviously because in performing such acts their reason is not guided by an enlightened
+understanding, but an erroneous one. This is what he says about them <span style="font-weight: bold">having their
+understanding darkened. </span>&#8220;Their foolish heart was darkened&#8221; (Rom. 1:21), and &#8220;they have not
+known nor understood: they walk on in darkness&#8221; (Ps. 81:5). This is traceable to their not sharing
+in the divine light, or not being enlightened and directed by the divine law. Thus he adds
+<span style="font-weight: bold">alienated from the life of God, </span>from God who is the life of the soul. I am the way, and the truth,
+and the life&#8221; (Jn. 14:6).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Or, <span style="font-weight: bold">from the life of God </span>may mean from charity and spiritual grace by which the soul lives
+formally [a supernatural life]. &#8220;The grace of God is life everlasting&#8221; (Rom. 6:23). Existing
+without an expectation of eternal life, they held for a mortality of the soul contrary to faith and
+hope. &#8220;And they knew not the secrets of God, nor hoped for the wages of justice, nor esteemed
+the honour of holy souls&#8221; (Wis. 2:22). Or again, <span style="font-weight: bold">from the life of God </span>might indicate an existence
+estranged from that holy living which comes through faith: I live, now not I; but Christ liveth in
+me&#8221; (Gal. 2:20). &#8220;The just man liveth by faith&#8221; (Rom. 1: 17). Or, the life which comes through
+charity: &#8220;We know that we have passed from death to life, because we love the brethren&#8221; (1 Jn.
+3:14). [The pagans] were not likethis; instead, they were alienated.</p>
+<p style="text-align: justify; margin-bottom: 0.125in">He briefly discusses the quality of this alienation, it is <span style="font-weight: bold">through the ignorance that is in them,
+</span>not of stars or the movement of the constellations, but of the Divine Nature. &#8220;Some have not the
+knowledge of God&#8221; (1 Cor. 15:34), since in former times God was known only among the Jews.
+But &#8220;God, indeed having winked at the times of this ignorance, now declareth unto men that all
+should everywhere do penance&#8221; (Ac. 17:30). God, insofar as he himself was concerned, was not
+the cause of this ignorance since &#8220;That which is known of God is manifest in them. For God hath
+manifested it unto them&#8221; (Rom. 1: 19). Certainly the cause was themselves due to the <span style="font-weight: bold">blindness
+of their hearts. </span>He describes it well as blindness since from created reality they could not attain
+to a knowledge of the Creator. &#8220;For their own malice blinded them. And they knew not the
+secrets of God, nor hoped for the wages of justice&#8221; (Wis. 2:21-22).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Then the Apostle goes on (v. 19) to portray how their exterior manner of life was once they lost
+hope, a loss due to their alientation from life. &#8220;I have done with hope. I shall now live no longer&#8221;
+(Job 7:16). &#8220;And they said: We have no hopes; for we will go after our own thoughts and we will
+do everyone according to the perverseness of his evil heart&#8221; (Jer. 18:12). This is what follows in
+that they have <span style="font-weight: bold">given themselves up to lasciviousness unto the working of all uncleanness,
+unto covetousness</span>. The text can be read in two ways. <span style="font-weight: bold">Unto covetousness</span> may be taken as a
+separate vice meaning they were avaricious: &#8220;Being filled with all iniquity, malice, fornication,
+avarice...&#8221; (Rom. 1:29). &#8220;Let your manners be without covetousness, contented with such things
+as you have&#8221; (Heb. 13:5). For &#8220;nothing is more wicked than the covetous man&#8221; (Ecclus. 10:9).
+Thus Habacuc 2 (9): &#8220;Woe to him that gathereth together an evil covetousness to his house that
+his nest may be on high, and thinketh he may be delivered out of the hand of evil.&#8221;</p>
+<p style="text-align: justify; margin-bottom: 0.125in"><span style="font-weight: bold">Unto covetousness</span> might also be joined with what goes before, meaning &#8220;covetously&#8221; and
+modify the preceding. In that case their life was weighted down with a triple burden. First, they
+did not sin from passion but by choice, thus he says they have given themselves up to
+lasciviousness. As though he had said: Instead of sinning through passion or weakness they just
+sold themselves over to it: &#8220;Assemble ye all that are in the city, that we may of our own accord
+yield ourselves all up to the people of Holofernes&#8221; (Jdt. 7:15). &#8220;They have not done penance for
+the uncleanness, and fornication, and lasciviousness, that they have committed&#8221; (2 Cor. 12:21).</p>
+<p style="text-align: justify; margin-bottom: 0.125in">Secondly, [their sins were aggravated] from the complete lack of restraint; they &#8220;walk after the
+flesh in the lust of uncleanness and despise government&#8221; (2 Pet. 2:10). Therefore, he adds <span style="font-weight: bold">unto
+the working of all uncleaness; </span>&#8220;these men have placed their uncleannesses in their hearts, and
+have set up before their face the stumbling-block of their iniquity&#8221; (Ez. 14:3). Thirdly, their sin
+was greater from its continuance, for they sinned incessantly. &#8220;They have committed fornication
+and have not ceased: because they have forsaken the Lord in not observing his law&#8221; (Os. 4:10).
+Whence he states unto covetousness, that is, [they sinned] ardently, with a constant and insatiable
+appetite for more. &#8220;Having eyes full of adultery and of sin that ceaseth not; alluring unstable
+souls; having their heart exercised with covetousness; children of malediction. Leaving the right
+way they have gone astray&#8221; (2 Pet. 2:14-15).</p>
+<A NAME="7"><p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 4</span></p>
+<p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 7</span></p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in"><span style="font-size: 10pt">20 But you have not so learned Christ;</span></p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in"><span style="font-size: 10pt">21 If so be that you have heard him and have been taught in him, as the truth is in Jesus.</span></p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in"><span style="font-size: 10pt">22 * To put off, according to the former way of life, the old man, who is corrupted according to the desire of error,</span></p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in"><span style="font-size: 10pt">23 And be renewed in the spirit of your mind,</span></p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in"><span style="font-size: 10pt">24 And put on the new man, who according to God is created in justice and holiness of truth.</span></p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Having shown the depravity of the Gentile&#8217;s conduct (4:17), the Apostle points out now that
+Christ&#8217;s teaching is completely contrary to such a way of life and condition. Because some men
+who distorted Christian doctrine held there is no life after the present one, but that man&#8217;s soul, like
+the rest of the animals, dies with his body, the Apostle makes clear:</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in">First, that Christ&#8217;s teaching is contrary to their former life and condition.</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in; margin-bottom: 0.125in">Secondly, the requisites of Christ&#8217;s teaching (4:22).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Thus he affirms: It was said that they, despairing, gave themselves up to lust, <span style="font-weight: bold">But you have not
+learned </span>that <span style="font-weight: bold">Christ </span>is to be so imitated. How should he be? &#8220;You yourselves have been taught by
+God that you must love one another&#8221; (1 Thess. 4:9). &#8220;Therefore, brethren, stand fast; and hold the
+traditions which you have learned&#8221; (2 Thess. 2:14 *). And how shall we retain them? &#8220;When you
+had received of us the word of the hearing of God, you received it not as the word of men, but, as
+it is indeed, the word of God, who worketh in you that have believed&#8221; (1 Thess. 2:13). Therefore,
+&#8220;Rooted and built up in him and confirmed in the faith, as also you have learned; abounding in him
+in thanksgiving&#8221; (Col. 2:7).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">This certainly will happen <span style="font-weight: bold">if you have heard him</span>, for hearing is the servant of instruction. <span style="font-weight: bold">If</span> here
+is the equivalent of &#8220;because.&#8221; &#8220;And this is the declaration which you have heard, as 1 John 1 (5)
+expresses it in reference to the proclamation of the faith. &#8220;He that harkeneth to me shall not be
+confounded&#8221; (Ecclus. 24:30). And &#8220;the ear that heareth the reproofs of life shall abide in the midst
+of the wise. He that rejecteth instruction despiseth his own soul: but he that yieldeth to reproof
+possesseth understanding&#8221; (Prov. 15:3132). <span style="font-weight: bold">If</span> also <span style="font-weight: bold">you have been taught in him</span> how what
+pertains to faith must be kept and fulfilled. &#8220;They did as they were taught&#8221; (Mt. 28:15), <span style="font-weight: bold">as the
+truth is in Jesus</span>.<span style="font-weight: bold"> </span>As though he said: If you have heard the faith of Christ preached and how this
+faith must be put into practice, you have been taught what Jesus is like, he is himself the truth
+which is imparted to you. You must not, therefore, behave as those who despair.</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">How should they live? He adds <span style="font-weight: bold">to put off, according to the former way of life, the old man. </span>The
+passage has two variant readings.
+<a href="javascript:WPShow('WPFootnote21', WPFootnote21 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote21" class="WPFloatStyle">' );
+    document.write( WPFootnote21 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote21\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+ One is the infinitive, <span style="font-weight: bold">to put off</span>; then it would be construed
+with what preceded to read: The truth about which you were instructed in Jesus was to put off the
+old man. The more common reading has an imperative, <span style="font-weight: bold">put ye off</span>; in this case the signification
+is: Since the life and teachings of the Gentiles are contrary to those of Jesus, in which you have
+been taught, the only alternative is that you discard the old man.</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Hence he makes two points here since vices must first be eradicated before virtues can be
+cultivated:</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in">First, he instructs them to put aside their former condition, their old way of living.</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in; margin-bottom: 0.125in">Secondly, how they must take on a new way of life [characteristic] of Jesus (4:23).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Three considerations follow. First, what does <span style="font-weight: bold">the old man</span> mean? Some hold that the old man is
+external and the new man interior. But it must be said that the old man is both interior and exterior;
+he is a person who is enslaved by a senility in his soul, due to sin, and in his body whose members
+provide the tools for sin. Thus a man enslaved to sin in soul and body is an old man. He is already
+on the way to corruption, or is actually beginning to decay since &#8220;that which decayeth and groweth
+old is near its end&#8221; (Heb. 8:13). And so a man subjected to sin is termed an old man because he is
+on the way to corruption. On this account he goes on, <span style="font-weight: bold">corrupted according to the desire of error.
+</span>Anything will corrupt when it deviates from the order of its inner being. Man&#8217;s nature longs for
+what accords with reason; and truth is reason&#8217;s perfection and good. Hence, when someone&#8217;s
+reason sways toward error, and his desire is corrupted from this error, he is referred to as an old
+man.</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">This, he says, is <span style="font-weight: bold">according to</span> evil <span style="font-weight: bold">desire</span>. &#8220;Make not provision for the flesh in its concupiscences&#8221;
+(Rom. 13:14). &#8220;Many [are the] unprofitable and hurtful desires which drown men into destruction
+and perdition7 (1 Tim. 6:9). Some people are lured into these cravings through their own weakness.
+Malice will draw others to them, as it does those who say that God does not have a providential
+care [of the universe].
+<a href="javascript:WPShow('WPFootnote22', WPFootnote22 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote22" class="WPFloatStyle">' );
+    document.write( WPFootnote22 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote22\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+ Therefore he adds <span style="font-weight: bold">of error</span> because the mind and affections of those who
+maliciously err become corrupted. Possibly the <span style="font-weight: bold">desire of error </span>refers to whatever makes men err,
+according to Wisdom 2 (21): &#8220;These things they thought, and were deceived: for their own malice
+blinded them,&#8221; and in Proverbs 14 (8): &#8220;The imprudence of fools erreth.&#8221;</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">In Colossians 3 (9) the Apostle indicates how to leave the old man behind: &#8220;Stripping yourselves
+of the old man with his deeds.&#8221; The substance of human nature is not to be rejected or despoiled,
+but only wicked actions and conduct. &#8220;Have your manner of life good among the Gentiles&#8221; (1 Pet.
+2:12* ); &#8220;Be thou an example of the faithful, in word, in conduct, in charity, in faith, in chastity&#8221;
+(1 Tim. 4:12*).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Next (v. 23), he indicates the new condition they are to take on. In doing three things concerning
+this, he shows:</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in">First, through what means we can obtain this newness.</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in">Secondly, in whom this newness resides (4:24a).</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in; margin-bottom: 0.125in">Thirdly, what the newness is (4:24b).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Regarding the first he says <span style="font-weight: bold">be renewed in the spirit of your mind. </span>Notice that although <span style="font-weight: bold">spirit </span>is
+frequently said to be in man, nevertheless three spirits are discernible in him. One is the Holy
+Spirit: &#8220;Know you not that you are the temple of God and that the Spirit of God dwelleth in you?&#8221;
+(1 Cor. 3:16). Another is his spiritual reason: &#8220;For the flesh lusteth against the spirit; and the spirit
+against the flesh&#8221; (Gal. 5:17). Finally, there is man&#8217;s imaginative spirit: &#8220;Know ye, 0 Israel, that
+the prophet was foolish, the man was mad, and spiritual&#8221; (Os. 9:7 *), that is, his imagination went
+wild.
+<a href="javascript:WPShow('WPFootnote23', WPFootnote23 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote23" class="WPFloatStyle">' );
+    document.write( WPFootnote23 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote23\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Therefore, the <span style="font-weight: bold">spirit of your mind </span>may point to the Holy Spirit. He then states that the cause of
+renewal is the Holy Spirit who dwells in our rational spirit: &#8220;God hath sent the Spirit of his Son
+into your hearts&#8221; (Gal. 4:6). &#8220;Send forth thy Spirit, and they shall be created: and thou shalt renew
+the face of the earth&#8221; (Ps. 103:30). Or <span style="font-weight: bold">spirit </span>could refer to the rational spirit and would be identical
+with our <span style="font-weight: bold">mind</span>, similar to the expression in Colossians 2 (11): &#8220;In despoiling of the body of the
+flesh,&#8221; that is, the body which the flesh is. Likewise here, <span style="font-weight: bold">in the spirit of your mind</span> would refer
+to the spirit which the mind is. He would qualify it in this way since there is another spirit within
+us, differing from the mind, and which is common to both us and the beasts.</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">However, he states <span style="font-weight: bold">be renewed in the spirit of your mind</span>; what is not spoiled keeps its freshness
+and does not require a renewal. If Adam had not become tainted neither he nor ourselves would
+need a renovation. Yet, once he was corrupted, both he and his offspring are in need of a
+renovation.  In the present life we must be renewed in soul; our body will be in the future when
+&#8220;this corruptible must put on incorruption; and this mortal must put on immortality&#8221; (1 Cor. 15:52).
+Hence he says be renewed in the spirit since, unless the spirit is renewed in this life, the body will
+never be renewed. Or, in the spirit of your mind can be interpreted as in your mind which was made
+spiritual and will return to the same.</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in"><span style="font-weight: bold">And put on the new man </span>discloses in whom this renewal takes place. Adam introduced sin into
+all men, and thus became for everything the primary source of oldness. Likewise, the primary
+source of newness and renovation is Christ. In Adam all die and in Christ all will be brought back
+to life. &#8220;For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision; but a new
+creature&#8221; (Gal. 6:15). Therefore, &#8220;Put ye on the Lord Jesus Christ&#8221; (Rom. 13:14).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in"><span style="font-weight: bold">Who, according to God, is created in justice and holiness of truth</span> makes known what the
+renovation is. It admits of a triple explanation. If the who refers to [man&#8217;s] spirit, it would mean:
+The spirit, which our mind is, was created by God in the freshness of original justice; or, by a
+second creative act was renewed to be just again: &#8220;Created in Christ Jesus in good works&#8221; (Eph.
+2:10). Or, the who might have reference to the new man, Christ. Then the text could be construed
+as: <span style="font-weight: bold">Who is created, </span>that is, formed in the Virgin&#8217;s womb according to God by the Holy Spirit and
+not human seed. Or, he was created according to an existence of grace, as well as a fullness in
+justice toward men and a holiness before God that was not fictitious but of truth: &#8220;In holiness and
+justice before him&#8221; (Lk. 1:75). It could rather mean that holiness is in his heart, truth on his tongue,
+and justice in his actions.</p>
+<A NAME="8"><p style="text-align: center; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 4</span></p>
+<p style="text-align: center; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 8</span></p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in"><span style="font-size: 10pt">25 Wherefore, putting away lying, speak ye the truth, every man with his neighbour; for we are members one of
+another.</span></p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in"><span style="font-size: 10pt">26 Be angry, and sin not. Let not the sun go down upon your anger.</span></p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in"><span style="font-size: 10pt">27 Give not place to the devil.</span></p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Having set down above the general admonition to put on a newness of life (4:17), now the Apostle
+determines on the particular precepts. Concerning this he does two things:</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in">First, he restrains them from committing interior sins which corrupt the spirit.</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in; margin-bottom: 0.125in">Secondly, he prohibits exterior sins which corrupt the flesh (5:3).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">The first has two divisions:</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in">First, he forbids sins which consist in one&#8217;s personal deordination.</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in; margin-bottom: 0.125in">Secondly, then sins which consist in the deordination of others (4:29).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">The first section again is divided into three parts since he forbids:</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in">First, sin corrupting man&#8217;s rational powers.</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in">Secondly, sin deordinating his irascible emotions (4:26).</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in; margin-bottom: 0.125in">Thirdly, sin pertaining to the concupiscible emotions (4:28).
+<a href="javascript:WPShow('WPFootnote24', WPFootnote24 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote24" class="WPFloatStyle">' );
+    document.write( WPFootnote24 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote24\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Regarding the first of these he does three things. First, he forbids one of them; then he urges its
+opposite [virtue]; thirdly, he gives his reason. Hence, he first prohibits what is characteristic of the
+old man, thereby expounding what he said above (v. 24): &#8220;Put on the new man.&#8221; To accomplish
+this he first bans lying because through this sin of the tongue the truth of reason is corrupted.
+<span style="font-weight: bold">Wherefore</span> to put on the new man you should be <span style="font-weight: bold">putting away lying, </span>for &#8220;Thou [O Lord] wilt
+destroy all that speak a lie&#8221; (Ps. 5:7) maliciously.</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Then he urges them on to newness of life, saying with Zacharias (8:16) <span style="font-weight: bold">speak ye the truth, every
+man with his neighbor. </span>And why? Because we are members of one another. For members are to
+love and mutually assist one another in truth. &#8220;We, being many, are one body in Christ; and every
+one members one of another&#8221; (Rom. 12:5).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">When forbidding sins destructive of the order in the irascible emotions, be makes three points:</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in">First, he gives a warning.</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in">Secondly, he explains.what he means (4:26b).</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in; margin-bottom: 0.125in">Thirdly, he gives the reason for his concern (4:27).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">He gives his warning when he says <span style="font-weight: bold">Be angry, and sin not</span>. This is susceptible of two
+interpretations; for there are two types of anger, a good one and an evil one. Anger is evil when,
+contrary to justice, it strives inordinately for revenge. It is good when it seeks a just vindication,
+namely, when the person is vexed at the time, with whom, and to the degree that, he should be. The
+[above warning] is applicable to both. If it concerns evil anger, the sense is that he does not
+command it but permits it. As though he said: Should it happen that anger wells up within
+you&#8212;which is human enough&#8212;do not sin. You must not be led on to perform [what the inordinate
+passion craves] through consenting to it. &#8220;Let no temptation take hold on you, but such as is
+human&#8221; (1 Cor. 10:13). For, without doubt, whoever is angered against his brother in any other way
+&#8220;shall be in danger of the judgment&#8221; (Mt. 5:22). Joseph counselled his brothers against such anger:
+&#8220;Be not angry in the way&#8221; (Gen. 45:24).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">If it is interpreted concerning righteous anger it is not simply permitted, like the first, but
+imperative. <span style="font-weight: bold">Be angry</span> against your sins, for man desires a twofold vindication. One regarding
+himself when he sins, so that penance becomes a certain type of vindication which man inflicts and
+receives in himself. Such a wrath is good, and with respect to it the imperative is used: <span style="font-weight: bold">be angry</span>
+against your sins, and <span style="font-weight: bold">sin not </span>any more, nor commit those types of sin with which you must again
+be exasperated.</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Now, some are doubtless of the opinion that a man can be mad at himself for his own sins safely,
+but that this does not hold true concerning his neighbors and their sins. This is false; a man can be
+mad at himself for his own sins, and at his fellow man because of his sins. Therefore, zealously be
+angry at other people&#8217;s offenses. &#8220;Phinees hath turned away my wrath from the children of Israel
+because he was moved with my zeal against them&#8221; (Num. 25:11). And Elias said: &#8216;With zeal have
+I been zealous for the Lord God of Hosts: for the children of Israel have forsaken thy covenant&#8221;
+(3 Kg. 19:10). By following the dictates of reason, rather than acting before [reason has had time
+to reflect], you <span style="font-weight: bold">sin not. </span>&#8220;Let every man be swift to hear, but slow to speak, and slow to anger&#8221; (Jas.
+1:19).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">In <span style="font-weight: bold">Let not the sun go down upon your anger</span> he explains what he had said, and the explanation
+can be interpreted according to the three above expositions. If it concerns evil anger, then he would
+be saying: Do not nurture seeds of wrath, cast them off before sunset; for although the first
+impulses of temper are excusable, due to human frailty, it is illicit to dwell on them.</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">In reference to good anger, as it is directed against one&#8217;s personal sins, the sun is Christ. &#8220;Unto you
+that fear my name the sun of justice shall arise&#8221; (Mal. 4:2) <span style="font-weight: bold">Let not it go down upon your anger</span>,
+that is, on your sins, on account of which you must be angered again and punish yourselves. When
+the sins of others are in question the sun refers to reason. &#8220;Remember thy Creator in the days of
+thy youth, before the time of affliction come, and the years draw nigh of which thou shalt say: They
+please me not; before the sun... is darkened&#8221; (Eccl. 12:1). The sun should not set on your anger,
+that is, the dictates of reason must not be clouded over. &#8220;Anger indeed killeth the foolish&#8221; (Job
+5:2).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">The reason for the warning is indicated in <span style="font-weight: bold">Give not place to the devil. </span>The devil gains entrance
+to us either through sin or consent to it. &#8220;The devil having now put into the heart of Judas Iscariot,
+the son of Simon, to betray him&#8221; (Jn. 13:2), after which it says: &#8220;After the morsel, Satan entered
+into him&#8221; (<i>ibid. </i>27). Passions of this kind easily pull one&#8217;s consent [toward their desires],
+especially when they have biased the judgment of reason. Anger particularly does this since it
+involves the rapid, raising of blood, the speed of whose movement precedes any rational judgment.
+Excited like this, the devil wins a foothold within us; thus he says <span style="font-weight: bold">give not place to the devil. </span>You
+ought not to persist, he seems to say, in your ill temper, for you will only invite the demon who is
+himself continually angered. God is &#8220;my deliverer from my infuriated enemies&#8221; (Ps. 17:48 *). &#8220;The
+devil is come down unto you, having great wrath&#8221; (Apoc. 12:12). He cannot accomplish this, at
+least in the soul of a just man. But this justice is forfeited through anger: &#8220;For the anger of man
+worketh not the justice of God&#8221; (Jas. 1:20). If you do not want to give Satan a place, at least in your
+soul, do not let the sun set on your wrath. &#8220;Remove anger from thy heart&#8221; (Eccl. 11:10).</p>
+<A NAME="9"><p style="text-align: center; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 4</span></p>
+<p style="text-align: center; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 9</span></p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in"><span style="font-size: 10pt">28 He that stole, let him now steal no more; but rather let him labor, working with his hands the thing which is good,
+that he may have something to give to him that suffereth need.</span></p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in"><span style="font-size: 10pt">29 Let no evil speech proceed from your mouth; but that which is good, to the edification of faith, that it may
+administer grace to the hearers.</span></p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Having banned the age old corruption in man&#8217;s rational and irascible powers (4:25), here he
+proscribes it in regard to the concupiscible emotions when they desire temporal goods inordinately.
+Concerning this he does two things:</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in">First, he prohibits the old ways of these emotions.</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in; margin-bottom: 0.125in">Secondly, he exhorts the Ephesians to renew them (4:28b).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Stealing pertains to the concupiscible appetite&#8217;s old ways; it arises from a corrupted and inordinate
+desire for a temporal object. Therefore he says <span style="font-weight: bold">He that stole, let him now steal no more, </span>as if to
+say: Whoever has old and corrupted concupiscible emotions due to a contaminating desire for
+transitory goods, let him not steal any more if he wants to renew them. For &#8220;confusion is upon a
+thief&#8221; (Ecclus. 5:17), so that Exodus 20 (15) asserts: &#8220;Thou shalt not steal.&#8221;</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Since someone might excuse himself by reason of his poverty,
+<a href="javascript:WPShow('WPFootnote25', WPFootnote25 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote25" class="WPFloatStyle">' );
+    document.write( WPFootnote25 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote25\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+ he says <span style="font-weight: bold">rather let him labor,
+working with his hands. </span>The Apostle himself practiced this: &#8220;For such things as were needful for
+me and them that are with me, these hands have furnished&#8221; (Ac. 20:34). &#8220;For you yourselves know
+how you ought to imitate us: for we were not disorderly among you; neither did we eat any man&#8217;s
+bread for nothing, but in labor and in toil we worked night and day, lest we should be chargeable
+to any of you&#8221; (2 Thess. 3:7-8).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Notice that three motives for manual labor are given. Primarily, it is to obtain necessary food: &#8220;In
+the sweat of thy face shalt thou eat bread&#8221; (Gen. 3:19). Therefore, anyone who does not lawfully
+have the where-with-all to live is bound to work with his hands. &#8220;If any man will not work, neither
+let him eat,&#8221; (2 Thess. 3:10) seems to affirm: just as he who does not eat when necessity demands
+it sins, so likewise he who does not work when necessary. This is put here to exclude stealing.
+Sometimes, however, work is urged in order to dispel idleness since &#8220;Idleness hath taught much
+evil&#8221; (Ecclus. 33:29). Hence, those who lead an idle life are bound to work with their hands: &#8220;For
+we have heard there are some among you who walk disorderly; working not at all, but curiously
+meddling. Now we charge them that are such and beseech them by the Lord Jesus Christ that,
+working with silence, they would eat their own bread&#8221; (2 Thess. 3:11-12). At other times work is
+recommended to discipline and control the flesh. In this sense it is included among the acts of
+continence, as in 2 Corinthians 6 (5): &#8220;In labours, in watchings, in fastings.&#8221;</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Three reasons exist, therefore, for engaging in physical labor. The first is necessary for everyone,
+and is so by a necessity of precept,
+<a href="javascript:WPShow('WPFootnote26', WPFootnote26 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote26" class="WPFloatStyle">' );
+    document.write( WPFootnote26 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote26\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+ while idleness can be avoided in other ways and the immoral
+tendencies of the flesh can be controlled and checked by other means. It is sufficient if these latter
+are accomplished in some way.</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in"><span style="font-weight: bold">Which is good </span>follows and can be understood in two ways. If it has the accusative force it could
+be rendered: Rather let him labor by the work of his hands, not at what is unlawful, but at whatever
+is honest. &#8220;And in doing good, let us not fail. For in due time we shall reap, not failing&#8221; (Gal. 6:9).
+&#8220;Cease to do perversely. Learn to do well&#8221; (Is. 1:16-17). Or it can be taken with a nominative force:
+Rather let him labor by the work of his hands which is good. This is the reason why they should
+work, as though he said: Not only is it necessary to work, it is even good to work that he who does
+can live and <span style="font-weight: bold">that he may have something to give to him that suffereth need. </span>&#8220;Lend to thy
+neighbour in the time of his need&#8221; (Ecclus. 29:2).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">When he states <span style="font-weight: bold">Let no evil speech proceed from your mouth </span>(v. 29) he begins to discuss what
+the old man does in relation to other men. He makes two points:</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in">First, be prohibits the old and encourages the new.</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in; margin-bottom: 0.125in">Secondly, he provides an example for imitation at the beginning of Chapter Five (5:1).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">A person may be wrongly disposed toward his neighbor in two ways. In one way, he may hurt him
+through evil words; in another, he may harm him through bad example. First he forbids the former,
+secondly the latter (4:30). The first of these also has two sections:</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in">First, he bans the old.</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in; margin-bottom: 0.125in">Secondly, he urges them toward the new (4:29b)</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Thus he says <span style="font-weight: bold">Let no evil speech proceed from your mouth. </span>A word from the mouth exteriorizes
+or expresses whatever is on the mind since spoken words are signs of what occurs in the soul. A
+good word is one which indicates good interior dispositions, while an evil word externalizes evil
+dispositions.</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Man should possess a threefold inner relationship; namely, to himself, that all his powers are
+subject to reason; to God, so that his reason submits to him; and to his fellow man when he loves
+him as himself. Hence a word is evil when it shows that a man is not properly related within
+himself. This is the false word by which he means one thing and says another; futile and vain talk
+also belong to this category. Again, there are wicked words which indicate that a man is not related
+properly to God, such as perjury, blasphemy and the like. Finally, there is also evil talk which is
+against one&#8217;s neighbor, such as injurious, deceitful, and fraudulent words. Therefore does he say
+<span style="font-weight: bold">Let no evil speech proceed from your mouth. </span>&#8220;No&#8221; is equivalent to &#8220;none.&#8221; &#8220;Keep yourselves
+therefore from murmuring which profiteth nothing, and refrain your tongue from detraction: for
+an obscure speech shall not go for nought&#8221; (Wis. 1:11). For God will certainly not forget any
+thought, &#8220;and no word can hide itself from him&#8221; as Ecclesiasticus 42 (20) remarks. &#8220;But now put
+away also any anger, indignation, malice, blasphemy, or filthy speech out of your mouth&#8221; (Col.
+3:8* ).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">With <span style="font-weight: bold">that which is good </span>he encourages them on toward newness because a good word, spoken at
+the right time and place, is blessed. &#8220;A word in due time is best&#8221; (Prov. 15:23). &#8220;If any man speak,
+let him speak as the words of God&#8221; (1 Pet. 4:11). And what for? He adds <span style="font-weight: bold">to the edification of faith
+</span>in order, that is, for faith to be strengthened in the hearts of the weak: &#8220;Let all things be done to
+edification&#8221; (1 Cor. 14:26).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">If it may administer grace to the hearers such a word is proven good and it is profitable. For
+frequently a man repents and is disposed for grace from hearing a good sermon and through the
+power it conveys. &#8220;While Peter was yet speaking these words, the Holy Spirit fell on all them that
+heard the word&#8221; (Ac. 10:44). Our Lord spoke in this fashion; Luke 4 (22) recounts: &#8220;They
+wondered at the words of grace that proceeded from his mouth.&#8221; &#8220;The words of the mouth of a
+wise man are grace&#8221; (Eccl. 10:12).</p>
+<A NAME="10"><p style="margin-bottom: 0.125in; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">&#160;</p>
+<p style="text-align: center; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 4</span></p>
+<p style="text-align: center; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 10</span></p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in"><span style="font-size: 10pt">30 And grieve not the Holy Spirit of God; whereby you are sealed unto the day of redemption.</span></p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in"><span style="font-size: 10pt">31 Let all bitterness and anger and indignation and clamour and blasphemy be put away from you, with all malice.</span></p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in"><span style="font-size: 10pt">32 And be ye kind one to another; merciful, forgiving one another, even as God hath forgiven you in Christ.</span></p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Previously the Apostle warned the Ephesians to abstain from wicked and injurious words (4:29).
+Here he advises them against words or actions which would upset or sadden other men. Regarding
+this he does two things:</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in">First, be prohibits what is old.</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in; margin-bottom: 0.125in">Secondly, he encourages what pertains to the new (4:32).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Again the first part has two subdivisions:</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in">First, he forbids what is old in general.</p>
+<p style="text-align: justify; margin-left: 0.295833in; margin-right: -0.1625in; margin-bottom: 0.125in">Secondly, he gets down to specific vices (4:31)</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">There might be an objection to his saying <span style="font-weight: bold">grieve not the Holy Spirit of God. </span>The Holy Sprit is
+God in whom there can be no emotion or sorrow. I reply that the Holy Spirit is said to be grieved
+when that person is saddened in whom the Spirit dwells. &#8220;He that despiseth you, despiseth me&#8221;
+(Lk. 10:16). &#8220;But they provoked to wrath and afflicted the spirit of his Holy One: and he was turned
+to be their enemy&#8221; (Is. 63:10).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Or, it could be called a metaphorical expression.
+<a href="javascript:WPShow('WPFootnote27', WPFootnote27 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote27" class="WPFloatStyle">' );
+    document.write( WPFootnote27 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote27\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+ Just as God is said to be angry on account of
+the similarity of what he does [to the results of human anger], so he could also be said to be
+grieved. When some person is saddened he withdraws from whoever is depressing him, likewise
+does the Holy Spirit withdraw from one who is sinning. Thus the meaning of <span style="font-weight: bold">grieve not the Holy
+Spirit </span>is: do not chase him away or reject him through sin. &#8220;For the Holy Spirit of discipline will
+flee from the deceitful, and will withdraw himself from thoughts that are without understanding:
+and he shall not abide when iniquity cometh in&#8221; (Wis. 1:5).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Therefore, the Holy Spirit must not be saddened, and this on account of the blessing of his saving
+seal. Thus he adds whereby you are sealed, that is, you are reformed and set apart from others.
+Whoever possesses this seal shall enjoy eternal life. For this reason he must be held on to and in
+no way grieved since without him there is no life everlasting. &#8220;God also hath sealed us and given
+the pledge of the Spirit in our hearts&#8221; (2 Cor. 1:22). Men did this happen? In the day of redemption,
+that is, of baptism. &#8220;Unless a man be born again of water and the Holy Spirit, he cannot enter into
+the kingdom of God&#8221; (Jn. 3:5). &#8220;You shall be baptized with the Holy Spirit not many days hence&#8221;
+(Ac. 1:5). He says redemption since in baptism a man becomes a sharer in the redemption
+accomplished by Christ.</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">In what follows (v. 31) he discloses what specifically belongs to the old man. For at times a man
+will sadden his friend out of anger, at other times on set purpose. Anger, however, has three
+degrees. Sometimes it is constrained and remains within the heart, as when someone is only
+inwardly mad. On other occasions it is expressed verbally, although not in a contemptuous way,
+as when someone says &#8220;Raca&#8221; (cf. Mt. 5:22). At still another time contempt may be present in the
+verbal expression as in &#8220;You cursed fool!&#8221; Hence he first writes down what pertains to anger of
+the heart; second what is proper to its inordinate expression; and third what has reference to
+contempt.</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">In anger of the heart the following succeed one another. Firstly, anger is the result of sorrow,
+<a href="javascript:WPShow('WPFootnote28', WPFootnote28 )"><img src="eph4/footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a>
+<script type="text/javascript" language="javascript">
+  if( bInlineFloats )
+  {
+    document.write( '<span id="WPFootnote28" class="WPFloatStyle">' );
+    document.write( WPFootnote28 );
+    document.write( '<br><a href="javascript:WPHide(\'WPFootnote28\')">Close</a>' );
+    document.write( '</span>' );
+  }
+</script>
+
+which Sacred Scripture refers to as bitterness: &#8220;As Anna had her heart full of bitterness, she prayed
+to the Lord, shedding many tears&#8221; (1 Kg. 1:10*). Thus he says <span style="font-weight: bold">all bitterness</span> which arises from the
+memory of past injuries. For &#8220;there is no understanding where there is bitterness&#8221; (Ecclus. 21:15).
+Secondly, it immediately desires revenge; hence he says <span style="font-weight: bold">and anger</span> which is a craving for revenge.
+&#8220;For the anger of man worketh not the justice of God&#8221; (Jas. 1:20). Thirdly, an angered person
+imagines whatever offends him is an insult, and he is indignant if it passes without punishment.
+Therefore, <span style="font-weight: bold">and indignation</span> follows.</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Noise has to do with the inordinate expression of anger. &#8220;And I looked that he should do judgment,
+and behold, iniquity: and do justice, and behold, a cry&#8221; (Is. 5:7). Hence he says <span style="font-weight: bold">and clamour</span>. In
+a similar way, blasphemy is either against God or against his saints. Yet &#8220;he that blasphemeth the
+name of the Lord, dying let him die&#8221; (Lev. 24:16). Thus he says <span style="font-weight: bold">and blasphemy</span>. And he adds that
+these <span style="font-weight: bold">be put away from you, with all malice </span>of action. Reject &#8220;all malice and all guile and
+dissimulations&#8221; (1 Pet. 2:1).</p>
+<p style="text-align: justify; margin-left: 0.0366667in; margin-right: -0.1625in; margin-bottom: 0.125in">Next, when he says <span style="font-weight: bold">be ye kind one to another </span>he determines what pertains to the new man which
+is contrary to the above mentioned passions. Opposed to bitterness is kindness; so he says <span style="font-weight: bold">be ye
+kind one to another</span> since &#8220;the spirit of wisdom is benevolent&#8221; (Wis. 1:6).  Mercy is contrary to
+anger, thus he mentions <span style="font-weight: bold">merciful:</span> &#8220;Be ye therefore merciful, as your Father also is merciful&#8221; (Lk.
+6:36).  Opposed to indignation is a pardoning attitude; whence he says <span style="font-weight: bold">forgiving one another even
+as God hath forgiven you in Christ</span>. &#8220;Forgiving one another, if any have a complaint against
+another. Even as he Lord hath forgiven you, so do you also&#8221; (Col. 3:13). &#8220;He that spared not even
+his own Son,&#8221; and shortly afterwards, &#8220;how hath he not alos, with him, given us all things?&#8221; (Rom.
+8:32).</p>
+</body>
+</html>
