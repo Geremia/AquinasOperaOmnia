@@ -1,0 +1,9 @@
+find . -iname '*.htm*' -print0 | par -0 pup --pre -p --charset utf8 -f "{}" \> "{}".tmp \; mv "{}".tmp {}
+find . -iname '*.htm*' -print0 | parallel -0 echo {}\; tidy5 -m {} &> out.txt
+
+# recheckout.txt has all the files that tidy wasn't able to fix
+parallel  git co {} :::: recheckout.txt
+
+# run tidy again:
+find . -iname '*.htm*' -print0 | parallel -0 echo {}\; tidy5 -m {} &> out.txt
+
