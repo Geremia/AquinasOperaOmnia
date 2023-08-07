@@ -1,4 +1,5 @@
 # AquinasOperaOmnia
+
 Start with [**index.html**](https://github.com/Geremia/AquinasOperaOmnia/blob/master/index.html) for the Table of Contents.
 
 This repository is a mirror of http://dhspriory.org/thomas/, the complete works of [**St. Thomas Aquinas**](http://www.encyclopedia.com/topic/Saint_Thomas_Aquinas.aspx#1), mostly bilingual [Latin](http://www.u.arizona.edu/~aversa/latin/)-English.

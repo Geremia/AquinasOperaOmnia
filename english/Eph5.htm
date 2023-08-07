@@ -1,17 +1,19 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
+<meta charset="utf-8" />
 <title>Thomas Aquinas: Ephesians 5: English</title>
 <script type="text/javascript" language="javascript">
-   var gAgent = navigator.userAgent.toLowerCase()
-var gWindows = ((gAgent.indexOf("win") != -1) || (gAgent.indexOf("16bit") != -1))
-var gIE = (gAgent.indexOf("msie") != -1)
-var bInlineFloats = (gWindows && gIE && (parseInt(navigator.appVersion) >= 4))
-var floatwnd = 0
+  var gAgent = navigator.userAgent.toLowerCase();
+  var gWindows = gAgent.indexOf("win") != -1 || gAgent.indexOf("16bit") != -1;
+  var gIE = gAgent.indexOf("msie") != -1;
+  var bInlineFloats = gWindows && gIE && parseInt(navigator.appVersion) >= 4;
+  var floatwnd = 0;
 
-var WPFootnote1 = '<span class="WPNormal"><p>St. Gregory the Great, <i>Homilia 30 in Evangelia<\/i>.<\/p>\
-<\/span>'
+  var WPFootnote1 =
+    '<span class="WPNormal"><p>St. Gregory the Great, <i>Homilia 30 in Evangelia<\/i>.<\/p>\
+<\/span>';
 
-var WPFootnote2 = '<span class="WPNormal"><p>The etymology of Aquinas is correct, although the Romans transferred the use of &#8220;fornix&#8221; from\
+  var WPFootnote2 =
+    '<span class="WPNormal"><p>The etymology of Aquinas is correct, although the Romans transferred the use of &#8220;fornix&#8221; from\
 designating arches or vaults to brothels which were situated in underground vaults. The quotation\
 from Prov. 20:26 is as given in the Piana-Cai edition; although far from the true reading of v. 26\
 it seems to fit the context. The Parma gives the correct Vulgate reading: &#8220;incurvat super eos\
@@ -20,21 +22,24 @@ king built an arch near a place of fornication. It seems more probable, however,
 the verse as the Piana-Cai gives it since &#8220;fornicam&#8221; here means &#8220;wheel.&#8221; The Confraternity\
 translates the verse as: &#8220;A wise king winnows the wicked, and threshes them under the\
 cartwheel.&#8221;<\/p>\
-<\/span>'
+<\/span>';
 
-var WPFootnote3 = '<span class="WPNormal"><p>The text of Col. 2:8 has &#8220;philosophy&#8221; and not &#8220;prophecy&#8221;: St. Thomas&#8217; commentary on\
+  var WPFootnote3 =
+    '<span class="WPNormal"><p>The text of Col. 2:8 has &#8220;philosophy&#8221; and not &#8220;prophecy&#8221;: St. Thomas&#8217; commentary on\
 Colossians, Ch. 2, Lect. 2, has the correct reading. Perhaps the syllogism he was about to give\
 distracted him or a copyist. It could be schematized as follows: major: God punishes whoever\
 sins gravely; minor: But those who commit carnal vices are punished by God; conclusion:\
 Therefore carnal vices are gravely sinful.<\/p>\
-<\/span>'
+<\/span>';
 
-var WPFootnote4 = '<span class="WPNormal"><p>St. Thomas takes &#8220;<i>diffidentiae<\/i>&#8221; in the sense of &#8220;despair&#8221; rather than &#8220;unbelief.&#8221; The Greek term\
+  var WPFootnote4 =
+    '<span class="WPNormal"><p>St. Thomas takes &#8220;<i>diffidentiae<\/i>&#8221; in the sense of &#8220;despair&#8221; rather than &#8220;unbelief.&#8221; The Greek term\
 <i>apeitheia<\/i> means &#8220;disobedience,&#8221; especially (in the N.T.) against God. Hence the connotation of\
 &#8220;disbelief&#8217; in the proclamation of his gospel, or &#8220;distrust&#8221; in the salvation he gives.<\/p>\
-<\/span>'
+<\/span>';
 
-var WPFootnote5 = '<span class="WPNormal"><p>The City of God, 1, 9 and note 42. &#8220;If anyone forbears to reprove and find fault with those who\
+  var WPFootnote5 =
+    '<span class="WPNormal"><p>The City of God, 1, 9 and note 42. &#8220;If anyone forbears to reprove and find fault with those who\
 are doing wrong, because be seeks a more seasonable opportunity, or because he fears they may\
 be made worse by his rebuke, or that other weak persons may be disheartened from endeavouring\
 to lead a good and pious life, and may be driven from the faith; this man&#8217;s omission seems to be\
@@ -48,13 +53,15 @@ to losing &#8220;your benefices&#8221; (<i>beneficia tua<\/i>) may indicate that
 was an ecclestiastical position or function to which a stipend or salary was attached. This\
 naturally put the clerical recipient in an embarrassing position if he had to disagree or reprimand\
 the &#8220;benefactors&#8221; supporting him.<\/p>\
-<\/span>'
+<\/span>';
 
-var WPFootnote6 = '<span class="WPNormal"><p>St. Jerome, <i>Epistula<\/i> 22, (P.L. 23, 423). The following reference is to 3 Esdras, i.e., the\
+  var WPFootnote6 =
+    '<span class="WPNormal"><p>St. Jerome, <i>Epistula<\/i> 22, (P.L. 23, 423). The following reference is to 3 Esdras, i.e., the\
 apocryphal third book.<\/p>\
-<\/span>'
+<\/span>';
 
-var WPFootnote7 = '<span class="WPNormal"><p>St. Thomas&#8217; reflections on choral chant in S.T. II-II, 91 follow from his general analysis of\
+  var WPFootnote7 =
+    '<span class="WPNormal"><p>St. Thomas&#8217; reflections on choral chant in S.T. II-II, 91 follow from his general analysis of\
 external expressions in man&#8217;s religious worship (cf. references in note 114 above). &#8220;We use\
 language with God, not to manifest our thoughts to him, for he is the searcher of hearts, but to\
 induce reverence in ourselves and others who hear. Hence vocal praise is not necessary on God&#8217;s\
@@ -63,550 +70,2123 @@ account, but for the one who praises him.&#8221; (<i>ibid.<\/i>, 1c). A possible
 devotion&#8221; (<i>ibid.<\/i>, 2 ad 3). The reference to the &#8220;illiterates&#8221; must be taken within this context;\
 Aquinas&#8217; own experience probably led him to conclude that good theological teaching and\
 preaching did the educated more spiritual good than listening to Gregorian chant.<\/p>\
-<\/span>'
+<\/span>';
 
-var WPFootnote8 = '<span class="WPNormal"><p>St. Thomas&#8217; use of &#8220;<i>exemplum<\/i>&#8221; here should not be taken simply in the sense of an &#8220;illustration.&#8221;\
+  var WPFootnote8 =
+    '<span class="WPNormal"><p>St. Thomas&#8217; use of &#8220;<i>exemplum<\/i>&#8221; here should not be taken simply in the sense of an &#8220;illustration.&#8221;\
 It also has the meaning of &#8220;exemplar&#8221; as in Lecture I of this chapter. The union of persons which\
 is the very essence or formal cause of matrimony (S.T. III, 29, 2c; Suppl. 44, 1c) was raised to\
 the dignity of a sacrament by Christ so that it conforms to the union of love he has for his spouse,\
 the Church (Suppl. 42, 1 ad 3). Cf. St. Thomas&#8217; comments on Eph. 5:32 below.<\/p>\
-<\/span>'
+<\/span>';
 
-function WPShow(WPid, WPtext)
-{
-  if(bInlineFloats)
-    eval("document.all." + WPid + ".style.visibility = 'visible'");
-  else
-  {
-    if(floatwnd == 0 || floatwnd.closed)
-      floatwnd = window.open("", "comment", "toolbars=0,width=600,height=200,resizable=1,scrollbars=1,dependent=1");
-    floatwnd.document.open("text/html", "replace");
-    floatwnd.document.write("<html><head>\r\n");
-    floatwnd.document.write("<style> p { margin-top:0px; margin-bottom:1px; } <\/style>\r\n");
-    floatwnd.document.write("<\/head><body>\r\n");
-    floatwnd.document.write(WPtext);
-    floatwnd.document.write('<br><a href="javascript: self.close()">Close<\/a>');
-    floatwnd.document.write("<\/body><\/html>");
-    floatwnd.document.close();
-    floatwnd.focus();
+  function WPShow(WPid, WPtext) {
+    if (bInlineFloats)
+      eval("document.all." + WPid + ".style.visibility = 'visible'");
+    else {
+      if (floatwnd == 0 || floatwnd.closed)
+        floatwnd = window.open(
+          "",
+          "comment",
+          "toolbars=0,width=600,height=200,resizable=1,scrollbars=1,dependent=1"
+        );
+      floatwnd.document.open("text/html", "replace");
+      floatwnd.document.write("<html><head>\r\n");
+      floatwnd.document.write(
+        "<style> p { margin-top:0px; margin-bottom:1px; } <\/style>\r\n"
+      );
+      floatwnd.document.write("<\/head><body>\r\n");
+      floatwnd.document.write(WPtext);
+      floatwnd.document.write(
+        '<br><a href="javascript: self.close()">Close<\/a>'
+      );
+      floatwnd.document.write("<\/body><\/html>");
+      floatwnd.document.close();
+      floatwnd.focus();
+    }
   }
-}
 
-function WPHide(WPid)
-{
-  if(bInlineFloats)
-    eval("document.all." + WPid + ".style.visibility = 'hidden'");
-}
+  function WPHide(WPid) {
+    if (bInlineFloats)
+      eval("document.all." + WPid + ".style.visibility = 'hidden'");
+  }
 </script>
 <style>
-   p
-{
-        margin-top: 0px;
-        margin-bottom: 1px
-}
+  p {
+    margin-top: 0px;
+    margin-bottom: 1px;
+  }
 
-span.WPFloatStyle
-{
-        visibility: hidden;
-        position: absolute;
-        left: 10px;
-        right: 10px;
-        background-color: rgb(255, 255, 225);
-        border-width: 1px;
-        border-style: solid;
-        border-color: black;
-        margin-top: 25px;
-        padding: 6px;
-        line-height: normal
-}
+  span.WPFloatStyle {
+    visibility: hidden;
+    position: absolute;
+    left: 10px;
+    right: 10px;
+    background-color: rgb(255, 255, 225);
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    margin-top: 25px;
+    padding: 6px;
+    line-height: normal;
+  }
 
-span.WPNormal
-{
-        font-family: "Times New Roman", serif;
-        font-size: 12pt;
-        font-weight: normal;
-        font-style: normal;
-        font-variant: normal;
-        text-align: left;
-        text-decoration: none;
-        color: black;
-        vertical-align: middle;
-        text-indent: 0in
-}
+  span.WPNormal {
+    font-family: "Times New Roman", serif;
+    font-size: 12pt;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    text-align: left;
+    text-decoration: none;
+    color: black;
+    vertical-align: middle;
+    text-indent: 0in;
+  }
 </style>
 <blockquote>
   <a name="1" id="1">
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 5</span>
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 1</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">1 Be ye therefore followers of God, as most dear children;</span>
-  <p style="text-align: justify; margin-bottom: 0.125in"><span style="font-size: 10pt">2 And walk in love, as Christ also hath loved us and hath delivered himself for us, an oblation and a sacrifice to God for an odour of sweetness.</span>
-  <p style="text-align: justify; margin-bottom: 0.125in">Once be has exhorted them to kindness and mercy, which are the effects of charity (4:32), he gives them a model [to imitate]. In reference to this he does two things:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he urges them to imitate the exemplar, namely, God.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he lets them know in what they should imitate him (5:2).
-  <p style="text-align: justify; margin-bottom: 0.125in">I have affirmed, he says, that you ought to forgive one another as God has forgiven you in Christ. <span style="font-weight: bold">Be therefore followers of God</span> because this is indispensable even if it is difficult. “What is man, said I, that he can follow the King his maker?” (Eccl. 2:12). Nonetheless, human nature would never achieve its end except in union with God. “My foot has followed his steps: I have kept his way, and have not declined from it” (Job 23:11). He must be imitated insofar as it is possible for us to do so-a son must imitate his father. Thus he adds as children since he is our father through creation: “Is he not your father, who possessed you, and made you, and created you?” (Deut. 32:6). He puts in most dear because God chose us to share in what is his very own.
-  <p style="text-align: justify; margin-bottom: 0.125in"><span style="font-weight: bold">And walk in love</span> (v. 2) comes next, here:
-  <p style="text-align: justify; margin-left: 0.259167in">First, be maintains that the way to imitate God is in ebarity.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he speaks of the tremendous sign of charity (5:2b).
-  <p style="text-align: justify; margin-bottom: 0.125in">The charity of God has made us his most dear children: “For you have not received the spirit of bondage again in fear; but you have received the spirit of adoption of sons, whereby we cry: Abba, Father. For the Spirit himself gives testimony to our spirit that we are the sons of God” (Rom. 8:15-16). Certainly we ought to follow him in love. He says <span style="font-weight: bold">walk</span> to signify “you must always advance” as in Genesis 17 (1): ‘Walk before me and be perfect.” This should be in love since love is so good that man ought always to make further progress in it, and is that kind of a debt which man always has to pay. “Owe no man any thing, but to love one another” (Rom. 13:8). Or in love may mean the way in which God is followed more closely: “And I show you yet a more excellent way. If I speak with the tongues of men, and of angels, and have not charity, I am become as sounding brass, or a tinkling symbol” (1 Cor. 12:31-13:1). “Above all these things have charity, which is the bond of perfection” (Col. 3:14). This must be done according to Christ’s example, whence he adds as <span style="font-weight: bold">Christ also has loved us</span>. Jesus “having loved his own who were in the world, he loved them unto the end” (Jn. 13:1).</a>
-  <p style="text-align: justify; margin-bottom: 0.125in"><a name="1" id="1">According to Gregory, “love is verified when it is expressed in action.”</a> <a href="javascript:WPShow('WPFootnote1',%20WPFootnote1%20)"><img src="footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a> 
-  <script type="text/javascript" language="javascript">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     if(bInlineFloats)
-  {
-    document.write('<span id="WPFootnote1" class="WPFloatStyle">');
-    document.write(WPFootnote1);
-    document.write('<br><a href="javascript:WPHide(\'WPFootnote1\')">Close<\/a>');
-    document.write('<\/span>');
-  }
-  </script> Therefore he adds <span style="font-weight: bold">and delivered himself for us</span>. “He has loved us, and washed us from our sins in his own blood” (Apoc. 1:5). I live in the faith of the Son of God, who loved me and delivered himself for me” (Gal. 2:20). “He hath delivered his soul unto death and was reputed with the wicked” (Is. 53:12).
-  <p style="text-align: justify; margin-bottom: 0.125in">This death was both advantageous and necessary for us, thus he says an <span style="font-weight: bold">oblation and a sacrifice</span>. Here the Apostle is speaking in the way the Old Law does. In it, as Leviticus 4 indicates, when someone sinned he was obliged to offer, because of it, the sacrifice and oblation which was designated for the sin. Then too, when someone gave thanks to God, or wished to obtain some favor, he had to offer a victim of peace, as prescribed in Leviticus 3 (9), which was of a most sweet savour to the Lord (v. 16). These, however, are all accomplished through Christ who, in order that we might be cleansed from sin and attain to glory, <span style="font-weight: bold">delivered himself for us</span>, an oblation through the actions he performed during his life: “He was offered because it was his own will, and he opened not his mouth” (Is. 53:7); and [he died as] a sacrifice to God for sin.
-  <p style="text-align: justify; margin-bottom: 0.125in">This was <span style="font-weight: bold">for an odour of sweetness</span>, hinting at what is said in Leviticus 3 (5 ff.). But certainly the odour described there was not pleasing to God in itself but according to its signification, inasmuch as it symbolized the sweet-smelling oblation of the body of Christ, the Son of God. “Behold, the smell of my son is as the smell of a plentiful field” (Gen. 27:27). “Draw me, we will run after you to the odour of thy ointments” (Cant. 1:3). In this way also we ought to offer spiritual sacrifices to God: “A sacrifice to God is an afflicted spirit” (Ps. 50:19).
-  <p style="margin-bottom: 0.125in; margin-bottom: 0.125in"><a name="2" id="2">
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 5</span>
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 2</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">3 But fornication and all uncleanness or covetousness, let it not so much as be named among you, as becometh saints;</span>
-  <p style="text-align: justify; margin-bottom: 0.125in"><span style="font-size: 10pt">4 Or obscenity or foolish talking or scurrility, which is to no purpose; but rather giving of thanks.</span>
-  <p style="text-align: justify; margin-bottom: 0.125in">Having previously cautioned them, the Apostle taught the Ephesians to put off the old man and put on the new by forbidding spiritual vices (4:25). Now he also bans carnal sins. It is divided into two parts:
-  <p style="text-align: justify; text-indent: -0.240833in; margin-left: 0.5in">First, he prohibits the old way of carnal sins.
-  <p style="text-align: justify; margin-bottom: 0.125in">Secondly, he stimulates them on to the new life (5:15).
-  <p style="text-align: justify; margin-bottom: 0.125in">The first part has three subdivisions:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he rejects the old sins.
-  <p style="text-align: justify; margin-left: 0.259167in">Secondly, he sets forth their punishment (5:5).
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Thirdly, he precludes a fallacy (5:6).
-  <p style="text-align: justify; margin-bottom: 0.125in">The first section has two parts:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he bars certain principal vices.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he rejects some vices associated with them (5:4).</a>
-  <p style="text-align: justify; margin-bottom: 0.125in"><a name="2" id="2">He eliminates three vices. There is a natural voluptuousness committed with another outside of wedlock; whence he says <span style="font-weight: bold">fornication</span>. “For the spirit of fornication hath deceived them” (Os. 4:12); “flee from fornication” (1 Cor. 6:18). Job did this: “I made a covenant with my eyes, that I would not so much as think upon a virgin” (31:1). This is called “fornication” from the word “fornix,” that is, the triumphal arch near which brothels were situated. “Fornication came in upon them.”</a> <a href="javascript:WPShow('WPFootnote2',%20WPFootnote2%20)"><img src="footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a> 
-  <script type="text/javascript" language="javascript">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     if(bInlineFloats)
-  {
-    document.write('<span id="WPFootnote2" class="WPFloatStyle">');
-    document.write(WPFootnote2);
-    document.write('<br><a href="javascript:WPHide(\'WPFootnote2\')">Close<\/a>');
-    document.write('<\/span>');
-  }
-  </script>
-  <p style="text-align: justify; margin-bottom: 0.125in"><span style="font-weight: bold">And all uncleanness</span> designates every impurity against nature, namely, when the act is not ordered toward the generation of offspring. “Now the works of the flesh are manifest, which are: fornication, uncleanness, immodesty, luxury” (Gal. 5:19).
-  <p style="text-align: justify; margin-bottom: 0.125in">Thirdly, he bans avarice in mentioning <span style="font-weight: bold">covetousness</span>. But why this? Is it to be classed with carnal sins? I reply that it is neither identified with, nor completely separate from, carnal sin but midway between the spiritual and carnal sins. It can be explained this way. Sin contains two elements, the object of the sin and the gratification the object affords. Thus with certain sins both the object and the gratification are spiritual, such as anger. Both revenge, which is the objective of anger, and its gratification, are spiritual; the same holds true for vainglory. Other sins, however, are completely carnal both in their objects and their gratification; such as gluttony and voluptuousness. But covetousness is between each of these because its object is carnal, namely money, whereas its gratification is spiritual inasmuch as the mind finds rest in the possession of money. Therefore, covetousness is enumerated among The carnal sins by reason of its object, and among the spiritual ones by reason of the gratification it affords. “Let your manners be without covetousness” (Heb. 13:5).
-  <p style="text-align: justify; margin-bottom: 0.125in">Or it might be answered that covetousness is opposed to justice and thus is classed with the kind of sensuality known as adultery. The latter is the unjust use of another man’s woman and covetousness is the unjust use of money.
-  <p style="text-align: justify; margin-bottom: 0.125in">Above he said “He that stole, let him now steal no more” (Eph. 4:28). But here he says <span style="font-weight: bold">let it not so much as be named among you</span> because in the spiritual battle carnal sins must first be conquered. In vain would anyone struggle against internal sins unless he had first overcome external, carnal ones—against which there will always be a struggle. Therefore he says <span style="font-weight: bold">let it not so much as be named among you</span>, as becomes saints who refrain from such actions, thoughts and words. “I will destroy the name of Babylon, and the remains, and the bud, and the offspring” (Is. 14:22). “Take care of a good name” (Sirach 41:15) since this is fitting for saints. “In all things let us exhibit ourselves as the ministers of God” (2 Cor. 6:4).
-  <p style="text-align: justify; margin-bottom: 0.125in">Next he sets down some vices associated with the aforementioned. Regarding them he makes two points:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he rejects these vices.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he encourages them to practice the contrary virtue.
-  <p style="text-align: justify; margin-bottom: 0.125in">Hence he bans three vices, namely, <span style="font-weight: bold">obscenity</span> which consists in impure touches, embraces and lustful kisses. “But he who is an adulterer, for the folly of his heart shall destroy his own soul. He gathers to himself shame and dishonor” (Prov. 6:32-33). Then there is <span style="font-weight: bold">foolish talking</span> which is words provocative of evil. “For her conversation,” that is, of an evil woman, “burns as fire” (Sirach 9:11). Finally there is <span style="font-weight: bold">scurrility</span> consisting in jocose words with which some attempt to please others. “But I say to you that for every idle word that men shall speak, they shall render an account on the day of judgment” (Mt. 12:36). All of these are grave insofar as they are said or done in connection with mortal sins; for anything, even if it is generally good, becomes mortal to the degree that it is ordered toward mortal sins.
-  <p style="text-align: justify; margin-bottom: 0.125in">Then he introduces them to the opposite, namely, thanksgiving. Whence he says <span style="font-weight: bold">but rather giving of thanks</span>. “Joy and gladness shall be found therein, thanksgiving and the voice of praise” (Is. 51:3).
-  <p style="margin-bottom: 0.125in; margin-bottom: 0.125in"><a name="3" id="3">
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 5</span>
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 3</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">5 For know you this and understand: that no fornicator or unclean or covetous person, which is a serving of idols, hath inheritance in the kingdom of Christ and of God.</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">6 Let no man deceive you with vain words. For because of these things cometh the anger of God upon the children of despair.</span>
-  <p style="text-align: justify; margin-bottom: 0.125in"><span style="font-size: 10pt">7 Be ye not therefore partakers with them.</span>
-  <p style="text-align: justify; margin-bottom: 0.125in">The Apostle above forbade carnal sins (5:3), here he threatens them with the penalty of damnation that is inflicted on sinners. In reference to this he does two things:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he assures them of it.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he mentions the sins one by one (5:5b).
-  <p style="text-align: justify; margin-bottom: 0.125in">He states <span style="font-weight: bold">For know you this and understand</span>, that is, be actually certain of it and not just habitually. “These things I write to you that you may know that you have eternal life; you who believe in the name of the Son of God” (1 Jn. 5:13). And what does he write? <span style="font-weight: bold">That no fornicator or unclean or covetous person, which is a serving of idols, hath inheritance in the kingdom of Christ and of God</span>.
-  <p style="text-align: justify; margin-bottom: 0.125in">Notice that he calls covetousness idolatry, for idolatry happens when the honor due God alone is given to creatures. Now there is a twofold honor due God; we must establish him as the goal of our life and we must put our trust of reaching the goal in him. Hence, whoever places these ‘in creatures is guilty of idolatry. A covetous person commits this when he fixes his end in a created reality as well as putting all his trust in it. “Of their silver and their gold they have made idols to themselves, that they might perish” (Os. 8:4). This happens since, as Proverbs 11 (28) affirms: “He that trusteth in his riches shall fall.”
-  <p style="text-align: justify; margin-bottom: 0.125in">However, since in the other sins a man also puts his goal in a creature, chnging to it by love, why are not they termed idolatry too? I reply that idolatry consists in giving an illegitimate worship to some external object. Whereas in the other sins one’s end is deorientated interiorly, as though it consisted in one’s own exaltation. Whoever places his end in riches, on the other hand, fixes it in an external object as an idol. Does that mean that covetous persons, giving the honor due God to creatures, are really and essentially idolators? I hold that they are not, because in moral issues acts or deeds are judged by their end. Therefore, only those are essentially idolators who intend to really offer worship to a creature. A covetous person does not really (<i>per se</i>) intend to do this, be only happens (<i>per accidens</i>) to do it in his excessive and inordinate love [for riches].
-  <p style="text-align: justify; margin-bottom: 0.125in">What happens to such people? They do not possess the inheritance since heirs are sons, as Romans 8 (17) states. But these persons are not sons because they are carnal, therefore they do not enjoy the inheritance as I Corinthians 15 (50) affirms: “Now this I say, brethren, that flesh and blood cannot possess the kingdom of God,” that is, God himself who said: “I am their inheritance” (Ez. 44:28).
-  <p style="text-align: justify; margin-bottom: 0.125in">It might be asked: If the inheritance is God himself who is indivisible and inseparable, why does he say <span style="font-weight: bold">in the kingdom of Christ and of God</span>, dividing the two as if the inheritance could be severed? I reply. Our inheritance consists in the enjoyment of God. But God enjoys himself in a way different from that in which we shall enjoy him. God perfectly delights in himself since he perfectly knows and totally loves himself inasmuch as he is knowable and lovable. Not so with us, even though we shall perfectly know him in heaven and, as a consequence, love him. For someone may indeed grasp a simple reality and know the whole of it, while still not [knowing it] totally. For example, if the light of the sun were as small as a point, the human eye could perceive the whole of it, although not fully, whereas the eagle’s eye would grasp it totally.” Similarly, even if we know God perfectly in heaven and love him perfectly, nevertheless we do not totally comprehend him. Hence it seems that there is a certain imperfection and individuality there. Therefore he says <span style="font-weight: bold">of Christ and of God</span> conjointly, as though setting one part with another part, since it is through Christ and none other that the inheritance is had.
-  <p style="text-align: justify; margin-bottom: 0.125in">Next he says <span style="font-weight: bold">Let no man deceive you</span>, thereby rejecting a fallacy of those who would mislead them. Regarding this he makes two points:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he sets down a warning.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he adds the reason for it (5:8).
-  <p style="text-align: justify; margin-bottom: 0.125in">The first has two more parts:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he warns them not to be deceived into believing what is told them.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, that they should not associate with those liars by doing evil (5:7).
-  <p style="text-align: justify; margin-bottom: 0.125in">The first section still has two parts:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he puts an end to the deception.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he shows them a sign of the deceit (5:6b).</a>
-  <p style="text-align: justify; margin-bottom: 0.125in"><a name="3" id="3">Notice that only in reference to carnal vices does he teach them to avoid being deceived. For from the beginning men have rationalized to find reasons why fornication and other venereal sins were not really sins so that they might indulge their cupidity without restraint. Hence he states vain words since words that claim these are not sins and do not exclude one from the kingdom of God and of Christ are irrational. “Beware lest any man cheat you by prophecy and vain deceit” (Col. 2:8).”</a> <a href="javascript:WPShow('WPFootnote3',%20WPFootnote3%20)"><img src="footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a> 
-  <script type="text/javascript" language="javascript">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     if(bInlineFloats)
-  {
-    document.write('<span id="WPFootnote3" class="WPFloatStyle">');
-    document.write(WPFootnote3);
-    document.write('<br><a href="javascript:WPHide(\'WPFootnote3\')">Close<\/a>');
-    document.write('<\/span>');
-  }
-  </script>
-  <p style="text-align: justify; margin-bottom: 0.125in">He demonstrates that such men are deceivers and their words fallacious since, if carnal sins were not sins, they would not be punished by God; God is just and does not impose a penalty where there is no offense. But such acts are punished by God and therefore are sins. He proves the minor when he says <span style="font-weight: bold">For because of these things comes the anger of God</span>, namely, on account of carnal sins, <span style="font-weight: bold">upon the children of despair</span>. <a href="javascript:WPShow('WPFootnote4',%20WPFootnote4%20)"><img src="footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a> 
-  <script type="text/javascript" language="javascript">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     if(bInlineFloats)
-  {
-    document.write('<span id="WPFootnote4" class="WPFloatStyle">');
-    document.write(WPFootnote4);
-    document.write('<br><a href="javascript:WPHide(\'WPFootnote4\')">Close<\/a>');
-    document.write('<\/span>');
-  }
-  </script> This is evident in the flood (Gen. 7), in what happened to the Sodomites (Gen. 19); and again, almost the whole tribe of Benjamin was destroyed on account of this (Jg. 19 & 20).
-  <p style="text-align: justify; margin-bottom: 0.125in">He says the <span style="font-weight: bold">children of despair</span> because those who sin in this way despair of eternal life. If they acted this way and still hoped for eternal life, it would rather be presumption than hope, which is the certain expectation of obtaining future beatitude meritoriously. So he mentioned previously (Eph. 4:19): “Who, despairing, have given themselves up to lasciviousness unto the working of all uncleanness, unto covetousness.” “Let no meadow escape our riot. Let none of us go without his part in luxury,” and near the end of the same chapter “For they hoped not for the wages of justice, nor esteemed the honor of holy souls” (Wis. 2:8 & 22). Hence he states that <span style="font-weight: bold">upon the children of despair</span> who do not hope for eternal joys, <span style="font-weight: bold">comes the anger of God</span> on account of their sins. Or, <span style="font-weight: bold">of despair</span> signifies those of whom we cannot be confident of as far as their merits are concerned.
-  <p style="text-align: justify; margin-bottom: 0.125in">He concludes, <span style="font-weight: bold">Be ye not therefore partakers with them</span> by associating with them in such actions. “For what participation hath justice with injustice? Or what fellowship hath light with darkness? And what concord hath Christ with Belial? Or what part hath the faithful with the unbeliever?” (2 Cor. 6:14-15).
-  <p style="margin-bottom: 0.125in; margin-bottom: 0.125in"><a name="4" id="4">
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 5</span>
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 4</span>
-  <p style="text-align: justify; text-indent: -0.259167in; margin-left: 0.259167in"><span style="font-size: 10pt">8 For you were heretofore darkness, but now light in the Lord. Walk then as children of the light.</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">9 For the fruit of the light is in all goodness and justice and truth;</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">10 Proving what is well pleasing to God.</span>
-  <p style="text-align: justify; text-indent: -0.259167in; margin-left: 0.259167in; margin-bottom: 0.125in"><span style="font-size: 10pt">11 And have no fellowship with the unfruitful works of darkness; but rather reprove them.</span>
-  <p style="text-align: justify; margin-bottom: 0.125in">Previously the Apostle had banned carnal sins by threatening punishment and rejecting a fallacy (5:6). Here he gives the reason; it is taken from their situation. He does two things:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he describes their situation.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he deduces two conclusions from it (5:8b).
-  <p style="text-align: justify; margin-bottom: 0.125in">Their situation, however, is described as twofold:
-  <p style="text-align: justify; margin-left: 0.259167in">First, their past.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, their present situation (5:8a).
-  <p style="text-align: justify; margin-bottom: 0.125in">Thus he remarks <span style="font-weight: bold">you were heretofore darkness</span> blinded by ignorance and error. “Having their understanding darkened” (Eph. 4:18). “They have not known nor have they understood; they walk on in darkness” (Ps. 81:5). The darkness also comes from sin: “The way of the wicked is darksome; they know not where they fall” (Prov. 4:19). But observe that be does not vaguely call them “darksome” but <span style="font-weight: bold">darkness</span>. For anyone appears to be whatever is predominant in him; thus the whole state appears to be the king and whatever the king does is said to be done by the state, likewise when sin dominates a man the entire person is referred to as sin and darkness.
-  <p style="text-align: justify; margin-bottom: 0.125in">Next he describes their present condition, as though he said: But now you enjoy the light of faith: “among whom you shine as lights in the world” (Phil. 2:15), for “you are the light of the world” (Mt. 5:14). But this contradicts what was said of John the Baptist: “He was not the light” (Jn. 1:8). How then can other believers be called the light? I reply. They are not referred to as the light in essence but through participation.
-  <p style="text-align: justify; margin-bottom: 0.125in">Afterwards, he derives two conclusions. He had said that they had been darkness but now are light. Therefore:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he concludes that they should conform themselves to what they now are.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, that they avoid what they previously were (5:11).
-  <p style="text-align: justify; margin-bottom: 0.125in">The first has two sections:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he writes down an admonition.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he explains it (5:9).
-  <p style="text-align: justify; margin-bottom: 0.125in">He affirms: Since you are now light, perform the deeds of light— <span style="font-weight: bold">Walk as children of the light</span>. “Walk whilst you have the light, that the darkness overtake you not” (Jn. 12:35). He interprets this when he says <span style="font-weight: bold">For the fruit of the light is in all goodness</span>. However, a person behaves as a child of the light in two ways; first in reference to the substance or kind of actions he performs, then in reference to the manner or intention he does them with. Thus:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he determines the actions which should be performed.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, with what intention they should be done (5:10).
-  <p style="text-align: justify; margin-bottom: 0.125in">Therefore he remarks: I have said that you should walk as children of the light, <span style="font-weight: bold">but the fruit of the light</span> is actions which are fruitful and resplendent. “And my flowers are the fruit of honour and riches” (Sirach 24:23). This is <span style="font-weight: bold">in all goodness</span>. Whence it must be recalled that every act of virtue is reduced to three relationships. For it is necessary that the agent be ordered within himself, to his neighbor, and to God. Within himself, that he be good in himself; and on this account he says <span style="font-weight: bold">in all goodness</span>. “Teach me goodness and discipline and knowledge” (Ps. 118:66). He must be ordered to his fellow man by justice; whence he says <span style="font-weight: bold">and justice</span>. “I have done judgment and justice” (Ps. 118:121). While he is ordered to God through knowledge and a confession of the truth; so he adds <span style="font-weight: bold">and truth</span>. “Only love ye truth and peace” (Zach. 8:19).
-  <p style="text-align: justify; margin-bottom: 0.125in">Another interpretation is that goodness refers to the heart, justice to one’s actions, and truth to the tongue. This was mentioned above in Chapter 4 (25); it is also in Zacharias 8 (16): “Speak ye truth every one with his neighbor.”
-  <p style="text-align: justify; margin-bottom: 0.125in">Then he discloses with what intention the actions should be performed. For they should not be done abruptly but with <span style="font-weight: bold">proving</span>, that is, discerning with one’s mind—“Let everyone prove his own work,” as Galatians 6 (4) expresses it— <span style="font-weight: bold">what is well pleasing to God</span>, that is, you ought to have the intention of doing whatever pleases God. “Be reformed in the newness of your mind, that you may prove what is the good and the acceptable and the perfect will of God” (Rom. 12:2).
-  <p style="text-align: justify; margin-bottom: 0.125in">After this he exhorts them not to return to the state they have left behind because, as Galatians 2 (18) remarks: “If I build up again the things which I have destroyed, I make myself a prevaricator.” Lest “the dog is returned to his vomit; and, the sow that was washed, to her wallowing in the mire” (2 Pet. 2:22). This section is divided into two parts:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he gives the caution.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he tells them his reason (5:12).
-  <p style="text-align: justify; margin-bottom: 0.125in">The first is again divided into two sections:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he warns them not to do evil.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he tells them to reprehend wickedness (5:11b).
-  <p style="text-align: justify; margin-bottom: 0.125in">He stated <span style="font-weight: bold">proving what is well pleasing to God. And have no fellowship with the unfruitful works of darkness</span> which are sensuous actions leading to an everlasting darkness. They are unfruitful since they only possess a momentary delight which disappears very quickly. “What fruit therefore had you then in those things of which you are now ashamed?” (Rom. 6:21). “Trees of the autumn, unfruitful, twice dead, plucked up by the roots, raging waves of the sea, foaming out their own confusion; wandering stars, to whom the storm of darkness is reserved for ever” (Jude 1:12). Moreover, they seek out places of darkness for their depravity where they have the companionship of beasts. “The eye of the adulterer observes darkness, saying: No eye shall see me. And he will cover his face. He digs through houses in the dark, as in the day they had appointed for themselves; and they have not known the light” (Job. 24:15-16). With these, therefore, have no fellowship, neither by imitating, nor assisting, nor consenting to them. “What fellowship hath a holy man with a dog?” (Sirach 13:22).</a>
-  <p style="text-align: justify; margin-bottom: 0.125in"><a name="4" id="4">But clearly this is not enough; you must also reprehend them since, as Augustine remarks, God sometimes punishes innocent companions because those who are good do not reprimand the evil ones. “And he gave every one of them commandment concerning his neighbor” (Sirach 17:12). Hence he says <span style="font-weight: bold">but rather reprove them</span>. “Reprove, entreat, rebuke in all patience and doctrine” (2 Tim. 4:2). But do we always sin if we do not reprove those who sin? Augustine replies:</a> <a href="javascript:WPShow('WPFootnote5',%20WPFootnote5%20)"><img src="footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a> 
-  <script type="text/javascript" language="javascript">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     if(bInlineFloats)
-  {
-    document.write('<span id="WPFootnote5" class="WPFloatStyle">');
-    document.write(WPFootnote5);
-    document.write('<br><a href="javascript:WPHide(\'WPFootnote5\')">Close<\/a>');
-    document.write('<\/span>');
-  }
-  </script> Should you refrain from reprimanding out of a fear of charity, namely, lest the sinner fall into greater evil and begin to afflict those who are good, you shall not sin. But if you do this from a fear that has its source in greed, lest the sinner grow indignant and you lose your benefices, then you do sin.
-  <p style="margin-bottom: 0.125in; margin-bottom: 0.125in"><a name="5" id="5">
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 5</span>
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 5</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">12 For the things that are done by them in secret, it is a shame even to speak of.</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">13 But all things that are reproved are made manifest by the light; for all that is made manifest is light.</span>
-  <p style="text-align: justify; margin-bottom: 0.125in"><span style="font-size: 10pt">14 Wherefore it saith: Rise, thou that sleepest, and arise from the dead; and Christ shall enlighten you.</span>
-  <p style="text-align: justify; margin-bottom: 0.125in">The Apostle explained his warnings above (5:9), and now he gives the reasons for them. He had given two warnings: the first was that they should not associate in the works of darkness, the second that they should reprove sinners. Hence he does two things:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he gives the reason for the first warning.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, the reason for the second (5:13).
-  <p style="text-align: justify; margin-bottom: 0.125in">Thus he asserts: I said well that vou ought not to have fellowship but rather reprimand and reprove such as these. Why? Because <span style="font-weight: bold">the things that are done by them in secret, it is a shame even to speak of</span>. This is characteristic of carnal vices which possess a great depravity; they have the least amount of rational good since actions of this type are common to us and the beasts.
-  <p style="text-align: justify; margin-bottom: 0.125in">After this the Apostle gives the reason for the second warning, and he makes two points:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he sets down the reason.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he produces a confirmation of it (5:14).
-  <p style="text-align: justify; margin-bottom: 0.125in">Regarding the first, he wants to prove that it is fitting for them to reprimand delinquents. He proves it this way: Whatever is shown to be evil is to be reproved, for every reproof is a certain manifestation; but every manifestation occurs through the light, and you are the light; hence it is fitting for you to reprove and reveal those who are evil. He expresses the major of this reasoning at <span style="font-weight: bold">But all things that are reproved are made manifest by the light</span>. And the minor is expressed in <span style="font-weight: bold">for all that is made manifest is light</span>. As though he said: For this reason it is fitting for you to reprimand them because, as 1 Corinthians 2 (15) puts it, “the spiritual man judgeth all things; and he himself is judged of no man.” Thus a Gloss offers the following interpretation: <span style="font-weight: bold">All</span> sins <span style="font-weight: bold">that are reproved by the light</span> that is, by the good and holy men who are the children of the light, <span style="font-weight: bold">are made manifest</span> through a confession. “But he that shall confess and forsake them [his sins], shall obtain mercy” (Prov. 28:13). <span style="font-weight: bold">For all evil that is made manifest</span> through confession, <span style="font-weight: bold">is light</span>, that is, is turned into light.
-  <p style="text-align: justify; margin-bottom: 0.125in">Next, he verifies this by an authority (v. 14) which a Gloss interprets: In order that light might prevail he—the Holy Spirit—says: Rise you who sleep and arise from the dead and Christ shall enlighten you. But this is not customary for Paul. Hence it must be said that the Apostle is introducing the image found in Isaiah 60 (1): “Arise, be enlightened, O Jerusalem; for your light has come, and the glory of the Lord has risen upon you.” Thus <span style="font-weight: bold">wherefore it says</span> refers to Scripture. <span style="font-weight: bold">Rise</span> from a neglect of good works, <span style="font-weight: bold">you who sleep</span>. “How long will you sleep, O sluggard?” (Prov. 6:9). “Shall he that sleepeth rise again no more?” (Ps. 40:9). <span style="font-weight: bold">And arise from the dead</span>, that is, from dead or destructive actions. Christ “will cleanse our conscience from dead works” (Heb. 9:14). “Your dead men shall live, my slain shall rise again” (Is. 26:19). Rise therefore <span style="font-weight: bold">and Christ shall enlighten you</span>. “The Lord is my light and my salvation; whom shall I fear?” (Ps. 26:1). “Enlighten my eyes that I never sleep in death” (Ps. 12:4).
-  <p style="text-align: justify; margin-bottom: 0.125in">Yet are not we capable of rising from sin ourselves since it says: Rise... and Christ shall enlighten you? I reply. Two things are requisite for the justification of a sinner, namely, a free decision cooperating in the act of rising [from sin] and grace itself. And certainly the free decision itself is had from prevenient grace, while the meritorious actions that follow are from subsequent grace. Hence the last chapter of Lamentations (v. 21) says: “Convert us, O Lord, to you, and we shall be converted.”
-  <p style="margin-bottom: 0.125in; margin-bottom: 0.125in"></a> <a name="6" id="6">
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 5</span>
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 6</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">15 See therefore, brethren, how you walk circumspectly; not as un wise,</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">16 But as wise; redeeming the time, because the days are evil.</span>
-  <p style="text-align: justify; margin-bottom: 0.125in"><span style="font-size: 10pt">17 Wherefore, become not imprudent; but understanding what is the will of God.</span>
-  <p style="text-align: justify; margin-bottom: 0.125in">Above he forbade the old ways of camal illusions (5:3), now he exhorts them to the contrary newness. He encourages them:
-  <p style="text-align: justify; margin-left: 0.259167in">First, toward a newness opposed to the former illusions.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, toward a newness opposed to voluptuousness (5:18).
-  <p style="text-align: justify; margin-bottom: 0.125in">The first section contains three parts:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he gives them a caution against the fallacy.
-  <p style="text-align: justify; margin-left: 0.259167in">Secondly, he shows them the newness of this precaution (5:16b).
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Thirdly, he teaches them how to act according to it (5:17).
-  <p style="text-align: justify; margin-bottom: 0.125in">Whence he states <span style="font-weight: bold">therefore</span> from the preceding <span style="font-weight: bold">see how you walk circumspectly</span>. Caution is one of the conditions of prudence by which a person avoids hindrances in accomplishing what he has to do. Everyone ought to possess this caution. “Let thy eyes look straight on and let thy eyelids go before thy steps” (Prov. 4:25). This is a characteristic of wise men, thus he adds <span style="font-weight: bold">not as unwise</span> who do not know how to avoid the obstacles. “All the foolish of heart were troubled” (Ps. 75:6). <span style="font-weight: bold">But as wise</span>: “The eyes of a wise man are in his head: the fool walketh in darkness” (Ecel. 2:14). Some say: “If you do not act chastely, nonetheless act cautiously.” The Apostle does not take it in such a sense; when he says <span style="font-weight: bold">circumspectly</span> it is as though he said: Beware of men who thwart chastity.
-  <p style="text-align: justify; margin-bottom: 0.125in">He explains the necessity of this precaution when he says <span style="font-weight: bold">redeeming the time</span>, which can be interpreted in two ways. On certain occasions a man redeems his property by offering a gift or something else for it; for instance, someone is said to compensate for a grievance he caused by offering a gift or money, or by renouncing something which is rightfully his. In this sense he would be saying: The whole of time is now a time of deception, hence you should be <span style="font-weight: bold">redeeming the time, because the days are evil</span>. At the time Adam sinned, and from then on, snares have always been set to thrust men into sin. It was not that way in the state of innocence when it was unnecessary for a man to abstain from anything which was licit, since there was nothing in his will driving him to sin. But now we have to redeem the time, <span style="font-weight: bold">because the days are evil</span>; we.must avoid the depravity of the days, and “beware beforehand of the evil day,” as Ecclesiastes 7 (15) expresses it. To do this we must renounce even certain things which are lawful: “All things are lawful for me; but all things do not edify” (I Cor. 10:23). In this way a person is said to redeem a grievance he caused since he permits something that is rightfully his to be forfeited.
-  <p style="text-align: justify; margin-bottom: 0.125in">There is another interpretation of <span style="font-weight: bold">redeeming the time</span>. For it sometimes happens that a person lives a great part of his life in sin, and this is time lost. But how is he to redeem it when man is incapable of paying his debts? I reply that he ought to devote himself to good works to an even greater degree than be bad previously pursued sinful ones. “For the time past is sufficient to have fulfilled the will. of the Gentiles, for them who have walked in riotousness, lusts, excesses of wine, revellings, banquetings, and unlawful worshipping of idols” (1 Pet. 4:3). The first interpretation, however, is better.
-  <p style="text-align: justify; margin-bottom: 0.125in">Then he goes on to teach them how to abide by the precaution, saying: <span style="font-weight: bold">Wherefore</span> that you may be able to redeem the time <span style="font-weight: bold">become not imprudent</span>. Notice that there is a difference between wisdom and prudence. For prudence is a certain type of wisdom, but not the whole of wisdom. “Wisdom is prudence to a man” (Prov. 10:23). That man is called wise in an absolute sense who puts everything into perspective; but a man is wise only in a certain respect when he puts in order only those things about which he is well informed. “As a wise architect I have laid the foundation” (1 Cor. 3:10). For the role of the wise man is to put things in order, as the First Book of the <i>Metaphysics</i> states.
-  <p style="text-align: justify; margin-bottom: 0.125in">Everyone who sets things in perspective considers their end; hence he is wise in an absolute sense who knows and acts for the universal end, God. “For this is your wisdom, and understanding in the sight of nations” (Deut. 4:6). For wisdom, as Augustine mentions in the Fourth Book on the Trinity, is the knowledge of divine realities. Prudence, on the other hand, is the directive care of particular things, as when a person regulates his actions. Thus, wisdom is prudence to man. For this reason he says <span style="font-weight: bold">become not imprudent, but understanding what is the will of God</span>. For just as speculative reason puts whatever is to be done in perspective and judges it—it is necessary to have conclusions and to judge them by principles—so likewise in the field of performance. Now the first principle through which we ought to judge and regulate everything is the will of God. Hence the intellect, in moral matters and those which lead to God, must have the will of God for its principle. If it does, then the intellect becomes prudent. “O that they would be wise and would understand, and would provide for their last end” (Deut. 32:29). Our Lord taught this: “Thy will be done” (Mt. 26:42).
-  <p style="margin-bottom: 0.125in; margin-bottom: 0.125in"></a> <a name="7" id="7">
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 5</span>
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 7</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">18 And be not drunk with wine, wherein is luxury; but be ye fined with the Holy Spirit,</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">19 Speaking to yourselves in psalms and hymns and spiritual canticles, singing and making melody in your hearts to the Lord;</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">20 Giving thanks always for all things, in the name of our Lord Jesus Christ, to God and the Father;</span>
-  <p style="text-align: justify; margin-bottom: 0.125in"><span style="font-size: 10pt">21 Being subject one to another, in the fear of Christ.</span>
-  <p style="text-align: justify; margin-bottom: 0.125in">He urged them before to that newness which is in opposition to the old illusion (5:15), now he does the same in reference to the old ways of carnal sins. Or, we might say that he previously reprimanded carnal sins in regard to voluptuousness, and here does it concerning gluttony. He makes two points:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he forbids the old way.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he introduces them to the new condition (5: 18b).</a>
-  <p style="text-align: justify; margin-bottom: 0.125in"><a name="7" id="7">Thus he says: I have stated that fornication and all uncleanness should not be even named among you. Yet you ought also be careful to abstain from superfluous wine since excessive food and drink is a cause of sensuality; and especially wine which warms and excites a man. ‘Vine is a luxurious thing, and drunkenness riotous” (Prov. 20:1). “When the king was merry, and after very much drinking was well warmed with wine, he commanded... to, bring in queen Vasthi before the king” (Est. 1:10-11). “Fornication and wine and drunkenness take away the understanding” (0s. 4:11). Whence Jerome remarks: “A man over whom Sodom could not prevail was conquered by wine—Lot.”</a> <a href="javascript:WPShow('WPFootnote6',%20WPFootnote6%20)"><img src="footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a> 
-  <script type="text/javascript" language="javascript">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     if(bInlineFloats)
-  {
-    document.write('<span id="WPFootnote6" class="WPFloatStyle">');
-    document.write(WPFootnote6);
-    document.write('<br><a href="javascript:WPHide(\'WPFootnote6\')">Close<\/a>');
-    document.write('<\/span>');
-  }
-  </script> Therefore <span style="font-weight: bold">be not drunk with wine, wherein is luxury</span>.
-  <p style="text-align: justify; margin-bottom: 0.125in"><span style="font-weight: bold">But be ye filled with the Holy Spirit.</span> Among all those things which breed a variety of moods is wine; thus it begets animosity and makes men “talk in thousands” as 3 Esdras 3 (21) affirms. Appropriately therefore does he teach them the opposite, to be filled with the Holy Spirit who engenders an intensity of devotion: “In spirit fervent” (Rom. 12:11). Who also spreads joy and spiritual happiness: “Justice, and peace, and joy in the Holy Ghost” (Rom. 14:17). Who, moreover, makes men speak out boldly: “And they were all filled with the Holy Ghost; and they began to speak with diverse tongues, according as the Holy Ghost gave them to speak” (Ac. 2:4), so that those who heard them thought they were drunk (Ac. 2:13).
-  <p style="text-align: justify; margin-bottom: 0.125in">But do we possess the Holy Spirit by our own power? reply and say that the Holy Spirit is possessed in two ways. Either he is had receptively, and it is not in our power to receive him, rather we accept him as a gift from God: “the charity of God is poured forth in our hearts, by the Holy Ghost, who is given to us” (Rom. 5:5). Or he is possessed dispositively, and even here we are not capable of receiving him since we cannot dispose ourselves without the grace of God: “Not that we are sufficient to think any thing of ourselves, as of ourselves; but our sufficiency is from God” (2 Cor. 3:5).
-  <p style="text-align: justify; margin-bottom: 0.125in">Or, someone may be said to receive the Holy Spirit, and nonetheless not be full of the Holy Spirit. He has the grace of the Holy Spirit in reference to certain aspects of his life, but not in reference to every one of his actions. Then is he said to be full of the Holy Spirit when he avails himself of the Spirit in all be does.
-  <p style="text-align: justify; margin-bottom: 0.125in">The way to be filled is found in the love of God and one’s fellow men. Thus when he says <span style="font-weight: bold">speaking to yourselves in Psalms</span> (v. 19):
-  <p style="text-align: justify; margin-left: 0.259167in">First, he touches on the way of being filled in relation to God.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, in relation to one’s fellow man (5:21).
-  <p style="text-align: justify; margin-bottom: 0.125in">Concerning the first of these he does three things:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he prescribes spiritual meditation.
-  <p style="text-align: justify; margin-left: 0.259167in">Secondly, he speaks of spiritual exultation (5:19b).
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Thirdly, comes the thanksgiving (5:20).
-  <p style="text-align: justify; margin-bottom: 0.125in">The first has two parts:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he writes of the manner of the meditation.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, the subject matter of it (5:19a).
-  <p style="text-align: justify; margin-bottom: 0.125in">There are two ways of speaking to yourselves. One is external, of a man talking to other men; another is interior, of a man speaking to himself. This latter ought to be repentant: I will speak in the bitterness of my soul” (Job 10:1). And it ought to be done in secret: “when you pray, enter your chamber and, having shut the door, pray to your Father in secret” (Mt. 6:6). “When I go into my house, I shall repose myself with her [wisdom]” (Wis. 8:16).
-  <p style="text-align: justify; margin-bottom: 0.125in">He then touches on the subject-matter of meditative prayer when he says <span style="font-weight: bold">in psalms and hymns and spiritual canticles</span>. To sing is to make use of the psaltery; and thus in psalms, that is, in good works. “Take a psalm, and bring hither the timbrel: thepleasant psaltery with the harp” (Ps. 80:3). And hymns, that is, by the divine praises: “A hymn to all. his saints” (Ps. 148:14); and <span style="font-weight: bold">spiritual canticles</span> concerning the hope of eternal realities: “Rejoicing in hope” (Rom. 12:12); “Upon the ten stringed psaltery, with a canticle upon the harp” (Ps. 91:4), “sing ye to the Lord a new canticle, because he hath done wonderful things” (Ps. 97:1). Hence we meditate on honest actions and what we should do; on the divine praise and what we should imitate; and on the joy of heaven and what we should render homage to, and how.
-  <p style="text-align: justify; margin-bottom: 0.125in">The first effect of the Holy Spirit is a holy meditation, and the second is a spiritual exultation; from frequent meditation the fire of charity is enkindled in the heart. “My heart grew hot within me: and in my meditation a fire shall flame out” (Ps. 38:4). And from this a spiritual joy is born within the heart; thus he mentions <span style="font-weight: bold">singing and making melody</span> so that our will would be stirred by spiritual joys to undertake good works. I will sing with the spirit, I will sing also with the understanding” (1 Cor. 14:15). “In all wisdom teaching and admonishing one another in psalms, hymns, and spiritual canticles, singing in grace in your hearts to God” (Col. 3:16).
-  <p style="text-align: justify; margin-bottom: 0.125in">This refutes the error of those heretics who claim that it is useless to sing vocal canticles to the Lord; that only spiritual ones matter. In the praises of the Church there is an essential element to consider, what the Apostle refers to as <span style="font-weight: bold">in your hearts</span>. Yet there is another element [the external expression in song] which has a twofold purpose. One is that it is for us, to stimulate our minds to an interior devotion. If someone is rather moved to frivolity or vain glory by it, this is contrary to the Church’s intention. Its second purpose is for others, since by it the illiterate become more devout: “And when the minstrel played, the hand of the Lord came upon him” (2 Kgs. 3:15).” <a href="javascript:WPShow('WPFootnote7',%20WPFootnote7%20)"><img src="footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a> 
-  <script type="text/javascript" language="javascript">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     if(bInlineFloats)
-  {
-    document.write('<span id="WPFootnote7" class="WPFloatStyle">');
-    document.write(WPFootnote7);
-    document.write('<br><a href="javascript:WPHide(\'WPFootnote7\')">Close<\/a>');
-    document.write('<\/span>');
-  }
-  </script>
-  <p style="text-align: justify; margin-bottom: 0.125in">The third effect is thanksgiving because, when someone is influenced in these ways toward God, he recognizes that everything he has is from God. For the more a person is affected by his relation to God and knows him, the more does he see God as greater while he himself becomes smaller, indeed almost nothing, in comparison with God. “Now my eye seeth you. Therefore do I reprehend myself, and do penance in dust and ashes” (Job 42:5-6). So he declares <span style="font-weight: bold">giving thanks always for all things</span>, for all his gifts, whether of prosperity or adversity. “I will bless the Lord at all times; his praise shall be always in my mouth” (Ps. 33:1). For adversities are also gifts to us on the way: “Count it all joy when you shall fall into divers temptations” (Jas. 1:2). And the Apostles “indeed went from the presence of the council, rejoicing that they were accounted worthy to suffer reproach for the name of Jesus” (Ac. 5:41). “In all things give thanks” (1 Thess. 5:18).
-  <p style="text-align: justify; margin-bottom: 0.125in">This is <span style="font-weight: bold">in the name of our Lord Jesus Christ</span> since all blessings come through him. “Let us have peace with God, through our Lord Jesus Christ; by whom also we have access through faith into this grace” (Rom. 5:1-2). Yet he adds <span style="font-weight: bold">to God</span> inasmuch as he is our maker through creation, <span style="font-weight: bold">and the Father</span> since he sent Christ to us through whom he regenerated us. Thus we give thanks to him as God regarding the goods of nature, and to him as Father in reference to the goods of grace.
-  <p style="text-align: justify; margin-bottom: 0.125in">He sets down the way of being filled [by the Spirit] in relation to one’s fellow men by saying <span style="font-weight: bold">being subject one to another, in the fear of Christ</span>, that is, not out of a human fear but from a reverence for Christ.
-  <p style="margin-bottom: 0.125in; margin-bottom: 0.125in"><a name="8" id="8">
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 5</span>
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 8</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">22 Let women be subject to their husbands as to a lord;</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">23 Because the husband is the head of the wife, as Christ is the head of the church. He is the saviour of his body.</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">24 Therefore, as the church is subject to Christ, so also let the wives be to their husbands in all things.</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">25 Husbands, ldve your wives, as Christ also loved the church and delivered himself up for it;</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">26 That he might sanctify it, cleansing it by the laver of water mi the word of life;</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">27 That he might present it to himself, a glorious church, not having spot or wrinkle or any such thing, but that it should be holy and without blemish.</span>
-  <p style="text-align: justify; margin-bottom: 0.125in"><span style="font-size: 10pt">28a So also ought men to love their wives as their own bodies.</span>
-  <p style="text-align: justify; margin-bottom: 0.125in">Up until now the Apostle has set down general precepts applicable to everyone (4:17), at this point he expresses those which pertain to particular persons or classes. According to the Philosopher in his <i>Politics</i>, a home must possess three relationships if it is to be complete, namely, that of the husband and wife, of the father and the children, and that between the master and his servants. Hence these three are dealt with when the Apostle instructs:
-  <p style="text-align: justify; margin-left: 0.259167in">First, the husband and wife.
-  <p style="text-align: justify; margin-left: 0.259167in">Secondly, the father and child (6: 1).
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Thirdly, the servants and masters (6:5).
-  <p style="text-align: justify; margin-bottom: 0.125in">The first has two divisions:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he cautions the women to be subject.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he admonishes the men to love (5:25).
-  <p style="text-align: justify; margin-bottom: 0.125in">The first is again twofold:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he gives an admonition.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he explains the reason for it (5:23).
-  <p style="text-align: justify; margin-bottom: 0.125in">Hence he states: <span style="font-weight: bold">Let women be subject to their husbands</span> because “a woman, if she have superiority, is contrary to her husband” as Ecclesiasticus 25 (30) affirms. So he especially warns them about subjection. This is <span style="font-weight: bold">as to a lord</span> since the relation of a husband to his wife is, in a certain way, like that of a master to his servant, insofar as the latter ought to be governed by the commands of his master. The difference between these two relationships is that the master employs his servants in whatever is profitable to himself; but a husband treats his wife and children in reference to the common good. Thus he mentions <span style="font-weight: bold">as to a lord</span>; the husband is not really a lord, but is as a lord. “Let wives be subject to their husbands” (1 Pet. 3:1).
-  <p style="text-align: justify; margin-bottom: 0.125in">Next, he adds his reason; regarding it he makes three points:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he offers it for consideration.</a>
-  <p style="text-align: justify; margin-left: 0.259167in"><a name="8" id="8">Secondly, he introduces an example (v. 23b).</a> <a href="javascript:WPShow('WPFootnote8',%20WPFootnote8%20)"><img src="footnoteicon.gif" alt="Footnote" width="16" height="14" border="0"></a> 
-  <script type="text/javascript" language="javascript">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     if(bInlineFloats)
-  {
-    document.write('<span id="WPFootnote8" class="WPFloatStyle">');
-    document.write(WPFootnote8);
-    document.write('<br><a href="javascript:WPHide(\'WPFootnote8\')">Close<\/a>');
-    document.write('<\/span>');
-  }
-  </script>
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Thirdly, from the example he draws his conclusion (v. 24).
-  <p style="text-align: justify; margin-bottom: 0.125in">The reason for this subjection is that the husband is the bead of the wife, and the sense of sight is localized in the head—“The eyes of a wise man are in his head” (Eccl. 2:14)—and hence a husband ought to govern his wife as her head. “The head of the woman is the man” (1 Cor. 11:3). Then he brings in his example when he says: <span style="font-weight: bold">as Christ is the head of the church</span>. God “has made him head over all the church, which is his body” (Eph. 1:22-23). This is not for his own utility, but for that of the Church since <span style="font-weight: bold">he is the saviour of his body</span>. “For there is no other name under heaven given to men, whereby we must be saved” (Ac. 4:12). “Behold, God is my saviour; I will deal confidently and will not fear” (Is. 12:2).
-  <p style="text-align: justify; margin-bottom: 0.125in">From this he draws the conclusion he intended, saying <span style="font-weight: bold">Therefore, as the church is subject to Christ.</span> As though he said: It is not proper for an organ to rebel against its head in any situation; but as Christ is head of the church in his own way, so a husband is the head of his wife; therefore the wife must be obedient to her husband <span style="font-weight: bold">as the church is subject to Christ</span>. “Shall not my soul be subject to God?” (Ps. 61:2), <span style="font-weight: bold">so also let the wives be to their husbands</span>. “And you shall be under your husband’s power” (Gen. 3:16), <span style="font-weight: bold">in all things</span> which are not contrary to God, for Acts 5 (29) affirms: “We ought to obey God rather than men.”
-  <p style="text-align: justify; margin-bottom: 0.125in">After this he admonishes the husbands that they are to love their wives.
-  <p style="text-align: justify; margin-left: 0.259167in">First, he does this.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he gives his reason (5:25b).
-  <p style="text-align: justify; margin-bottom: 0.125in">He states: <span style="font-weight: bold">Husbands, love your wives.</span> For certainly it is from the love he has for his wife that he will live more chastely and both of them will enjoy a peaceful relationship. If he should love another more than his own wife, he exposes both himself and his wife to the possibility of sin. “Husbands, love your wives and be not bitter towards them” (Col. 3:19).
-  <p style="text-align: justify; margin-bottom: 0.125in">He then treats of the threefold reason for this.
-  <p style="text-align: justify; margin-left: 0.259167in">First, one springs from the example of Christ (v. 25b).
-  <p style="text-align: justify; margin-left: 0.259167in">Secondly, another comes from the husband himself (5:28b).
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Thirdly, another from a divine commandment (5:31).
-  <p style="text-align: justify; margin-bottom: 0.125in">Concerning the first he does three things:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he offers the example of Christ’s love.
-  <p style="text-align: justify; margin-left: 0.259167in">Secondly, then the sign of that love (5:25b-27).
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Thirdly, finally he deduces his intended conclusion (5:28a).
-  <p style="text-align: justify; margin-bottom: 0.125in">Thus he says: <span style="font-weight: bold">as Christ also loved the church</span>; “Be ye therefore followers of God, as most dear children; and walk in love, as Christ also hath loved us and hath delivered himself for us” (Eph. 5:1-2). The sign of Christ’s love for the church is that <span style="font-weight: bold">he delivered himself up for it</span>. “The Son of God who loved me and delivered himself for me” (Gal. 2:20). “He hath delivered his soul unto death” (Is. 53:12). And for what? <span style="font-weight: bold">That he might sanctify it</span>: Wherefore Jesus also, that he might sanctify the people by his own blood, suffered without the gate” (Heb. 13:12). “Sanctify them in truth” (Jn. 17:17); that is the effect of Christ’s death.
-  <p style="text-align: justify; margin-bottom: 0.125in">As a result of this sanctification he cleanses it from the stains of sin. Hence he adds <span style="font-weight: bold">cleansing it by the laver of water</span>. This washing has a power from the passion of Christ. “All we who are baptized in Christ Jesus are baptized in his death; for we are buried together with him by baptism into deatY’ (Rom. 6:3-4). “And I will pour upon you clean water and you shall be cleansed from all your filthiness” (Ez. 36:25). “There shall be a fountain open to the house of David and to the inhabitants of Jerusalem; for the washing of the sinner and of the unclean woman” (Zach. 13:1). This occurs <span style="font-weight: bold">in the word of life</span> which, coming upon the water, gives it the power to cleanse: “Going, therefore, teach ye all nations; baptizing them in the name of the Father and of the Son and of the Holy Spirit” (Mt. 28:19).
-  <p style="text-align: justify; margin-bottom: 0.125in">The goal of this sanctifying action is the Church’s purity. Thus he states <span style="font-weight: bold">that he might present it to himself, a glorious church</span>; as if the Apostle said: It would be highly improper for the immaculate bridegroom to wed a soiled bride. This is why he presents her to himself in an immaculate state, now through grace and in the future through glory.
-  <p style="text-align: justify; margin-bottom: 0.125in">Regarding the latter, he says <span style="font-weight: bold">glorious</span> by the clarity of both body and soul. For “he will reform the body of our lowness, made like to the body of his glory” (Phil. 3:21). Hence he adds <span style="font-weight: bold">not having spot</span>: “the man that walked in the perfect way, he served me” (Ps. 100:6); “blessed are the undeffled in the way: who walk in the law of the Lor&amp;’ (Ps. 118: 1). <span style="font-weight: bold">Or wrinkle</span> refers to the lack of suffering since, as the Apocalypse 7 (16) remarks: “they shall no more hunger nor thirst,” <span style="font-weight: bold">or any such thing, but that it should be holy</span> through its confirmation in grace, <span style="font-weight: bold">and without</span> the <span style="font-weight: bold">blemish</span> of any defilement. Thus all of these characteristics can be understood of the appearance of the Church in the future through glory.
-  <p style="text-align: justify; margin-bottom: 0.125in">But if they are taken to refer to her appearance through faith, then he would be saying: <span style="font-weight: bold">that he might present to himself</span>, through faith, <span style="font-weight: bold">a glorious church</span>, since “it is a great glory to follow the Lord7 (Sirach 23:38), <span style="font-weight: bold">not having</span> a <span style="font-weight: bold">spot</span> of mortal sin. “Thou are stained in thy iniquity” (Jer. 2:22). Nor does it have a <span style="font-weight: bold">wrinkle</span>, that is, a duplicity of purpose which those who are rightly united with Christ and the Church do not have. “My wrinkles bear witness against me” (job 16:9). <span style="font-weight: bold">But</span> rather <span style="font-weight: bold">that it should be holy</span> through its aspiration and <span style="font-weight: bold">without blemish</span> through every kind of purity.
-  <p style="text-align: justify; margin-bottom: 0.125in">From the above he, in the third place, draws the conclusion he intended by affirming: <span style="font-weight: bold">So also ought men to love their wives as their own bodies.</span>
-  <p style="margin-bottom: 0.125in; margin-bottom: 0.125in"><a name="9" id="9">
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 5</span>
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 9</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">28b He that loveth his wife loveth himself.</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">29 For no man ever hated his own flesh, but nourisbeth and cherisheth it, as also Christ doth the church;</span>
-  <p style="text-align: justify; margin-bottom: 0.125in"><span style="font-size: 10pt">30 Because we are members of his body, of his flesh and of his bones.</span>
-  <p style="text-align: justify; margin-bottom: 0.125in">Above he urged husbands to love their wives, he appealed to Christ and to the example of Christ’s love for the church (5:25). Here he demonstrates the same thing from the point of view of the husband himself. He makes two points:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he gives the reason.
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Secondly, he verifies it through an example (5:29b).
-  <p style="text-align: justify; margin-bottom: 0.125in">The reason is as follows. A husband and wife are somehow one; hence, as the flesh is subject to the soul, so is the wife to the husband; but no one ever held his own flesh in contempt, therefore neither should anyone his wife. Whence he states <span style="font-weight: bold">He who loves his wife loves himself</span>. “Therefore, now they are not two, but one flesh” (Mt. 19:6). just as a man sins against nature in hating himself, so does he who hates his wife. ‘With three things my spirit is pleased, which are approved before God and men: the concord of brethren, and the love of neighbors, and man and wife that agree well together” (Sirach 25:1-2).
-  <p style="text-align: justify; margin-bottom: 0.125in">He proves that they ought to love one another in saying <span style="font-weight: bold">For no man ever hated his own flesh</span>. This love is evident in what happens since “love is verified when it is expressed in action.” For we love anything whose powers we sustain. <span style="font-weight: bold">But</span> everyone <span style="font-weight: bold">nourishes and cherishes his own flesh</span> in order to sustain it. “But, having food and wherewith to be covered, with these we are content” (1 Tim. 6:8).
-  <p style="text-align: justify; margin-bottom: 0.125in">But is not this contrary to Luke 14 (26): “If any man come to me, and hate not his father and mother and wife and children and brethren and sisters, yes and his own life also, he cannot be my disciple?” I reply. The Apostle affirms that a man ought to love his wife as he does himself; but he must love himself less than God; hence he should also love his wife less than God. In stating “he who does not hate his wife,” he is not commanding that she be hated—which would be to command a mortal sin—but that she be loved as the man loves himself. Now love in a lesser degree is like a certain hatred in comparison with whatever is loved most or to a greater degree, in this case, God.
-  <p style="text-align: justify; margin-bottom: 0.125in">Likewise, <span style="font-weight: bold">no man ever hated his own flesh, but nourishes and cherishes it.</span> But there are objections to this. When anyone loves something he never wants nor desires to be separated from it. Yet the saints wanted to be separated from the flesh. “Unhappy man that I am, who shall deliver me from the body of this death?” (Rom. 7:24), “having a desire to be dissolved and to be with Chrisf’ (Phil. 1:23). Besides, nobody afflicts what he loves, but the saints punished their flesh while they were in this world. “I chastise my body and bring it into subjection” (1 Cor. 9:27). Moreover, some people even kill themselves, as is frequently heard of. Judas did it.
-  <p style="text-align: justify; margin-bottom: 0.125in">I reply. The flesh, when considered in itself, is not held in contempt, but everyone naturally wants it to exist and nourishes it for this end. On the other hand ‘ the flesh can be considered as an obstacle to what we will, and thus, through circumstance (per accidens), it can be detested in a certain way. For everything that we will is either good or evil. If good, it may be the ultimate end, eternal life, from which we are held back by the flesh. “While we are in the body we are absent from the Lord” (2 Cor. 5:6). And since we naturally desire our fulfillment and well-being—nor can we enjoy these while we are in the flesh—we will to discard it, not as an evil held in contempt, but as a good we love less than the greater good it impedes. The authoritative texts quoted above, and others like them, are to be explained in this way.
-  <p style="text-align: justify; margin-bottom: 0.125in">Or, we may will a good that is not the end, but disposes for the end; for example, virtuous habits. But this type of good is opposed by the immoral tendencies of the flesh. On this account do the saints discipline and punish their flesh in order that it might submit to the spirit for the curbing of sensual desires. For, in desiring such, the flesh blocks our acquisition of the virtues which dispose us for the ultimate good. Therefore, whoever punishes his flesh that it might submit to his spirit does not hate it, but rather obtains its own good which is that it be subject to the spirit-just as the good of man is to be subject to God: “it is good for me to adhere to my God” (Ps. 72:28). “I chastise my body...” and similar passages are to be understood in this way. This would not have been necessary in the state of innocence as long as man was subject to God, and the flesh totally submissive to the spirit; the gift of original justice consisted precisely in this mutual submission.
-  <p style="text-align: justify; margin-bottom: 0.125in">On the other hand we sometimes will what is evil. Hence, just as holy persons discipline, or wish to discard, their flesh inasmuch as it is an obstacle to the good they desire, so also the wicked, insofar as the flesh blocks the evil they desire, will kill it and commit suicide, as Judas did.
-  <p style="text-align: justify; margin-bottom: 0.125in">Then he indicates that a man must love his wife through an example. Thus he says, <span style="font-weight: bold">Christ also</span> loved <span style="font-weight: bold">the Church</span> as something of his very self <span style="font-weight: bold">because we are members of his body</span>. “For we are members one of another” (Eph. 4:25). He mentions <span style="font-weight: bold">of his flesh</span> on account of his sharing the same nature with us. “For a spirit hath not flesh and bones, as you see me to have” (Lk. 24:39). Or, he says this mystically so that <span style="font-weight: bold">of his flesh</span> refers to the weak who are of the flesh, and <span style="font-weight: bold">of his bones</span> would refer to the strong who are hard as bone.
-  <p style="margin-bottom: 0.125in; margin-bottom: 0.125in"></a> <a name="10" id="10">
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">CHAPTER 5</span>
-  <p style="text-align: center; margin-bottom: 0.125in"><span style="font-weight: bold">LECTURE 10</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">31 ‘Tor this cause shall a man leave his father and mother; and shall cleave to his wife; and they shall be two in one flesh.”</span>
-  <p style="text-align: justify"><span style="font-size: 10pt">32 This is a great sacrament; but I speak in Christ and in the church.</span>
-  <p style="text-align: justify; margin-bottom: 0.125in"><span style="font-size: 10pt">33 Nevertheless, let every one of you in particular love his wife as himself; and let the wife fear her husband.</span>
-  <p style="text-align: justify; margin-bottom: 0.125in">The Apostle exhorted the Ephesians above to love their wives. He did this in two ways: both by offering the example of Christ’s love for the Church, and by the love a man has for himself (5:25), now he gives a third encouragement drawn from the authority of Scripture. Regarding this he does three things:
-  <p style="text-align: justify; margin-left: 0.259167in">First, he brings in the authoritative text.
-  <p style="text-align: justify; margin-left: 0.259167in">Secondly, he explains it mystically (5:32).
-  <p style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in">Thirdly, he adapts it according to its literal meaning to the case in question (5:33).
-  <p style="text-align: justify; margin-bottom: 0.125in">The authoritative text is Genesis 2 (24); words spoken by Adam when be saw his wife who had been formed from his rib. Yet does not this contradict Matthew 19 (4-5) which states that God himself spoke these words? I reply that Adam spoke them as inspired by God, and God spoke them insofar as he was inspiring and teaching Adam. We use the same expressions; there are many words which the Lord spoke by those whom the spirit of God instructed; so Matthew 10 (20) affirms: “For it is not you who speak, but the Spirit of your Father speaks in you.”
-  <p style="text-align: justify; margin-bottom: 0.125in">It should be noted that in the above mentioned authority a threefold union of a man and wife is designated. The first union is through the devotion of their love, for it is strong enough in each that they both left their fathers behind. “So a man loves his wife better than his father or mother. Many have lost their heads completely for their wives” (3 Esd. 4:25-26), and much more concerning this is stated there [in 3 Esd. 4]. But this is natural, for natural desires fit in harmoniously with actions that must be performed. It is evident that a desire exists in all higher agents that they administer to, and communicate with, lower agents. Thus a natural love for the lower is present in them. Now a man is an inferior in relation to his father and mother, he is not higher than they; hence he is naturally more drawn towards his wife and children, to whom he is superior, than to his parents. And also because his wife is intimately united to him in the act of procreation.
-  <p style="text-align: justify; margin-bottom: 0.125in">The second union is through living together. Thus he says <span style="font-weight: bold">and he shall cleave to his wife</span>. “With three things my spirit is pleased, which are approved before God and men: the concord of brethren, and the love of neighbors, and man and wife that agree well together” (Sirach 25:1-2).
-  <p style="text-align: justify; margin-bottom: 0.125in">The third is their carnal union— <span style="font-weight: bold">and they shall be two in one flesh</span>, that is, in their carnal intercourse. For in any act of generation there is an active and a passive power. In plants both powers are in the same [plant], but in the perfect animals they are distinguished. And hence in the act of generation among animals the male and female become, as in plants, only one and the same body.158
-  <p style="text-align: justify; margin-bottom: 0.125in">He goes on to interpret this mystically, and he says <span style="font-weight: bold">This is a great sacrament</span>, it is the symbol of a sacred reality, namely, the union of Christ and the Church. “I will not hide from you the mysteries of God” (Wis. 6:24).
-  <p style="text-align: justify; margin-bottom: 0.125in">Notice here that four Sacraments are termed great. Baptism by reason of its effect, since it blots out sin and opens the gate of paradise; Confirmation by reason of its minister, it is conferred only by bishops and not by others; the Eucharist because of what it contains, the Whole Christ; and Matrimony by reason of its signification, for it symbolizes the union of Christ and the Church. If, therefore, the text is mystically interpreted, the preceding passage should be explained as follows: <span style="font-weight: bold">For this cause shall a man</span>, namely, Christ, <span style="font-weight: bold">leave his father and mother</span>. I say <span style="font-weight: bold">leave his father</span>, because he was sent into the world and became incarnate—“I came forth from the Father and am come into the world” (Jn. 16:28)— <span style="font-weight: bold">and his mother</span> who was the synagogue—“I have forsaken my house, I have left my inheritance, I have given my dear soul into the hand of her enemies” (Jer. 12:7). <span style="font-weight: bold">And he shall cleave to his wife</span>, the Church. “Behold, I am with you all days, even to the consummation of the world” (Mt. 28:20).
-  <p style="text-align: justify; margin-bottom: 0.125in">Next, the point is argued by interpreting the above example according to its literal meaning. For there are certain passages in the Old Testament which can be said only of Christ. For instance, Psalm 21 (17): “They have dug my hands and feet: they have numbered all my bones”; or Isaias 7 (14): “Behold, a virgin shall conceive, and bear a son; and his name shall be called Emmanuel.” Other passages, however, can be explained as referring to Christ and others; to Christ principally, and to others as they were types of Christ. The above example (Gen. 2:24) is of this category.
-  <p style="text-align: justify; margin-bottom: 0.125in">Thus it must first be interpreted in reference to Christ, and afterwards concerning others. Hence he says <span style="font-weight: bold">Nevertheless, let every one of you in particular love his wife</span>, as though he asserted: The above example is principally related of Christ, but not only about him since it must be interpreted and fulfilled in other persons as types of Christ.” He states <span style="font-weight: bold">as himself</span> because, just as everyone loves himself in relation to God, so he ought to love his wife in this way, and not inasmuch as she draws him into sin. “If any man come to me, and hate not his father and mother and wife... he cannot be my disciple” (Lk. 14:26). But what about the wife? <span style="font-weight: bold">And let the wife fear her husband</span>, with the fear of reverence and submission since she must be subject to him.</a>
+    <p style="text-align: center; margin-bottom: 0.125in">
+      <span style="font-weight: bold">CHAPTER 5</span>
+    </p>
+    <p style="text-align: center; margin-bottom: 0.125in">
+      <span style="font-weight: bold">LECTURE 1</span>
+    </p>
+    <p style="text-align: justify">
+      <span style="font-size: 10pt"
+        >1 Be ye therefore followers of God, as most dear children;</span
+      >
+    </p>
+    <p style="text-align: justify; margin-bottom: 0.125in">
+      <span style="font-size: 10pt"
+        >2 And walk in love, as Christ also hath loved us and hath delivered
+        himself for us, an oblation and a sacrifice to God for an odour of
+        sweetness.</span
+      >
+    </p>
+    <p style="text-align: justify; margin-bottom: 0.125in">
+      Once be has exhorted them to kindness and mercy, which are the effects of
+      charity (4:32), he gives them a model [to imitate]. In reference to this
+      he does two things:
+    </p>
+    <p style="text-align: justify; margin-left: 0.259167in">
+      First, he urges them to imitate the exemplar, namely, God.
+    </p>
+    <p
+      style="
+        text-align: justify;
+        margin-left: 0.259167in;
+        margin-bottom: 0.125in;
+      "
+    >
+      Secondly, he lets them know in what they should imitate him (5:2).
+    </p>
+    <p style="text-align: justify; margin-bottom: 0.125in">
+      I have affirmed, he says, that you ought to forgive one another as God has
+      forgiven you in Christ.
+      <span style="font-weight: bold">Be therefore followers of God</span>
+      because this is indispensable even if it is difficult. “What is man, said
+      I, that he can follow the King his maker?” (Eccl. 2:12). Nonetheless,
+      human nature would never achieve its end except in union with God. “My
+      foot has followed his steps: I have kept his way, and have not declined
+      from it” (Job 23:11). He must be imitated insofar as it is possible for us
+      to do so-a son must imitate his father. Thus he adds as children since he
+      is our father through creation: “Is he not your father, who possessed you,
+      and made you, and created you?” (Deut. 32:6). He puts in most dear because
+      God chose us to share in what is his very own.
+    </p>
+    <p style="text-align: justify; margin-bottom: 0.125in">
+      <span style="font-weight: bold">And walk in love</span> (v. 2) comes next,
+      here:
+    </p>
+    <p style="text-align: justify; margin-left: 0.259167in">
+      First, be maintains that the way to imitate God is in ebarity.
+    </p>
+    <p
+      style="
+        text-align: justify;
+        margin-left: 0.259167in;
+        margin-bottom: 0.125in;
+      "
+    >
+      Secondly, he speaks of the tremendous sign of charity (5:2b).
+    </p>
+    <p style="text-align: justify; margin-bottom: 0.125in">
+      The charity of God has made us his most dear children: “For you have not
+      received the spirit of bondage again in fear; but you have received the
+      spirit of adoption of sons, whereby we cry: Abba, Father. For the Spirit
+      himself gives testimony to our spirit that we are the sons of God” (Rom.
+      8:15-16). Certainly we ought to follow him in love. He says
+      <span style="font-weight: bold">walk</span> to signify “you must always
+      advance” as in Genesis 17 (1): ‘Walk before me and be perfect.” This
+      should be in love since love is so good that man ought always to make
+      further progress in it, and is that kind of a debt which man always has to
+      pay. “Owe no man any thing, but to love one another” (Rom. 13:8). Or in
+      love may mean the way in which God is followed more closely: “And I show
+      you yet a more excellent way. If I speak with the tongues of men, and of
+      angels, and have not charity, I am become as sounding brass, or a tinkling
+      symbol” (1 Cor. 12:31-13:1). “Above all these things have charity, which
+      is the bond of perfection” (Col. 3:14). This must be done according to
+      Christ’s example, whence he adds as
+      <span style="font-weight: bold">Christ also has loved us</span>. Jesus
+      “having loved his own who were in the world, he loved them unto the end”
+      (Jn. 13:1).
+    </p></a
+  >
+
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    <a name="1" id="1"
+      >According to Gregory, “love is verified when it is expressed in
+      action.”</a
+    >
+    <a href="javascript:WPShow('WPFootnote1',%20WPFootnote1%20)"
+      ><img
+        src="footnoteicon.gif"
+        alt="Footnote"
+        width="16"
+        height="14"
+        border="0"
+    /></a>
+    <script type="text/javascript" language="javascript">
+      if (bInlineFloats) {
+        document.write('<span id="WPFootnote1" class="WPFloatStyle">');
+        document.write(WPFootnote1);
+        document.write(
+          "<br><a href=\"javascript:WPHide('WPFootnote1')\">Close<\/a>"
+        );
+        document.write("<\/span>");
+      }
+    </script>
+    Therefore he adds
+    <span style="font-weight: bold">and delivered himself for us</span>. “He has
+    loved us, and washed us from our sins in his own blood” (Apoc. 1:5). I live
+    in the faith of the Son of God, who loved me and delivered himself for me”
+    (Gal. 2:20). “He hath delivered his soul unto death and was reputed with the
+    wicked” (Is. 53:12).
+  </p>
+
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    This death was both advantageous and necessary for us, thus he says an
+    <span style="font-weight: bold">oblation and a sacrifice</span>. Here the
+    Apostle is speaking in the way the Old Law does. In it, as Leviticus 4
+    indicates, when someone sinned he was obliged to offer, because of it, the
+    sacrifice and oblation which was designated for the sin. Then too, when
+    someone gave thanks to God, or wished to obtain some favor, he had to offer
+    a victim of peace, as prescribed in Leviticus 3 (9), which was of a most
+    sweet savour to the Lord (v. 16). These, however, are all accomplished
+    through Christ who, in order that we might be cleansed from sin and attain
+    to glory, <span style="font-weight: bold">delivered himself for us</span>,
+    an oblation through the actions he performed during his life: “He was
+    offered because it was his own will, and he opened not his mouth” (Is.
+    53:7); and [he died as] a sacrifice to God for sin.
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    This was <span style="font-weight: bold">for an odour of sweetness</span>,
+    hinting at what is said in Leviticus 3 (5 ff.). But certainly the odour
+    described there was not pleasing to God in itself but according to its
+    signification, inasmuch as it symbolized the sweet-smelling oblation of the
+    body of Christ, the Son of God. “Behold, the smell of my son is as the smell
+    of a plentiful field” (Gen. 27:27). “Draw me, we will run after you to the
+    odour of thy ointments” (Cant. 1:3). In this way also we ought to offer
+    spiritual sacrifices to God: “A sacrifice to God is an afflicted spirit”
+    (Ps. 50:19).
+  </p>
+  <p style="margin-bottom: 0.125in; margin-bottom: 0.125in">
+    <a name="2" id="2">
+      <p style="text-align: center; margin-bottom: 0.125in">
+        <span style="font-weight: bold">CHAPTER 5</span>
+      </p>
+      <p style="text-align: center; margin-bottom: 0.125in">
+        <span style="font-weight: bold">LECTURE 2</span>
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >3 But fornication and all uncleanness or covetousness, let it not so
+          much as be named among you, as becometh saints;</span
+        >
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        <span style="font-size: 10pt"
+          >4 Or obscenity or foolish talking or scurrility, which is to no
+          purpose; but rather giving of thanks.</span
+        >
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Having previously cautioned them, the Apostle taught the Ephesians to
+        put off the old man and put on the new by forbidding spiritual vices
+        (4:25). Now he also bans carnal sins. It is divided into two parts:
+      </p>
+      <p
+        style="
+          text-align: justify;
+          text-indent: -0.240833in;
+          margin-left: 0.5in;
+        "
+      >
+        First, he prohibits the old way of carnal sins.
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Secondly, he stimulates them on to the new life (5:15).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        The first part has three subdivisions:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he rejects the old sins.
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        Secondly, he sets forth their punishment (5:5).
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Thirdly, he precludes a fallacy (5:6).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        The first section has two parts:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he bars certain principal vices.
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Secondly, he rejects some vices associated with them (5:4).
+      </p></a
+    >
+  </p>
+
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    <a name="2" id="2"
+      >He eliminates three vices. There is a natural voluptuousness committed
+      with another outside of wedlock; whence he says
+      <span style="font-weight: bold">fornication</span>. “For the spirit of
+      fornication hath deceived them” (Os. 4:12); “flee from fornication” (1
+      Cor. 6:18). Job did this: “I made a covenant with my eyes, that I would
+      not so much as think upon a virgin” (31:1). This is called “fornication”
+      from the word “fornix,” that is, the triumphal arch near which brothels
+      were situated. “Fornication came in upon them.”</a
+    >
+    <a href="javascript:WPShow('WPFootnote2',%20WPFootnote2%20)"
+      ><img
+        src="footnoteicon.gif"
+        alt="Footnote"
+        width="16"
+        height="14"
+        border="0"
+    /></a>
+    <script type="text/javascript" language="javascript">
+      if (bInlineFloats) {
+        document.write('<span id="WPFootnote2" class="WPFloatStyle">');
+        document.write(WPFootnote2);
+        document.write(
+          "<br><a href=\"javascript:WPHide('WPFootnote2')\">Close<\/a>"
+        );
+        document.write("<\/span>");
+      }
+    </script>
+  </p>
+
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    <span style="font-weight: bold">And all uncleanness</span> designates every
+    impurity against nature, namely, when the act is not ordered toward the
+    generation of offspring. “Now the works of the flesh are manifest, which
+    are: fornication, uncleanness, immodesty, luxury” (Gal. 5:19).
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    Thirdly, he bans avarice in mentioning
+    <span style="font-weight: bold">covetousness</span>. But why this? Is it to
+    be classed with carnal sins? I reply that it is neither identified with, nor
+    completely separate from, carnal sin but midway between the spiritual and
+    carnal sins. It can be explained this way. Sin contains two elements, the
+    object of the sin and the gratification the object affords. Thus with
+    certain sins both the object and the gratification are spiritual, such as
+    anger. Both revenge, which is the objective of anger, and its gratification,
+    are spiritual; the same holds true for vainglory. Other sins, however, are
+    completely carnal both in their objects and their gratification; such as
+    gluttony and voluptuousness. But covetousness is between each of these
+    because its object is carnal, namely money, whereas its gratification is
+    spiritual inasmuch as the mind finds rest in the possession of money.
+    Therefore, covetousness is enumerated among The carnal sins by reason of its
+    object, and among the spiritual ones by reason of the gratification it
+    affords. “Let your manners be without covetousness” (Heb. 13:5).
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    Or it might be answered that covetousness is opposed to justice and thus is
+    classed with the kind of sensuality known as adultery. The latter is the
+    unjust use of another man’s woman and covetousness is the unjust use of
+    money.
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    Above he said “He that stole, let him now steal no more” (Eph. 4:28). But
+    here he says
+    <span style="font-weight: bold"
+      >let it not so much as be named among you</span
+    >
+    because in the spiritual battle carnal sins must first be conquered. In vain
+    would anyone struggle against internal sins unless he had first overcome
+    external, carnal ones—against which there will always be a struggle.
+    Therefore he says
+    <span style="font-weight: bold"
+      >let it not so much as be named among you</span
+    >, as becomes saints who refrain from such actions, thoughts and words. “I
+    will destroy the name of Babylon, and the remains, and the bud, and the
+    offspring” (Is. 14:22). “Take care of a good name” (Sirach 41:15) since this
+    is fitting for saints. “In all things let us exhibit ourselves as the
+    ministers of God” (2 Cor. 6:4).
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    Next he sets down some vices associated with the aforementioned. Regarding
+    them he makes two points:
+  </p>
+  <p style="text-align: justify; margin-left: 0.259167in">
+    First, he rejects these vices.
+  </p>
+  <p
+    style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in"
+  >
+    Secondly, he encourages them to practice the contrary virtue.
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    Hence he bans three vices, namely,
+    <span style="font-weight: bold">obscenity</span> which consists in impure
+    touches, embraces and lustful kisses. “But he who is an adulterer, for the
+    folly of his heart shall destroy his own soul. He gathers to himself shame
+    and dishonor” (Prov. 6:32-33). Then there is
+    <span style="font-weight: bold">foolish talking</span> which is words
+    provocative of evil. “For her conversation,” that is, of an evil woman,
+    “burns as fire” (Sirach 9:11). Finally there is
+    <span style="font-weight: bold">scurrility</span> consisting in jocose words
+    with which some attempt to please others. “But I say to you that for every
+    idle word that men shall speak, they shall render an account on the day of
+    judgment” (Mt. 12:36). All of these are grave insofar as they are said or
+    done in connection with mortal sins; for anything, even if it is generally
+    good, becomes mortal to the degree that it is ordered toward mortal sins.
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    Then he introduces them to the opposite, namely, thanksgiving. Whence he
+    says <span style="font-weight: bold">but rather giving of thanks</span>.
+    “Joy and gladness shall be found therein, thanksgiving and the voice of
+    praise” (Is. 51:3).
+  </p>
+  <p style="margin-bottom: 0.125in; margin-bottom: 0.125in">
+    <a name="3" id="3">
+      <p style="text-align: center; margin-bottom: 0.125in">
+        <span style="font-weight: bold">CHAPTER 5</span>
+      </p>
+      <p style="text-align: center; margin-bottom: 0.125in">
+        <span style="font-weight: bold">LECTURE 3</span>
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >5 For know you this and understand: that no fornicator or unclean or
+          covetous person, which is a serving of idols, hath inheritance in the
+          kingdom of Christ and of God.</span
+        >
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >6 Let no man deceive you with vain words. For because of these things
+          cometh the anger of God upon the children of despair.</span
+        >
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        <span style="font-size: 10pt"
+          >7 Be ye not therefore partakers with them.</span
+        >
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        The Apostle above forbade carnal sins (5:3), here he threatens them with
+        the penalty of damnation that is inflicted on sinners. In reference to
+        this he does two things:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he assures them of it.
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Secondly, he mentions the sins one by one (5:5b).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        He states
+        <span style="font-weight: bold">For know you this and understand</span>,
+        that is, be actually certain of it and not just habitually. “These
+        things I write to you that you may know that you have eternal life; you
+        who believe in the name of the Son of God” (1 Jn. 5:13). And what does
+        he write?
+        <span style="font-weight: bold"
+          >That no fornicator or unclean or covetous person, which is a serving
+          of idols, hath inheritance in the kingdom of Christ and of God</span
+        >.
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Notice that he calls covetousness idolatry, for idolatry happens when
+        the honor due God alone is given to creatures. Now there is a twofold
+        honor due God; we must establish him as the goal of our life and we must
+        put our trust of reaching the goal in him. Hence, whoever places these
+        ‘in creatures is guilty of idolatry. A covetous person commits this when
+        he fixes his end in a created reality as well as putting all his trust
+        in it. “Of their silver and their gold they have made idols to
+        themselves, that they might perish” (Os. 8:4). This happens since, as
+        Proverbs 11 (28) affirms: “He that trusteth in his riches shall fall.”
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        However, since in the other sins a man also puts his goal in a creature,
+        chnging to it by love, why are not they termed idolatry too? I reply
+        that idolatry consists in giving an illegitimate worship to some
+        external object. Whereas in the other sins one’s end is deorientated
+        interiorly, as though it consisted in one’s own exaltation. Whoever
+        places his end in riches, on the other hand, fixes it in an external
+        object as an idol. Does that mean that covetous persons, giving the
+        honor due God to creatures, are really and essentially idolators? I hold
+        that they are not, because in moral issues acts or deeds are judged by
+        their end. Therefore, only those are essentially idolators who intend to
+        really offer worship to a creature. A covetous person does not really
+        (<i>per se</i>) intend to do this, be only happens (<i>per accidens</i>)
+        to do it in his excessive and inordinate love [for riches].
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        What happens to such people? They do not possess the inheritance since
+        heirs are sons, as Romans 8 (17) states. But these persons are not sons
+        because they are carnal, therefore they do not enjoy the inheritance as
+        I Corinthians 15 (50) affirms: “Now this I say, brethren, that flesh and
+        blood cannot possess the kingdom of God,” that is, God himself who said:
+        “I am their inheritance” (Ez. 44:28).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        It might be asked: If the inheritance is God himself who is indivisible
+        and inseparable, why does he say
+        <span style="font-weight: bold"
+          >in the kingdom of Christ and of God</span
+        >, dividing the two as if the inheritance could be severed? I reply. Our
+        inheritance consists in the enjoyment of God. But God enjoys himself in
+        a way different from that in which we shall enjoy him. God perfectly
+        delights in himself since he perfectly knows and totally loves himself
+        inasmuch as he is knowable and lovable. Not so with us, even though we
+        shall perfectly know him in heaven and, as a consequence, love him. For
+        someone may indeed grasp a simple reality and know the whole of it,
+        while still not [knowing it] totally. For example, if the light of the
+        sun were as small as a point, the human eye could perceive the whole of
+        it, although not fully, whereas the eagle’s eye would grasp it totally.”
+        Similarly, even if we know God perfectly in heaven and love him
+        perfectly, nevertheless we do not totally comprehend him. Hence it seems
+        that there is a certain imperfection and individuality there. Therefore
+        he says
+        <span style="font-weight: bold">of Christ and of God</span> conjointly,
+        as though setting one part with another part, since it is through Christ
+        and none other that the inheritance is had.
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Next he says
+        <span style="font-weight: bold">Let no man deceive you</span>, thereby
+        rejecting a fallacy of those who would mislead them. Regarding this he
+        makes two points:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he sets down a warning.
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Secondly, he adds the reason for it (5:8).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        The first has two more parts:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he warns them not to be deceived into believing what is told
+        them.
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Secondly, that they should not associate with those liars by doing evil
+        (5:7).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        The first section still has two parts:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he puts an end to the deception.
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Secondly, he shows them a sign of the deceit (5:6b).
+      </p></a
+    >
+  </p>
+
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    <a name="3" id="3"
+      >Notice that only in reference to carnal vices does he teach them to avoid
+      being deceived. For from the beginning men have rationalized to find
+      reasons why fornication and other venereal sins were not really sins so
+      that they might indulge their cupidity without restraint. Hence he states
+      vain words since words that claim these are not sins and do not exclude
+      one from the kingdom of God and of Christ are irrational. “Beware lest any
+      man cheat you by prophecy and vain deceit” (Col. 2:8).”</a
+    >
+    <a href="javascript:WPShow('WPFootnote3',%20WPFootnote3%20)"
+      ><img
+        src="footnoteicon.gif"
+        alt="Footnote"
+        width="16"
+        height="14"
+        border="0"
+    /></a>
+    <script type="text/javascript" language="javascript">
+      if (bInlineFloats) {
+        document.write('<span id="WPFootnote3" class="WPFloatStyle">');
+        document.write(WPFootnote3);
+        document.write(
+          "<br><a href=\"javascript:WPHide('WPFootnote3')\">Close<\/a>"
+        );
+        document.write("<\/span>");
+      }
+    </script>
+  </p>
+
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    He demonstrates that such men are deceivers and their words fallacious
+    since, if carnal sins were not sins, they would not be punished by God; God
+    is just and does not impose a penalty where there is no offense. But such
+    acts are punished by God and therefore are sins. He proves the minor when he
+    says
+    <span style="font-weight: bold"
+      >For because of these things comes the anger of God</span
+    >, namely, on account of carnal sins,
+    <span style="font-weight: bold">upon the children of despair</span>.
+    <a href="javascript:WPShow('WPFootnote4',%20WPFootnote4%20)"
+      ><img
+        src="footnoteicon.gif"
+        alt="Footnote"
+        width="16"
+        height="14"
+        border="0"
+    /></a>
+    <script type="text/javascript" language="javascript">
+      if (bInlineFloats) {
+        document.write('<span id="WPFootnote4" class="WPFloatStyle">');
+        document.write(WPFootnote4);
+        document.write(
+          "<br><a href=\"javascript:WPHide('WPFootnote4')\">Close<\/a>"
+        );
+        document.write("<\/span>");
+      }
+    </script>
+    This is evident in the flood (Gen. 7), in what happened to the Sodomites
+    (Gen. 19); and again, almost the whole tribe of Benjamin was destroyed on
+    account of this (Jg. 19 & 20).
+  </p>
+
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    He says the
+    <span style="font-weight: bold">children of despair</span> because those who
+    sin in this way despair of eternal life. If they acted this way and still
+    hoped for eternal life, it would rather be presumption than hope, which is
+    the certain expectation of obtaining future beatitude meritoriously. So he
+    mentioned previously (Eph. 4:19): “Who, despairing, have given themselves up
+    to lasciviousness unto the working of all uncleanness, unto covetousness.”
+    “Let no meadow escape our riot. Let none of us go without his part in
+    luxury,” and near the end of the same chapter “For they hoped not for the
+    wages of justice, nor esteemed the honor of holy souls” (Wis. 2:8 & 22).
+    Hence he states that
+    <span style="font-weight: bold">upon the children of despair</span> who do
+    not hope for eternal joys,
+    <span style="font-weight: bold">comes the anger of God</span> on account of
+    their sins. Or, <span style="font-weight: bold">of despair</span> signifies
+    those of whom we cannot be confident of as far as their merits are
+    concerned.
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    He concludes,
+    <span style="font-weight: bold"
+      >Be ye not therefore partakers with them</span
+    >
+    by associating with them in such actions. “For what participation hath
+    justice with injustice? Or what fellowship hath light with darkness? And
+    what concord hath Christ with Belial? Or what part hath the faithful with
+    the unbeliever?” (2 Cor. 6:14-15).
+  </p>
+  <p style="margin-bottom: 0.125in; margin-bottom: 0.125in">
+    <a name="4" id="4">
+      <p style="text-align: center; margin-bottom: 0.125in">
+        <span style="font-weight: bold">CHAPTER 5</span>
+      </p>
+      <p style="text-align: center; margin-bottom: 0.125in">
+        <span style="font-weight: bold">LECTURE 4</span>
+      </p>
+      <p
+        style="
+          text-align: justify;
+          text-indent: -0.259167in;
+          margin-left: 0.259167in;
+        "
+      >
+        <span style="font-size: 10pt"
+          >8 For you were heretofore darkness, but now light in the Lord. Walk
+          then as children of the light.</span
+        >
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >9 For the fruit of the light is in all goodness and justice and
+          truth;</span
+        >
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >10 Proving what is well pleasing to God.</span
+        >
+      </p>
+      <p
+        style="
+          text-align: justify;
+          text-indent: -0.259167in;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        <span style="font-size: 10pt"
+          >11 And have no fellowship with the unfruitful works of darkness; but
+          rather reprove them.</span
+        >
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Previously the Apostle had banned carnal sins by threatening punishment
+        and rejecting a fallacy (5:6). Here he gives the reason; it is taken
+        from their situation. He does two things:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he describes their situation.
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Secondly, he deduces two conclusions from it (5:8b).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Their situation, however, is described as twofold:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, their past.
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Secondly, their present situation (5:8a).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Thus he remarks
+        <span style="font-weight: bold">you were heretofore darkness</span>
+        blinded by ignorance and error. “Having their understanding darkened”
+        (Eph. 4:18). “They have not known nor have they understood; they walk on
+        in darkness” (Ps. 81:5). The darkness also comes from sin: “The way of
+        the wicked is darksome; they know not where they fall” (Prov. 4:19). But
+        observe that be does not vaguely call them “darksome” but
+        <span style="font-weight: bold">darkness</span>. For anyone appears to
+        be whatever is predominant in him; thus the whole state appears to be
+        the king and whatever the king does is said to be done by the state,
+        likewise when sin dominates a man the entire person is referred to as
+        sin and darkness.
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Next he describes their present condition, as though he said: But now
+        you enjoy the light of faith: “among whom you shine as lights in the
+        world” (Phil. 2:15), for “you are the light of the world” (Mt. 5:14).
+        But this contradicts what was said of John the Baptist: “He was not the
+        light” (Jn. 1:8). How then can other believers be called the light? I
+        reply. They are not referred to as the light in essence but through
+        participation.
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Afterwards, he derives two conclusions. He had said that they had been
+        darkness but now are light. Therefore:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he concludes that they should conform themselves to what they now
+        are.
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Secondly, that they avoid what they previously were (5:11).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        The first has two sections:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he writes down an admonition.
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Secondly, he explains it (5:9).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        He affirms: Since you are now light, perform the deeds of light—
+        <span style="font-weight: bold">Walk as children of the light</span>.
+        “Walk whilst you have the light, that the darkness overtake you not”
+        (Jn. 12:35). He interprets this when he says
+        <span style="font-weight: bold"
+          >For the fruit of the light is in all goodness</span
+        >. However, a person behaves as a child of the light in two ways; first
+        in reference to the substance or kind of actions he performs, then in
+        reference to the manner or intention he does them with. Thus:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he determines the actions which should be performed.
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Secondly, with what intention they should be done (5:10).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Therefore he remarks: I have said that you should walk as children of
+        the light,
+        <span style="font-weight: bold">but the fruit of the light</span> is
+        actions which are fruitful and resplendent. “And my flowers are the
+        fruit of honour and riches” (Sirach 24:23). This is
+        <span style="font-weight: bold">in all goodness</span>. Whence it must
+        be recalled that every act of virtue is reduced to three relationships.
+        For it is necessary that the agent be ordered within himself, to his
+        neighbor, and to God. Within himself, that he be good in himself; and on
+        this account he says
+        <span style="font-weight: bold">in all goodness</span>. “Teach me
+        goodness and discipline and knowledge” (Ps. 118:66). He must be ordered
+        to his fellow man by justice; whence he says
+        <span style="font-weight: bold">and justice</span>. “I have done
+        judgment and justice” (Ps. 118:121). While he is ordered to God through
+        knowledge and a confession of the truth; so he adds
+        <span style="font-weight: bold">and truth</span>. “Only love ye truth
+        and peace” (Zach. 8:19).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Another interpretation is that goodness refers to the heart, justice to
+        one’s actions, and truth to the tongue. This was mentioned above in
+        Chapter 4 (25); it is also in Zacharias 8 (16): “Speak ye truth every
+        one with his neighbor.”
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Then he discloses with what intention the actions should be performed.
+        For they should not be done abruptly but with
+        <span style="font-weight: bold">proving</span>, that is, discerning with
+        one’s mind—“Let everyone prove his own work,” as Galatians 6 (4)
+        expresses it—
+        <span style="font-weight: bold">what is well pleasing to God</span>,
+        that is, you ought to have the intention of doing whatever pleases God.
+        “Be reformed in the newness of your mind, that you may prove what is the
+        good and the acceptable and the perfect will of God” (Rom. 12:2).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        After this he exhorts them not to return to the state they have left
+        behind because, as Galatians 2 (18) remarks: “If I build up again the
+        things which I have destroyed, I make myself a prevaricator.” Lest “the
+        dog is returned to his vomit; and, the sow that was washed, to her
+        wallowing in the mire” (2 Pet. 2:22). This section is divided into two
+        parts:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he gives the caution.
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Secondly, he tells them his reason (5:12).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        The first is again divided into two sections:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he warns them not to do evil.
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Secondly, he tells them to reprehend wickedness (5:11b).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        He stated
+        <span style="font-weight: bold"
+          >proving what is well pleasing to God. And have no fellowship with the
+          unfruitful works of darkness</span
+        >
+        which are sensuous actions leading to an everlasting darkness. They are
+        unfruitful since they only possess a momentary delight which disappears
+        very quickly. “What fruit therefore had you then in those things of
+        which you are now ashamed?” (Rom. 6:21). “Trees of the autumn,
+        unfruitful, twice dead, plucked up by the roots, raging waves of the
+        sea, foaming out their own confusion; wandering stars, to whom the storm
+        of darkness is reserved for ever” (Jude 1:12). Moreover, they seek out
+        places of darkness for their depravity where they have the companionship
+        of beasts. “The eye of the adulterer observes darkness, saying: No eye
+        shall see me. And he will cover his face. He digs through houses in the
+        dark, as in the day they had appointed for themselves; and they have not
+        known the light” (Job. 24:15-16). With these, therefore, have no
+        fellowship, neither by imitating, nor assisting, nor consenting to them.
+        “What fellowship hath a holy man with a dog?” (Sirach 13:22).
+      </p></a
+    >
+  </p>
+
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    <a name="4" id="4"
+      >But clearly this is not enough; you must also reprehend them since, as
+      Augustine remarks, God sometimes punishes innocent companions because
+      those who are good do not reprimand the evil ones. “And he gave every one
+      of them commandment concerning his neighbor” (Sirach 17:12). Hence he says
+      <span style="font-weight: bold">but rather reprove them</span>. “Reprove,
+      entreat, rebuke in all patience and doctrine” (2 Tim. 4:2). But do we
+      always sin if we do not reprove those who sin? Augustine replies:</a
+    >
+    <a href="javascript:WPShow('WPFootnote5',%20WPFootnote5%20)"
+      ><img
+        src="footnoteicon.gif"
+        alt="Footnote"
+        width="16"
+        height="14"
+        border="0"
+    /></a>
+    <script type="text/javascript" language="javascript">
+      if (bInlineFloats) {
+        document.write('<span id="WPFootnote5" class="WPFloatStyle">');
+        document.write(WPFootnote5);
+        document.write(
+          "<br><a href=\"javascript:WPHide('WPFootnote5')\">Close<\/a>"
+        );
+        document.write("<\/span>");
+      }
+    </script>
+    Should you refrain from reprimanding out of a fear of charity, namely, lest
+    the sinner fall into greater evil and begin to afflict those who are good,
+    you shall not sin. But if you do this from a fear that has its source in
+    greed, lest the sinner grow indignant and you lose your benefices, then you
+    do sin.
+  </p>
+
+  <p style="margin-bottom: 0.125in; margin-bottom: 0.125in">
+    <a name="5" id="5">
+      <p style="text-align: center; margin-bottom: 0.125in">
+        <span style="font-weight: bold">CHAPTER 5</span>
+      </p>
+      <p style="text-align: center; margin-bottom: 0.125in">
+        <span style="font-weight: bold">LECTURE 5</span>
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >12 For the things that are done by them in secret, it is a shame even
+          to speak of.</span
+        >
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >13 But all things that are reproved are made manifest by the light;
+          for all that is made manifest is light.</span
+        >
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        <span style="font-size: 10pt"
+          >14 Wherefore it saith: Rise, thou that sleepest, and arise from the
+          dead; and Christ shall enlighten you.</span
+        >
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        The Apostle explained his warnings above (5:9), and now he gives the
+        reasons for them. He had given two warnings: the first was that they
+        should not associate in the works of darkness, the second that they
+        should reprove sinners. Hence he does two things:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he gives the reason for the first warning.
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Secondly, the reason for the second (5:13).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Thus he asserts: I said well that vou ought not to have fellowship but
+        rather reprimand and reprove such as these. Why? Because
+        <span style="font-weight: bold"
+          >the things that are done by them in secret, it is a shame even to
+          speak of</span
+        >. This is characteristic of carnal vices which possess a great
+        depravity; they have the least amount of rational good since actions of
+        this type are common to us and the beasts.
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        After this the Apostle gives the reason for the second warning, and he
+        makes two points:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he sets down the reason.
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Secondly, he produces a confirmation of it (5:14).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Regarding the first, he wants to prove that it is fitting for them to
+        reprimand delinquents. He proves it this way: Whatever is shown to be
+        evil is to be reproved, for every reproof is a certain manifestation;
+        but every manifestation occurs through the light, and you are the light;
+        hence it is fitting for you to reprove and reveal those who are evil. He
+        expresses the major of this reasoning at
+        <span style="font-weight: bold"
+          >But all things that are reproved are made manifest by the light</span
+        >. And the minor is expressed in
+        <span style="font-weight: bold"
+          >for all that is made manifest is light</span
+        >. As though he said: For this reason it is fitting for you to reprimand
+        them because, as 1 Corinthians 2 (15) puts it, “the spiritual man
+        judgeth all things; and he himself is judged of no man.” Thus a Gloss
+        offers the following interpretation:
+        <span style="font-weight: bold">All</span> sins
+        <span style="font-weight: bold">that are reproved by the light</span>
+        that is, by the good and holy men who are the children of the light,
+        <span style="font-weight: bold">are made manifest</span> through a
+        confession. “But he that shall confess and forsake them [his sins],
+        shall obtain mercy” (Prov. 28:13).
+        <span style="font-weight: bold"
+          >For all evil that is made manifest</span
+        >
+        through confession, <span style="font-weight: bold">is light</span>,
+        that is, is turned into light.
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Next, he verifies this by an authority (v. 14) which a Gloss interprets:
+        In order that light might prevail he—the Holy Spirit—says: Rise you who
+        sleep and arise from the dead and Christ shall enlighten you. But this
+        is not customary for Paul. Hence it must be said that the Apostle is
+        introducing the image found in Isaiah 60 (1): “Arise, be enlightened, O
+        Jerusalem; for your light has come, and the glory of the Lord has risen
+        upon you.” Thus
+        <span style="font-weight: bold">wherefore it says</span> refers to
+        Scripture. <span style="font-weight: bold">Rise</span> from a neglect of
+        good works, <span style="font-weight: bold">you who sleep</span>. “How
+        long will you sleep, O sluggard?” (Prov. 6:9). “Shall he that sleepeth
+        rise again no more?” (Ps. 40:9).
+        <span style="font-weight: bold">And arise from the dead</span>, that is,
+        from dead or destructive actions. Christ “will cleanse our conscience
+        from dead works” (Heb. 9:14). “Your dead men shall live, my slain shall
+        rise again” (Is. 26:19). Rise therefore
+        <span style="font-weight: bold">and Christ shall enlighten you</span>.
+        “The Lord is my light and my salvation; whom shall I fear?” (Ps. 26:1).
+        “Enlighten my eyes that I never sleep in death” (Ps. 12:4).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Yet are not we capable of rising from sin ourselves since it says:
+        Rise... and Christ shall enlighten you? I reply. Two things are
+        requisite for the justification of a sinner, namely, a free decision
+        cooperating in the act of rising [from sin] and grace itself. And
+        certainly the free decision itself is had from prevenient grace, while
+        the meritorious actions that follow are from subsequent grace. Hence the
+        last chapter of Lamentations (v. 21) says: “Convert us, O Lord, to you,
+        and we shall be converted.”
+      </p>
+      <p style="margin-bottom: 0.125in; margin-bottom: 0.125in"></p
+    ></a>
+
+    <a name="6" id="6">
+      <p style="text-align: center; margin-bottom: 0.125in">
+        <span style="font-weight: bold">CHAPTER 5</span>
+      </p>
+      <p style="text-align: center; margin-bottom: 0.125in">
+        <span style="font-weight: bold">LECTURE 6</span>
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >15 See therefore, brethren, how you walk circumspectly; not as un
+          wise,</span
+        >
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >16 But as wise; redeeming the time, because the days are evil.</span
+        >
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        <span style="font-size: 10pt"
+          >17 Wherefore, become not imprudent; but understanding what is the
+          will of God.</span
+        >
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Above he forbade the old ways of camal illusions (5:3), now he exhorts
+        them to the contrary newness. He encourages them:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, toward a newness opposed to the former illusions.
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Secondly, toward a newness opposed to voluptuousness (5:18).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        The first section contains three parts:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he gives them a caution against the fallacy.
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        Secondly, he shows them the newness of this precaution (5:16b).
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Thirdly, he teaches them how to act according to it (5:17).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Whence he states <span style="font-weight: bold">therefore</span> from
+        the preceding
+        <span style="font-weight: bold">see how you walk circumspectly</span>.
+        Caution is one of the conditions of prudence by which a person avoids
+        hindrances in accomplishing what he has to do. Everyone ought to possess
+        this caution. “Let thy eyes look straight on and let thy eyelids go
+        before thy steps” (Prov. 4:25). This is a characteristic of wise men,
+        thus he adds <span style="font-weight: bold">not as unwise</span> who do
+        not know how to avoid the obstacles. “All the foolish of heart were
+        troubled” (Ps. 75:6).
+        <span style="font-weight: bold">But as wise</span>: “The eyes of a wise
+        man are in his head: the fool walketh in darkness” (Ecel. 2:14). Some
+        say: “If you do not act chastely, nonetheless act cautiously.” The
+        Apostle does not take it in such a sense; when he says
+        <span style="font-weight: bold">circumspectly</span> it is as though he
+        said: Beware of men who thwart chastity.
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        He explains the necessity of this precaution when he says
+        <span style="font-weight: bold">redeeming the time</span>, which can be
+        interpreted in two ways. On certain occasions a man redeems his property
+        by offering a gift or something else for it; for instance, someone is
+        said to compensate for a grievance he caused by offering a gift or
+        money, or by renouncing something which is rightfully his. In this sense
+        he would be saying: The whole of time is now a time of deception, hence
+        you should be
+        <span style="font-weight: bold"
+          >redeeming the time, because the days are evil</span
+        >. At the time Adam sinned, and from then on, snares have always been
+        set to thrust men into sin. It was not that way in the state of
+        innocence when it was unnecessary for a man to abstain from anything
+        which was licit, since there was nothing in his will driving him to sin.
+        But now we have to redeem the time,
+        <span style="font-weight: bold">because the days are evil</span>;
+        we.must avoid the depravity of the days, and “beware beforehand of the
+        evil day,” as Ecclesiastes 7 (15) expresses it. To do this we must
+        renounce even certain things which are lawful: “All things are lawful
+        for me; but all things do not edify” (I Cor. 10:23). In this way a
+        person is said to redeem a grievance he caused since he permits
+        something that is rightfully his to be forfeited.
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        There is another interpretation of
+        <span style="font-weight: bold">redeeming the time</span>. For it
+        sometimes happens that a person lives a great part of his life in sin,
+        and this is time lost. But how is he to redeem it when man is incapable
+        of paying his debts? I reply that he ought to devote himself to good
+        works to an even greater degree than be bad previously pursued sinful
+        ones. “For the time past is sufficient to have fulfilled the will. of
+        the Gentiles, for them who have walked in riotousness, lusts, excesses
+        of wine, revellings, banquetings, and unlawful worshipping of idols” (1
+        Pet. 4:3). The first interpretation, however, is better.
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Then he goes on to teach them how to abide by the precaution, saying:
+        <span style="font-weight: bold">Wherefore</span> that you may be able to
+        redeem the time
+        <span style="font-weight: bold">become not imprudent</span>. Notice that
+        there is a difference between wisdom and prudence. For prudence is a
+        certain type of wisdom, but not the whole of wisdom. “Wisdom is prudence
+        to a man” (Prov. 10:23). That man is called wise in an absolute sense
+        who puts everything into perspective; but a man is wise only in a
+        certain respect when he puts in order only those things about which he
+        is well informed. “As a wise architect I have laid the foundation” (1
+        Cor. 3:10). For the role of the wise man is to put things in order, as
+        the First Book of the <i>Metaphysics</i> states.
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Everyone who sets things in perspective considers their end; hence he is
+        wise in an absolute sense who knows and acts for the universal end, God.
+        “For this is your wisdom, and understanding in the sight of nations”
+        (Deut. 4:6). For wisdom, as Augustine mentions in the Fourth Book on the
+        Trinity, is the knowledge of divine realities. Prudence, on the other
+        hand, is the directive care of particular things, as when a person
+        regulates his actions. Thus, wisdom is prudence to man. For this reason
+        he says
+        <span style="font-weight: bold"
+          >become not imprudent, but understanding what is the will of God</span
+        >. For just as speculative reason puts whatever is to be done in
+        perspective and judges it—it is necessary to have conclusions and to
+        judge them by principles—so likewise in the field of performance. Now
+        the first principle through which we ought to judge and regulate
+        everything is the will of God. Hence the intellect, in moral matters and
+        those which lead to God, must have the will of God for its principle. If
+        it does, then the intellect becomes prudent. “O that they would be wise
+        and would understand, and would provide for their last end” (Deut.
+        32:29). Our Lord taught this: “Thy will be done” (Mt. 26:42).
+      </p>
+      <p style="margin-bottom: 0.125in; margin-bottom: 0.125in"></p
+    ></a>
+
+    <a name="7" id="7">
+      <p style="text-align: center; margin-bottom: 0.125in">
+        <span style="font-weight: bold">CHAPTER 5</span>
+      </p>
+      <p style="text-align: center; margin-bottom: 0.125in">
+        <span style="font-weight: bold">LECTURE 7</span>
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >18 And be not drunk with wine, wherein is luxury; but be ye fined
+          with the Holy Spirit,</span
+        >
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >19 Speaking to yourselves in psalms and hymns and spiritual
+          canticles, singing and making melody in your hearts to the Lord;</span
+        >
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >20 Giving thanks always for all things, in the name of our Lord Jesus
+          Christ, to God and the Father;</span
+        >
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        <span style="font-size: 10pt"
+          >21 Being subject one to another, in the fear of Christ.</span
+        >
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        He urged them before to that newness which is in opposition to the old
+        illusion (5:15), now he does the same in reference to the old ways of
+        carnal sins. Or, we might say that he previously reprimanded carnal sins
+        in regard to voluptuousness, and here does it concerning gluttony. He
+        makes two points:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he forbids the old way.
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Secondly, he introduces them to the new condition (5: 18b).
+      </p></a
+    >
+  </p>
+
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    <a name="7" id="7"
+      >Thus he says: I have stated that fornication and all uncleanness should
+      not be even named among you. Yet you ought also be careful to abstain from
+      superfluous wine since excessive food and drink is a cause of sensuality;
+      and especially wine which warms and excites a man. ‘Vine is a luxurious
+      thing, and drunkenness riotous” (Prov. 20:1). “When the king was merry,
+      and after very much drinking was well warmed with wine, he commanded...
+      to, bring in queen Vasthi before the king” (Est. 1:10-11). “Fornication
+      and wine and drunkenness take away the understanding” (0s. 4:11). Whence
+      Jerome remarks: “A man over whom Sodom could not prevail was conquered by
+      wine—Lot.”</a
+    >
+    <a href="javascript:WPShow('WPFootnote6',%20WPFootnote6%20)"
+      ><img
+        src="footnoteicon.gif"
+        alt="Footnote"
+        width="16"
+        height="14"
+        border="0"
+    /></a>
+    <script type="text/javascript" language="javascript">
+      if (bInlineFloats) {
+        document.write('<span id="WPFootnote6" class="WPFloatStyle">');
+        document.write(WPFootnote6);
+        document.write(
+          "<br><a href=\"javascript:WPHide('WPFootnote6')\">Close<\/a>"
+        );
+        document.write("<\/span>");
+      }
+    </script>
+    Therefore
+    <span style="font-weight: bold"
+      >be not drunk with wine, wherein is luxury</span
+    >.
+  </p>
+
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    <span style="font-weight: bold"
+      >But be ye filled with the Holy Spirit.</span
+    >
+    Among all those things which breed a variety of moods is wine; thus it
+    begets animosity and makes men “talk in thousands” as 3 Esdras 3 (21)
+    affirms. Appropriately therefore does he teach them the opposite, to be
+    filled with the Holy Spirit who engenders an intensity of devotion: “In
+    spirit fervent” (Rom. 12:11). Who also spreads joy and spiritual happiness:
+    “Justice, and peace, and joy in the Holy Ghost” (Rom. 14:17). Who, moreover,
+    makes men speak out boldly: “And they were all filled with the Holy Ghost;
+    and they began to speak with diverse tongues, according as the Holy Ghost
+    gave them to speak” (Ac. 2:4), so that those who heard them thought they
+    were drunk (Ac. 2:13).
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    But do we possess the Holy Spirit by our own power? reply and say that the
+    Holy Spirit is possessed in two ways. Either he is had receptively, and it
+    is not in our power to receive him, rather we accept him as a gift from God:
+    “the charity of God is poured forth in our hearts, by the Holy Ghost, who is
+    given to us” (Rom. 5:5). Or he is possessed dispositively, and even here we
+    are not capable of receiving him since we cannot dispose ourselves without
+    the grace of God: “Not that we are sufficient to think any thing of
+    ourselves, as of ourselves; but our sufficiency is from God” (2 Cor. 3:5).
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    Or, someone may be said to receive the Holy Spirit, and nonetheless not be
+    full of the Holy Spirit. He has the grace of the Holy Spirit in reference to
+    certain aspects of his life, but not in reference to every one of his
+    actions. Then is he said to be full of the Holy Spirit when he avails
+    himself of the Spirit in all be does.
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    The way to be filled is found in the love of God and one’s fellow men. Thus
+    when he says
+    <span style="font-weight: bold">speaking to yourselves in Psalms</span> (v.
+    19):
+  </p>
+  <p style="text-align: justify; margin-left: 0.259167in">
+    First, he touches on the way of being filled in relation to God.
+  </p>
+  <p
+    style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in"
+  >
+    Secondly, in relation to one’s fellow man (5:21).
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    Concerning the first of these he does three things:
+  </p>
+  <p style="text-align: justify; margin-left: 0.259167in">
+    First, he prescribes spiritual meditation.
+  </p>
+  <p style="text-align: justify; margin-left: 0.259167in">
+    Secondly, he speaks of spiritual exultation (5:19b).
+  </p>
+  <p
+    style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in"
+  >
+    Thirdly, comes the thanksgiving (5:20).
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    The first has two parts:
+  </p>
+  <p style="text-align: justify; margin-left: 0.259167in">
+    First, he writes of the manner of the meditation.
+  </p>
+  <p
+    style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in"
+  >
+    Secondly, the subject matter of it (5:19a).
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    There are two ways of speaking to yourselves. One is external, of a man
+    talking to other men; another is interior, of a man speaking to himself.
+    This latter ought to be repentant: I will speak in the bitterness of my
+    soul” (Job 10:1). And it ought to be done in secret: “when you pray, enter
+    your chamber and, having shut the door, pray to your Father in secret” (Mt.
+    6:6). “When I go into my house, I shall repose myself with her [wisdom]”
+    (Wis. 8:16).
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    He then touches on the subject-matter of meditative prayer when he says
+    <span style="font-weight: bold"
+      >in psalms and hymns and spiritual canticles</span
+    >. To sing is to make use of the psaltery; and thus in psalms, that is, in
+    good works. “Take a psalm, and bring hither the timbrel: thepleasant
+    psaltery with the harp” (Ps. 80:3). And hymns, that is, by the divine
+    praises: “A hymn to all. his saints” (Ps. 148:14); and
+    <span style="font-weight: bold">spiritual canticles</span> concerning the
+    hope of eternal realities: “Rejoicing in hope” (Rom. 12:12); “Upon the ten
+    stringed psaltery, with a canticle upon the harp” (Ps. 91:4), “sing ye to
+    the Lord a new canticle, because he hath done wonderful things” (Ps. 97:1).
+    Hence we meditate on honest actions and what we should do; on the divine
+    praise and what we should imitate; and on the joy of heaven and what we
+    should render homage to, and how.
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    The first effect of the Holy Spirit is a holy meditation, and the second is
+    a spiritual exultation; from frequent meditation the fire of charity is
+    enkindled in the heart. “My heart grew hot within me: and in my meditation a
+    fire shall flame out” (Ps. 38:4). And from this a spiritual joy is born
+    within the heart; thus he mentions
+    <span style="font-weight: bold">singing and making melody</span> so that our
+    will would be stirred by spiritual joys to undertake good works. I will sing
+    with the spirit, I will sing also with the understanding” (1 Cor. 14:15).
+    “In all wisdom teaching and admonishing one another in psalms, hymns, and
+    spiritual canticles, singing in grace in your hearts to God” (Col. 3:16).
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    This refutes the error of those heretics who claim that it is useless to
+    sing vocal canticles to the Lord; that only spiritual ones matter. In the
+    praises of the Church there is an essential element to consider, what the
+    Apostle refers to as <span style="font-weight: bold">in your hearts</span>.
+    Yet there is another element [the external expression in song] which has a
+    twofold purpose. One is that it is for us, to stimulate our minds to an
+    interior devotion. If someone is rather moved to frivolity or vain glory by
+    it, this is contrary to the Church’s intention. Its second purpose is for
+    others, since by it the illiterate become more devout: “And when the
+    minstrel played, the hand of the Lord came upon him” (2 Kgs. 3:15).”
+    <a href="javascript:WPShow('WPFootnote7',%20WPFootnote7%20)"
+      ><img
+        src="footnoteicon.gif"
+        alt="Footnote"
+        width="16"
+        height="14"
+        border="0"
+    /></a>
+    <script type="text/javascript" language="javascript">
+      if (bInlineFloats) {
+        document.write('<span id="WPFootnote7" class="WPFloatStyle">');
+        document.write(WPFootnote7);
+        document.write(
+          "<br><a href=\"javascript:WPHide('WPFootnote7')\">Close<\/a>"
+        );
+        document.write("<\/span>");
+      }
+    </script>
+  </p>
+
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    The third effect is thanksgiving because, when someone is influenced in
+    these ways toward God, he recognizes that everything he has is from God. For
+    the more a person is affected by his relation to God and knows him, the more
+    does he see God as greater while he himself becomes smaller, indeed almost
+    nothing, in comparison with God. “Now my eye seeth you. Therefore do I
+    reprehend myself, and do penance in dust and ashes” (Job 42:5-6). So he
+    declares
+    <span style="font-weight: bold">giving thanks always for all things</span>,
+    for all his gifts, whether of prosperity or adversity. “I will bless the
+    Lord at all times; his praise shall be always in my mouth” (Ps. 33:1). For
+    adversities are also gifts to us on the way: “Count it all joy when you
+    shall fall into divers temptations” (Jas. 1:2). And the Apostles “indeed
+    went from the presence of the council, rejoicing that they were accounted
+    worthy to suffer reproach for the name of Jesus” (Ac. 5:41). “In all things
+    give thanks” (1 Thess. 5:18).
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    This is
+    <span style="font-weight: bold">in the name of our Lord Jesus Christ</span>
+    since all blessings come through him. “Let us have peace with God, through
+    our Lord Jesus Christ; by whom also we have access through faith into this
+    grace” (Rom. 5:1-2). Yet he adds
+    <span style="font-weight: bold">to God</span> inasmuch as he is our maker
+    through creation,
+    <span style="font-weight: bold">and the Father</span> since he sent Christ
+    to us through whom he regenerated us. Thus we give thanks to him as God
+    regarding the goods of nature, and to him as Father in reference to the
+    goods of grace.
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    He sets down the way of being filled [by the Spirit] in relation to one’s
+    fellow men by saying
+    <span style="font-weight: bold"
+      >being subject one to another, in the fear of Christ</span
+    >, that is, not out of a human fear but from a reverence for Christ.
+  </p>
+  <p style="margin-bottom: 0.125in; margin-bottom: 0.125in">
+    <a name="8" id="8">
+      <p style="text-align: center; margin-bottom: 0.125in">
+        <span style="font-weight: bold">CHAPTER 5</span>
+      </p>
+      <p style="text-align: center; margin-bottom: 0.125in">
+        <span style="font-weight: bold">LECTURE 8</span>
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >22 Let women be subject to their husbands as to a lord;</span
+        >
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >23 Because the husband is the head of the wife, as Christ is the head
+          of the church. He is the saviour of his body.</span
+        >
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >24 Therefore, as the church is subject to Christ, so also let the
+          wives be to their husbands in all things.</span
+        >
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >25 Husbands, ldve your wives, as Christ also loved the church and
+          delivered himself up for it;</span
+        >
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >26 That he might sanctify it, cleansing it by the laver of water mi
+          the word of life;</span
+        >
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >27 That he might present it to himself, a glorious church, not having
+          spot or wrinkle or any such thing, but that it should be holy and
+          without blemish.</span
+        >
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        <span style="font-size: 10pt"
+          >28a So also ought men to love their wives as their own bodies.</span
+        >
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Up until now the Apostle has set down general precepts applicable to
+        everyone (4:17), at this point he expresses those which pertain to
+        particular persons or classes. According to the Philosopher in his
+        <i>Politics</i>, a home must possess three relationships if it is to be
+        complete, namely, that of the husband and wife, of the father and the
+        children, and that between the master and his servants. Hence these
+        three are dealt with when the Apostle instructs:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, the husband and wife.
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        Secondly, the father and child (6: 1).
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Thirdly, the servants and masters (6:5).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        The first has two divisions:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he cautions the women to be subject.
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Secondly, he admonishes the men to love (5:25).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        The first is again twofold:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he gives an admonition.
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Secondly, he explains the reason for it (5:23).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Hence he states:
+        <span style="font-weight: bold"
+          >Let women be subject to their husbands</span
+        >
+        because “a woman, if she have superiority, is contrary to her husband”
+        as Ecclesiasticus 25 (30) affirms. So he especially warns them about
+        subjection. This is
+        <span style="font-weight: bold">as to a lord</span> since the relation
+        of a husband to his wife is, in a certain way, like that of a master to
+        his servant, insofar as the latter ought to be governed by the commands
+        of his master. The difference between these two relationships is that
+        the master employs his servants in whatever is profitable to himself;
+        but a husband treats his wife and children in reference to the common
+        good. Thus he mentions
+        <span style="font-weight: bold">as to a lord</span>; the husband is not
+        really a lord, but is as a lord. “Let wives be subject to their
+        husbands” (1 Pet. 3:1).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Next, he adds his reason; regarding it he makes three points:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he offers it for consideration.
+      </p></a
+    >
+  </p>
+
+  <p style="text-align: justify; margin-left: 0.259167in">
+    <a name="8" id="8">Secondly, he introduces an example (v. 23b).</a>
+    <a href="javascript:WPShow('WPFootnote8',%20WPFootnote8%20)"
+      ><img
+        src="footnoteicon.gif"
+        alt="Footnote"
+        width="16"
+        height="14"
+        border="0"
+    /></a>
+    <script type="text/javascript" language="javascript">
+      if (bInlineFloats) {
+        document.write('<span id="WPFootnote8" class="WPFloatStyle">');
+        document.write(WPFootnote8);
+        document.write(
+          "<br><a href=\"javascript:WPHide('WPFootnote8')\">Close<\/a>"
+        );
+        document.write("<\/span>");
+      }
+    </script>
+  </p>
+
+  <p
+    style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in"
+  >
+    Thirdly, from the example he draws his conclusion (v. 24).
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    The reason for this subjection is that the husband is the bead of the wife,
+    and the sense of sight is localized in the head—“The eyes of a wise man are
+    in his head” (Eccl. 2:14)—and hence a husband ought to govern his wife as
+    her head. “The head of the woman is the man” (1 Cor. 11:3). Then he brings
+    in his example when he says:
+    <span style="font-weight: bold">as Christ is the head of the church</span>.
+    God “has made him head over all the church, which is his body” (Eph.
+    1:22-23). This is not for his own utility, but for that of the Church since
+    <span style="font-weight: bold">he is the saviour of his body</span>. “For
+    there is no other name under heaven given to men, whereby we must be saved”
+    (Ac. 4:12). “Behold, God is my saviour; I will deal confidently and will not
+    fear” (Is. 12:2).
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    From this he draws the conclusion he intended, saying
+    <span style="font-weight: bold"
+      >Therefore, as the church is subject to Christ.</span
+    >
+    As though he said: It is not proper for an organ to rebel against its head
+    in any situation; but as Christ is head of the church in his own way, so a
+    husband is the head of his wife; therefore the wife must be obedient to her
+    husband
+    <span style="font-weight: bold">as the church is subject to Christ</span>.
+    “Shall not my soul be subject to God?” (Ps. 61:2),
+    <span style="font-weight: bold"
+      >so also let the wives be to their husbands</span
+    >. “And you shall be under your husband’s power” (Gen. 3:16),
+    <span style="font-weight: bold">in all things</span> which are not contrary
+    to God, for Acts 5 (29) affirms: “We ought to obey God rather than men.”
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    After this he admonishes the husbands that they are to love their wives.
+  </p>
+  <p style="text-align: justify; margin-left: 0.259167in">
+    First, he does this.
+  </p>
+  <p
+    style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in"
+  >
+    Secondly, he gives his reason (5:25b).
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    He states:
+    <span style="font-weight: bold">Husbands, love your wives.</span> For
+    certainly it is from the love he has for his wife that he will live more
+    chastely and both of them will enjoy a peaceful relationship. If he should
+    love another more than his own wife, he exposes both himself and his wife to
+    the possibility of sin. “Husbands, love your wives and be not bitter towards
+    them” (Col. 3:19).
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    He then treats of the threefold reason for this.
+  </p>
+  <p style="text-align: justify; margin-left: 0.259167in">
+    First, one springs from the example of Christ (v. 25b).
+  </p>
+  <p style="text-align: justify; margin-left: 0.259167in">
+    Secondly, another comes from the husband himself (5:28b).
+  </p>
+  <p
+    style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in"
+  >
+    Thirdly, another from a divine commandment (5:31).
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    Concerning the first he does three things:
+  </p>
+  <p style="text-align: justify; margin-left: 0.259167in">
+    First, he offers the example of Christ’s love.
+  </p>
+  <p style="text-align: justify; margin-left: 0.259167in">
+    Secondly, then the sign of that love (5:25b-27).
+  </p>
+  <p
+    style="text-align: justify; margin-left: 0.259167in; margin-bottom: 0.125in"
+  >
+    Thirdly, finally he deduces his intended conclusion (5:28a).
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    Thus he says:
+    <span style="font-weight: bold">as Christ also loved the church</span>; “Be
+    ye therefore followers of God, as most dear children; and walk in love, as
+    Christ also hath loved us and hath delivered himself for us” (Eph. 5:1-2).
+    The sign of Christ’s love for the church is that
+    <span style="font-weight: bold">he delivered himself up for it</span>. “The
+    Son of God who loved me and delivered himself for me” (Gal. 2:20). “He hath
+    delivered his soul unto death” (Is. 53:12). And for what?
+    <span style="font-weight: bold">That he might sanctify it</span>: Wherefore
+    Jesus also, that he might sanctify the people by his own blood, suffered
+    without the gate” (Heb. 13:12). “Sanctify them in truth” (Jn. 17:17); that
+    is the effect of Christ’s death.
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    As a result of this sanctification he cleanses it from the stains of sin.
+    Hence he adds
+    <span style="font-weight: bold">cleansing it by the laver of water</span>.
+    This washing has a power from the passion of Christ. “All we who are
+    baptized in Christ Jesus are baptized in his death; for we are buried
+    together with him by baptism into deatY’ (Rom. 6:3-4). “And I will pour upon
+    you clean water and you shall be cleansed from all your filthiness” (Ez.
+    36:25). “There shall be a fountain open to the house of David and to the
+    inhabitants of Jerusalem; for the washing of the sinner and of the unclean
+    woman” (Zach. 13:1). This occurs
+    <span style="font-weight: bold">in the word of life</span> which, coming
+    upon the water, gives it the power to cleanse: “Going, therefore, teach ye
+    all nations; baptizing them in the name of the Father and of the Son and of
+    the Holy Spirit” (Mt. 28:19).
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    The goal of this sanctifying action is the Church’s purity. Thus he states
+    <span style="font-weight: bold"
+      >that he might present it to himself, a glorious church</span
+    >; as if the Apostle said: It would be highly improper for the immaculate
+    bridegroom to wed a soiled bride. This is why he presents her to himself in
+    an immaculate state, now through grace and in the future through glory.
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    Regarding the latter, he says
+    <span style="font-weight: bold">glorious</span> by the clarity of both body
+    and soul. For “he will reform the body of our lowness, made like to the body
+    of his glory” (Phil. 3:21). Hence he adds
+    <span style="font-weight: bold">not having spot</span>: “the man that walked
+    in the perfect way, he served me” (Ps. 100:6); “blessed are the undeffled in
+    the way: who walk in the law of the Lor&amp;’ (Ps. 118: 1).
+    <span style="font-weight: bold">Or wrinkle</span> refers to the lack of
+    suffering since, as the Apocalypse 7 (16) remarks: “they shall no more
+    hunger nor thirst,”
+    <span style="font-weight: bold"
+      >or any such thing, but that it should be holy</span
+    >
+    through its confirmation in grace,
+    <span style="font-weight: bold">and without</span> the
+    <span style="font-weight: bold">blemish</span> of any defilement. Thus all
+    of these characteristics can be understood of the appearance of the Church
+    in the future through glory.
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    But if they are taken to refer to her appearance through faith, then he
+    would be saying:
+    <span style="font-weight: bold">that he might present to himself</span>,
+    through faith, <span style="font-weight: bold">a glorious church</span>,
+    since “it is a great glory to follow the Lord7 (Sirach 23:38),
+    <span style="font-weight: bold">not having</span> a
+    <span style="font-weight: bold">spot</span> of mortal sin. “Thou are stained
+    in thy iniquity” (Jer. 2:22). Nor does it have a
+    <span style="font-weight: bold">wrinkle</span>, that is, a duplicity of
+    purpose which those who are rightly united with Christ and the Church do not
+    have. “My wrinkles bear witness against me” (job 16:9).
+    <span style="font-weight: bold">But</span> rather
+    <span style="font-weight: bold">that it should be holy</span> through its
+    aspiration and
+    <span style="font-weight: bold">without blemish</span> through every kind of
+    purity.
+  </p>
+  <p style="text-align: justify; margin-bottom: 0.125in">
+    From the above he, in the third place, draws the conclusion he intended by
+    affirming:
+    <span style="font-weight: bold"
+      >So also ought men to love their wives as their own bodies.</span
+    >
+  </p>
+  <p style="margin-bottom: 0.125in; margin-bottom: 0.125in">
+    <a name="9" id="9">
+      <p style="text-align: center; margin-bottom: 0.125in">
+        <span style="font-weight: bold">CHAPTER 5</span>
+      </p>
+      <p style="text-align: center; margin-bottom: 0.125in">
+        <span style="font-weight: bold">LECTURE 9</span>
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >28b He that loveth his wife loveth himself.</span
+        >
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >29 For no man ever hated his own flesh, but nourisbeth and cherisheth
+          it, as also Christ doth the church;</span
+        >
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        <span style="font-size: 10pt"
+          >30 Because we are members of his body, of his flesh and of his
+          bones.</span
+        >
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Above he urged husbands to love their wives, he appealed to Christ and
+        to the example of Christ’s love for the church (5:25). Here he
+        demonstrates the same thing from the point of view of the husband
+        himself. He makes two points:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he gives the reason.
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Secondly, he verifies it through an example (5:29b).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        The reason is as follows. A husband and wife are somehow one; hence, as
+        the flesh is subject to the soul, so is the wife to the husband; but no
+        one ever held his own flesh in contempt, therefore neither should anyone
+        his wife. Whence he states
+        <span style="font-weight: bold"
+          >He who loves his wife loves himself</span
+        >. “Therefore, now they are not two, but one flesh” (Mt. 19:6). just as
+        a man sins against nature in hating himself, so does he who hates his
+        wife. ‘With three things my spirit is pleased, which are approved before
+        God and men: the concord of brethren, and the love of neighbors, and man
+        and wife that agree well together” (Sirach 25:1-2).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        He proves that they ought to love one another in saying
+        <span style="font-weight: bold"
+          >For no man ever hated his own flesh</span
+        >. This love is evident in what happens since “love is verified when it
+        is expressed in action.” For we love anything whose powers we sustain.
+        <span style="font-weight: bold">But</span> everyone
+        <span style="font-weight: bold"
+          >nourishes and cherishes his own flesh</span
+        >
+        in order to sustain it. “But, having food and wherewith to be covered,
+        with these we are content” (1 Tim. 6:8).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        But is not this contrary to Luke 14 (26): “If any man come to me, and
+        hate not his father and mother and wife and children and brethren and
+        sisters, yes and his own life also, he cannot be my disciple?” I reply.
+        The Apostle affirms that a man ought to love his wife as he does
+        himself; but he must love himself less than God; hence he should also
+        love his wife less than God. In stating “he who does not hate his wife,”
+        he is not commanding that she be hated—which would be to command a
+        mortal sin—but that she be loved as the man loves himself. Now love in a
+        lesser degree is like a certain hatred in comparison with whatever is
+        loved most or to a greater degree, in this case, God.
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Likewise,
+        <span style="font-weight: bold"
+          >no man ever hated his own flesh, but nourishes and cherishes
+          it.</span
+        >
+        But there are objections to this. When anyone loves something he never
+        wants nor desires to be separated from it. Yet the saints wanted to be
+        separated from the flesh. “Unhappy man that I am, who shall deliver me
+        from the body of this death?” (Rom. 7:24), “having a desire to be
+        dissolved and to be with Chrisf’ (Phil. 1:23). Besides, nobody afflicts
+        what he loves, but the saints punished their flesh while they were in
+        this world. “I chastise my body and bring it into subjection” (1 Cor.
+        9:27). Moreover, some people even kill themselves, as is frequently
+        heard of. Judas did it.
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        I reply. The flesh, when considered in itself, is not held in contempt,
+        but everyone naturally wants it to exist and nourishes it for this end.
+        On the other hand ‘ the flesh can be considered as an obstacle to what
+        we will, and thus, through circumstance (per accidens), it can be
+        detested in a certain way. For everything that we will is either good or
+        evil. If good, it may be the ultimate end, eternal life, from which we
+        are held back by the flesh. “While we are in the body we are absent from
+        the Lord” (2 Cor. 5:6). And since we naturally desire our fulfillment
+        and well-being—nor can we enjoy these while we are in the flesh—we will
+        to discard it, not as an evil held in contempt, but as a good we love
+        less than the greater good it impedes. The authoritative texts quoted
+        above, and others like them, are to be explained in this way.
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Or, we may will a good that is not the end, but disposes for the end;
+        for example, virtuous habits. But this type of good is opposed by the
+        immoral tendencies of the flesh. On this account do the saints
+        discipline and punish their flesh in order that it might submit to the
+        spirit for the curbing of sensual desires. For, in desiring such, the
+        flesh blocks our acquisition of the virtues which dispose us for the
+        ultimate good. Therefore, whoever punishes his flesh that it might
+        submit to his spirit does not hate it, but rather obtains its own good
+        which is that it be subject to the spirit-just as the good of man is to
+        be subject to God: “it is good for me to adhere to my God” (Ps. 72:28).
+        “I chastise my body...” and similar passages are to be understood in
+        this way. This would not have been necessary in the state of innocence
+        as long as man was subject to God, and the flesh totally submissive to
+        the spirit; the gift of original justice consisted precisely in this
+        mutual submission.
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        On the other hand we sometimes will what is evil. Hence, just as holy
+        persons discipline, or wish to discard, their flesh inasmuch as it is an
+        obstacle to the good they desire, so also the wicked, insofar as the
+        flesh blocks the evil they desire, will kill it and commit suicide, as
+        Judas did.
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Then he indicates that a man must love his wife through an example. Thus
+        he says, <span style="font-weight: bold">Christ also</span> loved
+        <span style="font-weight: bold">the Church</span> as something of his
+        very self
+        <span style="font-weight: bold">because we are members of his body</span
+        >. “For we are members one of another” (Eph. 4:25). He mentions
+        <span style="font-weight: bold">of his flesh</span> on account of his
+        sharing the same nature with us. “For a spirit hath not flesh and bones,
+        as you see me to have” (Lk. 24:39). Or, he says this mystically so that
+        <span style="font-weight: bold">of his flesh</span> refers to the weak
+        who are of the flesh, and
+        <span style="font-weight: bold">of his bones</span> would refer to the
+        strong who are hard as bone.
+      </p>
+      <p style="margin-bottom: 0.125in; margin-bottom: 0.125in"></p
+    ></a>
+
+    <a name="10" id="10">
+      <p style="text-align: center; margin-bottom: 0.125in">
+        <span style="font-weight: bold">CHAPTER 5</span>
+      </p>
+      <p style="text-align: center; margin-bottom: 0.125in">
+        <span style="font-weight: bold">LECTURE 10</span>
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >31 ‘Tor this cause shall a man leave his father and mother; and shall
+          cleave to his wife; and they shall be two in one flesh.”</span
+        >
+      </p>
+      <p style="text-align: justify">
+        <span style="font-size: 10pt"
+          >32 This is a great sacrament; but I speak in Christ and in the
+          church.</span
+        >
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        <span style="font-size: 10pt"
+          >33 Nevertheless, let every one of you in particular love his wife as
+          himself; and let the wife fear her husband.</span
+        >
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        The Apostle exhorted the Ephesians above to love their wives. He did
+        this in two ways: both by offering the example of Christ’s love for the
+        Church, and by the love a man has for himself (5:25), now he gives a
+        third encouragement drawn from the authority of Scripture. Regarding
+        this he does three things:
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        First, he brings in the authoritative text.
+      </p>
+      <p style="text-align: justify; margin-left: 0.259167in">
+        Secondly, he explains it mystically (5:32).
+      </p>
+      <p
+        style="
+          text-align: justify;
+          margin-left: 0.259167in;
+          margin-bottom: 0.125in;
+        "
+      >
+        Thirdly, he adapts it according to its literal meaning to the case in
+        question (5:33).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        The authoritative text is Genesis 2 (24); words spoken by Adam when be
+        saw his wife who had been formed from his rib. Yet does not this
+        contradict Matthew 19 (4-5) which states that God himself spoke these
+        words? I reply that Adam spoke them as inspired by God, and God spoke
+        them insofar as he was inspiring and teaching Adam. We use the same
+        expressions; there are many words which the Lord spoke by those whom the
+        spirit of God instructed; so Matthew 10 (20) affirms: “For it is not you
+        who speak, but the Spirit of your Father speaks in you.”
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        It should be noted that in the above mentioned authority a threefold
+        union of a man and wife is designated. The first union is through the
+        devotion of their love, for it is strong enough in each that they both
+        left their fathers behind. “So a man loves his wife better than his
+        father or mother. Many have lost their heads completely for their wives”
+        (3 Esd. 4:25-26), and much more concerning this is stated there [in 3
+        Esd. 4]. But this is natural, for natural desires fit in harmoniously
+        with actions that must be performed. It is evident that a desire exists
+        in all higher agents that they administer to, and communicate with,
+        lower agents. Thus a natural love for the lower is present in them. Now
+        a man is an inferior in relation to his father and mother, he is not
+        higher than they; hence he is naturally more drawn towards his wife and
+        children, to whom he is superior, than to his parents. And also because
+        his wife is intimately united to him in the act of procreation.
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        The second union is through living together. Thus he says
+        <span style="font-weight: bold">and he shall cleave to his wife</span>.
+        “With three things my spirit is pleased, which are approved before God
+        and men: the concord of brethren, and the love of neighbors, and man and
+        wife that agree well together” (Sirach 25:1-2).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        The third is their carnal union—
+        <span style="font-weight: bold">and they shall be two in one flesh</span
+        >, that is, in their carnal intercourse. For in any act of generation
+        there is an active and a passive power. In plants both powers are in the
+        same [plant], but in the perfect animals they are distinguished. And
+        hence in the act of generation among animals the male and female become,
+        as in plants, only one and the same body.158
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        He goes on to interpret this mystically, and he says
+        <span style="font-weight: bold">This is a great sacrament</span>, it is
+        the symbol of a sacred reality, namely, the union of Christ and the
+        Church. “I will not hide from you the mysteries of God” (Wis. 6:24).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Notice here that four Sacraments are termed great. Baptism by reason of
+        its effect, since it blots out sin and opens the gate of paradise;
+        Confirmation by reason of its minister, it is conferred only by bishops
+        and not by others; the Eucharist because of what it contains, the Whole
+        Christ; and Matrimony by reason of its signification, for it symbolizes
+        the union of Christ and the Church. If, therefore, the text is
+        mystically interpreted, the preceding passage should be explained as
+        follows:
+        <span style="font-weight: bold">For this cause shall a man</span>,
+        namely, Christ,
+        <span style="font-weight: bold">leave his father and mother</span>. I
+        say <span style="font-weight: bold">leave his father</span>, because he
+        was sent into the world and became incarnate—“I came forth from the
+        Father and am come into the world” (Jn. 16:28)—
+        <span style="font-weight: bold">and his mother</span> who was the
+        synagogue—“I have forsaken my house, I have left my inheritance, I have
+        given my dear soul into the hand of her enemies” (Jer. 12:7).
+        <span style="font-weight: bold">And he shall cleave to his wife</span>,
+        the Church. “Behold, I am with you all days, even to the consummation of
+        the world” (Mt. 28:20).
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Next, the point is argued by interpreting the above example according to
+        its literal meaning. For there are certain passages in the Old Testament
+        which can be said only of Christ. For instance, Psalm 21 (17): “They
+        have dug my hands and feet: they have numbered all my bones”; or Isaias
+        7 (14): “Behold, a virgin shall conceive, and bear a son; and his name
+        shall be called Emmanuel.” Other passages, however, can be explained as
+        referring to Christ and others; to Christ principally, and to others as
+        they were types of Christ. The above example (Gen. 2:24) is of this
+        category.
+      </p>
+      <p style="text-align: justify; margin-bottom: 0.125in">
+        Thus it must first be interpreted in reference to Christ, and afterwards
+        concerning others. Hence he says
+        <span style="font-weight: bold"
+          >Nevertheless, let every one of you in particular love his wife</span
+        >, as though he asserted: The above example is principally related of
+        Christ, but not only about him since it must be interpreted and
+        fulfilled in other persons as types of Christ.” He states
+        <span style="font-weight: bold">as himself</span> because, just as
+        everyone loves himself in relation to God, so he ought to love his wife
+        in this way, and not inasmuch as she draws him into sin. “If any man
+        come to me, and hate not his father and mother and wife... he cannot be
+        my disciple” (Lk. 14:26). But what about the wife?
+        <span style="font-weight: bold">And let the wife fear her husband</span
+        >, with the fear of reverence and submission since she must be subject
+        to him.
+      </p></a
+    >
+  </p>
 </blockquote>
-<script type="text/javascript" src="/navbar.js"></script>
 
+<script type="text/javascript" src="/navbar.js"></script>
